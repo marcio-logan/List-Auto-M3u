@@ -1,0 +1,15 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K0MVEhG.png" ,1990 - AS TARTARUGAS NINJA
+http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/ASTARTGUSNJS1.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KnGsUS5.png" ,1991 - AS TARTARUGAS NINJA 2 O SEGREDO DO OOZE
+http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/ASTARTGUSNJS2.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z7BLDQ4.jpg" ,1992 - AS TARTARUGAS NINJA 3
+http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/ASTARTGUSNJS3.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/88EFIMm.jpg" ,2007 - AS TARTARUGAS NINJA O RETORNO
+http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/ASTARTGUSNJSDESENHO.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOMtS8R.jpg" ,2014 - AS TARTARUGAS NINJA
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ASTARTGUSNJS.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zDoLq9v.jpg" ,2016 - AS TARTARUGAS NINJA FORA DAS SOMBRAS
+http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/ASTARTGUSNJSFRDSSMBRS.mp4
+

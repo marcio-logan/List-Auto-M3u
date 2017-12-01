@@ -1,0 +1,11 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/saqOXjC.jpg" ,2012 - JOGOS VORAZES
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JGSVRZS.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9gfIL5i.jpg" ,2013 - JOGOS VORAZES: EM CHAMAS
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JGSVRZSEMCHMS.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pEtkQ6G.jpg" ,2014 - JOGOS VORAZES: A ESPERANÇA |PARTE 1|
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JGSVRZSAESPRPT1.mp4
+#EXTINF:-1 ,2015 - JOGOS VORAZES: A ESPERANÇA |O FINAL|
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/JGSVRZSAESPRPT2.mp4
+

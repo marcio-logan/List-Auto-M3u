@@ -1,0 +1,23 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://goo.gl/02Qrsz" group-title="T1 - Camelot LEG",1x01L Camelot: Homecoming
+http://vd.ec.cx/vd/dd/RC/RCServer04/ondemand/CMLTS01EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/02Qrsz" group-title="T1 - Camelot LEG",1x02L Camelot: The Sword And The Crown
+http://vd.ec.cx/vd/dd/RC/RCServer04/ondemand/CMLTS01EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/02Qrsz" group-title="T1 - Camelot LEG",1x03L Camelot: Guinevere
+http://vd.ec.cx/vd/dd/RC/RCServer04/ondemand/CMLTS01EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/02Qrsz" group-title="T1 - Camelot LEG",1x04L Camelot: Lady of the Lake
+http://vd.ec.cx/vd/dd/RC/RCServer04/ondemand/CMLTS01EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/02Qrsz" group-title="T1 - Camelot LEG",1x05L Camelot: Justice
+http://vd.ec.cx/vd/dd/RC/RCServer04/ondemand/CMLTS01EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/02Qrsz" group-title="T1 - Camelot LEG",1x06L Camelot: Three Journeys
+http://vd.ec.cx/vd/dd/RC/RCServer04/ondemand/CMLTS01EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/02Qrsz" group-title="T1 - Camelot LEG",1x07L Camelot: The Long Night
+http://vd.ec.cx/vd/dd/RC/RCServer04/ondemand/CMLTS01EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/02Qrsz" group-title="T1 - Camelot LEG",1x08L Camelot: Igraine
+http://vd.ec.cx/vd/dd/RC/RCServer04/ondemand/CMLTS01EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/02Qrsz" group-title="T1 - Camelot LEG",1x09L Camelot: The Battle of Bardon Pass
+http://vd.ec.cx/vd/dd/RC/RCServer04/ondemand/CMLTS01EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/02Qrsz" group-title="T1 - Camelot LEG",1x10L Camelot: Reckoning - ONSeason Finale
+http://vd.ec.cx/vd/dd/RC/RCServer04/ondemand/CMLTS01EP10.mp4
+

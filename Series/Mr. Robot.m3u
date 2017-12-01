@@ -1,0 +1,23 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://goo.gl/FVvI0d" group-title="T1 - Mr. Robot",Mr. Robot 1x01 _hellofriend.mov
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/MROBT01EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/FVvI0d" group-title="T1 - Mr. Robot",Mr. Robot 1x02 _ones-and-zer0es.mpeg
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/MROBT01EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/FVvI0d" group-title="T1 - Mr. Robot",Mr. Robot 1x03 _d3bug.mkv
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/MROBT01EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/FVvI0d" group-title="T1 - Mr. Robot",Mr. Robot 1x04 _da3m0ns.mp4?ONSeries
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/MROBT01EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/FVvI0d" group-title="T1 - Mr. Robot",Mr. Robot 1x05 _3xpl0its.wmv
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/MROBT01EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/FVvI0d" group-title="T1 - Mr. Robot",Mr. Robot 1x06 ONS_br4ve-trave1er.asf
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/MROBT01EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/FVvI0d" group-title="T1 - Mr. Robot",Mr. Robot 1x07 _v1ew-s0urce.mp4
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/MROBT01EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/FVvI0d" group-title="T1 - Mr. Robot",Mr. Robot 1x08 _wh1ter0se.m4v
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/MROBT01EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/FVvI0d" group-title="T1 - Mr. Robot",Mr. Robot 1x09 _m1rr0r1ng.qt
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/MROBT01EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/FVvI0d" group-title="T1 - Mr. Robot",Mr. Robot 1x10 _zer0-day.avi - ONSeason Finale
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/MROBT01EP10.mp4
+

@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eB0wNCb.jpg" ,1978 - SUPERMAN - O FILME
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SPRMN1.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iodGtKgl.jpg" ,1980 - SUPERMAN 2 - A AVENTURA CONTINUA
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SPRMN2.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wZaaiD4.jpg" ,1983 - SUPERMAN 3
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SPRMN3.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tuIRFXz.jpg" ,1987 - SUPERMAN 4 - EM BUSCA DA PAZ
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SPRMN4.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gSQApSn.jpg" ,2006 - SUPERMAN: O RETORNO
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SPRMNORTN.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O4hrZyp.jpg" ,2006 - SUPERMAN - FILME - BRAINIAC ATACA
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SPRMNFILME01.mp4
+#EXTINF:-1 ,2008 - A MORTE DO SUPERMAN
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AMRTDSPNM.mp4
+#EXTINF:-1 ,2011 - GRANDES ASTROS SUPERMAN
+http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/GRNDSASTRSPRMN.mp4
+#EXTINF:-1 ,2012 - SUPERMAN CONTRA A ELITE
+http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/SPRMNCNTRAELT.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xCVWJ9p.jpg" ,2013 - O HOMEM DE AÇO
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OHMNDACO.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0Doajuy.jpg" ,2013 - SUPERMAN: SEM LIMITES
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SPRMNSLMTS.mp4
+

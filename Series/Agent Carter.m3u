@@ -1,0 +1,39 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://goo.gl/OsXwuv" group-title="T1 - Agent Carter",1x01 Agent Carter: Pilot
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/AGNTCRTRT01EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/OsXwuv" group-title="T1 - Agent Carter",1x02 Agent Carter: Bridge and Tunnel
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/AGNTCRTRT01EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/OsXwuv" group-title="T1 - Agent Carter",1x03 Agent Carter: Time & Tide
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/AGNTCRTRT01EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/OsXwuv" group-title="T1 - Agent Carter",1x04 Agent Carter: The Blitzkrieg Button
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/AGNTCRTRT01EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/OsXwuv" group-title="T1 - Agent Carter",1x05 Agent Carter: The Iron Ceiling
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/AGNTCRTRT01EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/OsXwuv" group-title="T1 - Agent Carter",1x06 Agent Carter: A Sin to Err
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/AGNTCRTRT01EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/OsXwuv" group-title="T1 - Agent Carter",1x07 Agent Carter: Snafu
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/AGNTCRTRT01EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/OsXwuv" group-title="T1 - Agent Carter",1x08 Agent Carter: Valediction - ONSeason Finale
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/AGNTCRTRT01EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/OsXwuv" group-title="T2 - Agent Carter",2x01 Agent Carter: The Lady in the Lake
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/AGNTCRTRT02EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/OsXwuv" group-title="T2 - Agent Carter",2x02 Agent Carter: A View in the Dark
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/AGNTCRTRT02EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/OsXwuv" group-title="T2 - Agent Carter",2x03 Agent Carter: Better Angels
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/AGNTCRTRT02EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/OsXwuv" group-title="T2 - Agent Carter",2x04 Agent Carter: Smoke & Mirrors
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/AGNTCRTRT02EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/OsXwuv" group-title="T2 - Agent Carter",2x05 Agent Carter: The Atomic Job
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/AGNTCRTRT02EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/OsXwuv" group-title="T2 - Agent Carter",2x06 Agent Carter: Life of the Party
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/AGNTCRTRT02EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/OsXwuv" group-title="T2 - Agent Carter",2x07 Agent Carter: Monsters
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/AGNTCRTRT02EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/OsXwuv" group-title="T2 - Agent Carter",2x08 Agent Carter: The Edge of Mystery
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/AGNTCRTRT02EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/OsXwuv" group-title="T2 - Agent Carter",2x09 Agent Carter: A Little Song and Dance
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/AGNTCRTRT02EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/OsXwuv" group-title="T2 - Agent Carter",2x10 Agent Carter: Hollywood Ending - ONSeason Finale
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/AGNTCRTRT02EP10.mp4
+

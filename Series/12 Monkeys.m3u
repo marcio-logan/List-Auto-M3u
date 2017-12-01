@@ -1,0 +1,29 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://goo.gl/8W77t1" group-title="T1 - 12 Monkeys",1x01 12 Monkeys: Pilot
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/12MONKS01EP01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/8W77t1" group-title="T1 - 12 Monkeys",1x02 12 Monkeys: Mentally Divergent
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/12MONKT01EP02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/8W77t1" group-title="T1 - 12 Monkeys",1x03 12 Monkeys: Cassandra Complex
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/12MONKS01EP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/8W77t1" group-title="T1 - 12 Monkeys",1x04 12 Monkeys: Atari
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/12MONKS01EP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/8W77t1" group-title="T1 - 12 Monkeys",1x05 12 Monkeys: The Night Room
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/12MONKS01EP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/8W77t1" group-title="T1 - 12 Monkeys",1x06 12 Monkeys: The On Series Forest
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/12MONKS01EP06.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/8W77t1" group-title="T1 - 12 Monkeys",1x07 12 Monkeys: The Keys
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/12MONKS01EP07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/8W77t1" group-title="T1 - 12 Monkeys",1x08 12 Monkeys: Yesterday
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/12MONKS01EP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/8W77t1" group-title="T1 - 12 Monkeys",1x09 12 Monkeys: Tomorrow
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/12MONKS01EP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/8W77t1" group-title="T1 - 12 Monkeys",1x10 12 Monkeys: Divine Move
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/12MONKS01EP10.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/8W77t1" group-title="T1 - 12 Monkeys",1x11 12 Monkeys: Shonin
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/12MONKS01EP11.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/8W77t1" group-title="T1 - 12 Monkeys",1x12 12 Monkeys: Paradox
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/12MONKS01EP12.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/8W77t1" group-title="T1 - 12 Monkeys",1x13 12 Monkeys: Arms of Mine - ONSeason Finale
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/12MONKS01EP13.mp4
+

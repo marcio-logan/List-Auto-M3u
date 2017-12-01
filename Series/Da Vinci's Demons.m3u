@@ -1,0 +1,39 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="T1 - Da Vinci's Demons",1x01 Da Vinci's Demons: The Hanged Man
+http://vd.ec.cx/vd/dd/RC/RCServer04/ondemand/DVNCDMST01EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="T1 - Da Vinci's Demons",1x02 Da Vinci's Demons: The Serpent
+http://vd.ec.cx/vd/dd/RC/RCServer05/ondemand/DVNCDMST01EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="T1 - Da Vinci's Demons",1x03 Da Vinci's Demons: The Prisoner
+http://vd.ec.cx/vd/dd/RC/RCServer05/ondemand/DVNCDMST01EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="T1 - Da Vinci's Demons",1x04 Da Vinci's Demons: The Magician
+http://vd.ec.cx/vd/dd/RC/RCServer05/ondemand/DVNCDMST01EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="T1 - Da Vinci's Demons",1x05 Da Vinci's Demons: The "OnS" Tower
+http://vd.ec.cx/vd/dd/RC/RCServer05/ondemand/DVNCDMST01EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="T1 - Da Vinci's Demons",1x06 Da Vinci's Demons: The Devil
+http://vd.ec.cx/vd/dd/RC/RCServer05/ondemand/DVNCDMST01EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="T1 - Da Vinci's Demons",1x07 Da Vinci's Demons: The Hierophant
+http://vd.ec.cx/vd/dd/RC/RCServer05/ondemand/DVNCDMST01EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="T1 - Da Vinci's Demons",1x08 Da Vinci's Demons: The Lovers - ONSeason Finale
+http://vd.ec.cx/vd/dd/RC/RCServer05/ondemand/DVNCDMST01EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="T2 - Da Vinci's Demons",2x01 Da Vinci's Demons: The Blood of Man
+http://vd.ec.cx/vd/dd/RC/RCServer08/ondemand/DVNCDMST02EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="T2 - Da Vinci's Demons",2x02 Da Vinci's Demons: The Blood of Brothers
+http://vd.ec.cx/vd/dd/RC/RCServer08/ondemand/DVNCDMST02EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="T2 - Da Vinci's Demons",2x03 Da Vinci's Demons: The Voyage of the Damned
+http://vd.ec.cx/vd/dd/RC/RCServer08/ondemand/DVNCDMST02EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="T2 - Da Vinci's Demons",2x04 Da Vinci's Demons: The Ends of the Earth
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/DVNCDMST02EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="T2 - Da Vinci's Demons",2x05 Da Vinci's Demons: The Sun and the Moon
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/DVNCDMST02EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="T2 - Da Vinci's Demons",2x06 Da Vinci's Demons: The Rope of the Dead
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/DVNCDMST02EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="T2 - Da Vinci's Demons",2x07 Da Vinci's Demons: The Vault of Heaven
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/DVNCDMST02EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="T2 - Da Vinci's Demons",2x08 Da Vinci's Demons: The Fall from Heaven
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/DVNCDMST02EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="T2 - Da Vinci's Demons",2x09 Da Vinci's Demons: The Enemies of Man
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/DVNCDMST02EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Oyshs7" group-title="T2 - Da Vinci's Demons",2x10 Da Vinci's Demons: The Sins of Daedalus - ONSeason Finale
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/DVNCDMST02EP10.mp4
+

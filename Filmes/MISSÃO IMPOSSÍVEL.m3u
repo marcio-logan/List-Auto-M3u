@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D603UUa.jpg" ,1996 - MISSÃO IMPOSSÍVEL
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MSAOIMPSVEL01.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dAnGidX.jpg" ,2000 - MISSÃO IMPOSSÍVEL 2
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MSAOIMPSVEL02.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I1iunAn.jpg" ,2006 - MISSÃO IMPOSSÍVEL 3
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MSAOIMPSVEL03.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rkxC4UX.jpg" ,2011 - MISSÃO IMPOSSÍVEL: PROTOCOLO FANTASMA
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MSAOIMPSVEL04.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yD9VLJV.jpg" ,2015 - MISSÃO IMPOSSÍVEL: NAÇÃO SECRETA
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/MSAOIMPSVEL05.mp4
+
