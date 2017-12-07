@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://goo.gl/hQDA5Q" group-title="T1 - Arrow",1x01 Arrow: Pilot
-http://vd.ec.cx/vd/dd/RC/RCServer07/ondemand/ARROWT01EP01.mp4
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer07/ondemand/ARROWT01EP01.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/hQDA5Q" group-title="T1 - Arrow",1x02 Arrow: Honor Thy Father
 http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer07/ondemand/ARROWT01EP02.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/hQDA5Q" group-title="T1 - Arrow",1x03 Arrow: Lone Gunmen
