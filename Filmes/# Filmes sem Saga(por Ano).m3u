@@ -4,8 +4,12 @@
 http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/1000ANSDPS.mp4
 #EXTINF:-1 group-title="2017",2017 - A BAILARINA
 http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/ABLRN.mp4
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/A%20Bela%20e%20a%20Fera.jpg" group-title="2017",2017 - A Bela e a Fera
+http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ABLEAFR.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/01/31/21/04/546636.jpg" group-title="2017",2017 - A Cabana
 http://assistir.querofilmehd.com/filmes/A.Cabana.2017.1080p.BluRay.x264.GECKOS.DUAL-SynysteR.mp4
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/A%20Colheita%20da%20F%C3%A9.jpg" group-title="2017",2017 - A Colheita da Fé
+http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ACLHTDFE.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/gITFmnq.jpg" group-title="2017",2017 - A DESCOBERTA
 http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/ADSCBRT.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/g2nNpWx.jpg" group-title="2017",2017 - A FABULOSA GILLY HOPKINS
@@ -734,6 +738,8 @@ http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SGNDSFTAIS.mp4
 http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SINAIS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ki7MIMY.jpg" group-title="2012",2012 - VIZINHOS IMEDIATOS DE 3° GRAU
 http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/VIZNHIMDATS.mp4
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/A%20Coisa.jpg" group-title="2011",2011 - A Coisa
+http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ACOISA.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rb023m0.jpg" group-title="2011",2011 - A FERA
 http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/AFERA.mp4
 #EXTINF:-1 group-title="2011",2011 - A LISTA
