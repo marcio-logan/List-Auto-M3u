@@ -1,0 +1,9 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Meu%20Malvado%20Favorito.jpg" ,2010 - Meu Malvado Favorito
+http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/MEMLVDFAV1.mp4
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Meu%20Malvado%20Favorito%202.jpg" ,2013 - Meu Malvado Favorito 2
+http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/MEMLVDFAV2.mp4
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Meu%20Malvado%20Favorito%203.jpg" ,2017 - Meu Malvado Favorito 3
+http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/MEMLVDFAV3.mp4
+
