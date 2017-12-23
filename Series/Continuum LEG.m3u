@@ -1,25 +1,25 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://goo.gl/xueyzA" group-title="T1 - Continuum LEG",1x01L Continuum: Um Ponto a Tempo
-http://vd.ec.cx/vd/dd/RC/RCServer02/ondemand/CONTS01EP01.mp4
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer02/ondemand/CONTS01EP01.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/xueyzA" group-title="T1 - Continuum LEG",1x02L Continuum: Tempos Rápido
-http://vd.ec.cx/vd/dd/RC/RCServer02/ondemand/CONTS01EP02.mp4
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer02/ondemand/CONTS01EP02.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/xueyzA" group-title="T1 - Continuum LEG",1x03L Continuum: Desperdiçando Tempo
-http://vd.ec.cx/vd/dd/RC/RCServer02/ondemand/CONTS01EP03.mp4
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer02/ondemand/CONTS01EP03.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/xueyzA" group-title="T1 - Continuum LEG",1x04L Continuum: Questão de Tempo
-http://vd.ec.cx/vd/dd/RC/RCServer02/ondemand/CONTS01EP04.mp4
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer02/ondemand/CONTS01EP04.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/xueyzA" group-title="T1 - Continuum LEG",1x05L Continuum: Um Teste do Tempo
-http://vd.ec.cx/vd/dd/RC/RCServer02/ondemand/CONTS01EP05.mp4
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer02/ondemand/CONTS01EP05.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/xueyzA" group-title="T1 - Continuum LEG",1x06L Continuum: Tempo Acima
-http://vd.ec.cx/vd/dd/RC/RCServer02/ondemand/CONTS01EP06.mp4
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer02/ondemand/CONTS01EP06.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/xueyzA" group-title="T1 - Continuum LEG",1x07L Continuum: A Política de Tempo
-http://vd.ec.cx/vd/dd/RC/RCServer02/ondemand/CONTS01EP07.mp4
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer02/ondemand/CONTS01EP07.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/xueyzA" group-title="T1 - Continuum LEG",1x08L Continuum: Hora de Recreio
-http://vd.ec.cx/vd/dd/RC/RCServer02/ondemand/CONTS01EP08.mp4
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer02/ondemand/CONTS01EP08.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/xueyzA" group-title="T1 - Continuum LEG",1x09L Continuum: Tempo Familia
-http://vd.ec.cx/vd/dd/RC/RCServer02/ondemand/CONTS01EP09.mp4
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer02/ondemand/CONTS01EP09.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/xueyzA" group-title="T1 - Continuum LEG",1x10L Continuum: Fim dos Tempos - ONSeason Finale
-http://vd.ec.cx/vd/dd/RC/RCServer02/ondemand/CONTS01EP10.mp4
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer02/ondemand/CONTS01EP10.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/xueyzA" group-title="T2 - Continuum LEG",2x01L Continuum: Segunda Chance
 http://vd.ec.cx/vd/dd/RC/RCServer04/ondemand/CONTS02EP01.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/xueyzA" group-title="T2 - Continuum LEG",2x02L Continuum: Segunda Divisão

@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://goo.gl/hQDA5Q" group-title="T1 - Arrow LEG",1x01L Arrow: Pilot
-http://vd.ec.cx/vd/dd/RC/RCServer02/ondemand/ARROWS01EP01.mp4
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer02/ondemand/ARROWS01EP01.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/hQDA5Q" group-title="T1 - Arrow LEG",1x02L Arrow: Honor Thy Father
-http://vd.ec.cx/vd/dd/RC/RCServer02/ondemand/ARROWS01EP02.mp4
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer02/ondemand/ARROWS01EP02.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/hQDA5Q" group-title="T1 - Arrow LEG",1x03L Arrow: Lone Gunmen
-http://vd.ec.cx/vd/dd/RC/RCServer02/ondemand/ARROWS01EP03.mp4
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer02/ondemand/ARROWS01EP03.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/hQDA5Q" group-title="T1 - Arrow LEG",1x04L Arrow: An Innocent Man
-http://vd.ec.cx/vd/dd/RC/RCServer02/ondemand/ARROWS01EP04.mp4
+http://cdnv1.ec.cx/RedeCanais/RedeCanais/RCServer02/ondemand/ARROWS01EP04.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/hQDA5Q" group-title="T1 - Arrow LEG",1x05L Arrow: Damaged
 http://vd.ec.cx/vd/dd/RC/RCServer03/ondemand/ARROWS01EP05.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/hQDA5Q" group-title="T1 - Arrow LEG",1x06L Arrow: Legacies
