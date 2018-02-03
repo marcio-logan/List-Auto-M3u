@@ -1,19 +1,19 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Alien.jpg" ,1979 - Alien, o 8º Passageiro
-http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ALIEN.mp4
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ALIEN.mp4
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Aliens%20O%20Resgate.jpg" ,1986 - Aliens: O Resgate
-http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ALIENORSGT.mp4
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ALIENORSGT.mp4
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Alien%203.jpg" ,1992 - Alien 3
-http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ALIEN3.mp4
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ALIEN3.mp4
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Alien%20A%20Ressurrei%C3%A7%C3%A3o.jpg" ,1998 - Alien: A Ressurreição
-http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ALIENARSSC.mp4
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ALIENARSSC.mp4
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Alien%20vs.%20Predador.jpg" ,2004 - Alien vs. Predador
-http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ALIENVSPRDR.mp4
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ALIENVSPRDR.mp4
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Alien%20vs.%20Predador%202.jpg" ,2007 - Alien vs. Predador 2
-http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ALIENVSPRDR2.mp4
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ALIENVSPRDR2.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jRggE10.jpg" ,2012 - PROMETHEUS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/PROMTHS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/PROMTHS.mp4
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Alien%20Covenant.jpg" ,2017 - Alien: Covenant
-http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ALIENCVNT.mp4
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ALIENCVNT.mp4
 

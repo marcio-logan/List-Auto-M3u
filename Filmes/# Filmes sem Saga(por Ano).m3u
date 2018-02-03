@@ -1,1191 +1,1253 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8yEoNFU.jpg" group-title="2017",2017 - 10000 ANOS DEPOIS
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/1000ANSDPS.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/1000ANSDPS.mp4
 #EXTINF:-1 group-title="2017",2017 - A BAILARINA
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/ABLRN.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ABLRN.mp4
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/A%20Bela%20e%20a%20Fera.jpg" group-title="2017",2017 - A Bela e a Fera
-http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ABLEAFR.mp4
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ABLEAFR.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/01/31/21/04/546636.jpg" group-title="2017",2017 - A Cabana
 http://assistir.querofilmehd.com/filmes/A.Cabana.2017.1080p.BluRay.x264.GECKOS.DUAL-SynysteR.mp4
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/A%20Colheita%20da%20F%C3%A9.jpg" group-title="2017",2017 - A Colheita da Fé
-http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ACLHTDFE.mp4
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ACLHTDFE.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/gITFmnq.jpg" group-title="2017",2017 - A DESCOBERTA
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/ADSCBRT.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ADSCBRT.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/g2nNpWx.jpg" group-title="2017",2017 - A FABULOSA GILLY HOPKINS
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/AFBLSGLHP.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/AFBLSGLHP.mp4
 #EXTINF:-1 group-title="2017",2017 - ABRIL E O MUNDO EXTRAORDINÁRIO
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/ABRLEOMSNEXTR.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ABRLEOMSNEXTR.mp4
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Alibi.com.jpg" group-title="2017",2017 - Alibi.com
-http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ALBCM.mp4
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ALBCM.mp4
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Antiporno.jpg" group-title="2017",2017 - Antipornô
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ANTPRNLEG.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/0YFbn52.png" group-title="2017",2017 - APOSTANDO TUDO
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/APSTNDTD.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/APSTNDTD.mp4
 #EXTINF:-1 group-title="2017",2017 - ARMAS NA MESA
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/ARMSNMSA.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ARMSNMSA.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/sd0AOIV.jpg" group-title="2017",2017 - ASSASSIN'S CREED
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ASINSCRD.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UIJROXV.jpg" group-title="2017",2017 - Assassin's Creed
 http://s.netcine.tv/netcine-bucket/filmes2016/ASSADUB-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UIJROXV.jpg" group-title="2017",2017 - Assassin's Creed
 http://s.netcine.tv/netcine-bucket/filmes2016/ASSADUBLA-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/sd0AOIV.jpg" group-title="2017",2017 - ASSASSIN'S CREED
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/ASINSCRD.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hbYFUrY.jpg" group-title="2017",2017 - ATÉ O ÚLTIMO HOMEM
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ATOULHMN.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/hbYFUrY.jpg" group-title="2017",2017 - Até o Último Homem
 http://s.netcine.tv/netcine-bucket/filmes2017/HACKSAWDUB-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/hbYFUrY.jpg" group-title="2017",2017 - ATÉ O ÚLTIMO HOMEM
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/ATOULHMN.mp4
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Bingo%20-%20O%20Rei%20das%20Manh%C3%A3s.jpg" group-title="2017",2017 - Bingo: O Rei das Manhãs
-http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/BNGORDSMNHS.mp4
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/BNGORDSMNHS.mp4
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Blade%20Runner%20O%20Ca%C3%A7ador%20de%20Androides.jpg" group-title="2017",2017 - Blade Runner 2049
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/BLDRNR2049.mp4
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Bright.jpg" group-title="2017",2017 - Bright
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/BRGHT.mp4
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Ca%C3%A7ada%20Brutal.jpg" group-title="2017",2017 - Caçada Brutal
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/CACDBRTL.mp4
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Carros%203.jpg" group-title="2017",2017 - Carros 3
-http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/CRS3.mp4
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/CRS3.mp4
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Cinquenta%20Tons%20Mais%20Escuros.jpg" group-title="2017",2017 - Cinquenta Tons Mais Escuros
-http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/CQNTTNSMSESCR.mp4
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/CQNTTNSMSESCR.mp4
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Como%20Se%20Tornar%20o%20Pior%20Aluno%20da%20Escola.jpg" group-title="2017",2017 - Como Se Tornar o Pior Aluno da Escola
-http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/CMSTNROPRALN.mp4
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/CMSTNROPRALN.mp4
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Como%20Se%20Tornar%20o%20Pior%20Aluno%20da%20Escola.jpg" group-title="2017",2017 - Como Se Tornar o Pior Aluno da Escola
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/CMSTNROPRALN.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kPd07SX.jpg" group-title="2017",2017 - CORAGEM EM CAMPO
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/CRGMEMCMP.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/CRGMEMCMP.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qNtvNxg.jpg" group-title="2017",2017 - DEIDRA E LANEY ASSALTAM UM TREM
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/DEDRELNYASTMUTRM.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/DEDRELNYASTMUTRM.mp4
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Despedida%20em%20Grande%20Estilo.jpg" group-title="2017",2017 - Despedida em Grande Estilo
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/DESPDAEMGRNDESTLO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/93BKj2w.jpg" group-title="2017",2017 - ESQUADRAO DE ELITE
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/ESQDRDELT.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ESQDRDELT.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/nFsDEcI.jpg" group-title="2017",2017 - FAZENDA DOS CISNES
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/FZNDSCSN.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/FZNDSCSN.mp4
 #EXTINF:-1 group-title="2017",2017 - FRANK E LOLA: AMOR OBSESSIVO
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/FNKELOLEG.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/FNKELOLEG.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EL68R4u.jpg" group-title="2017",2017 - IBOY
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/IBOY.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/IBOY.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/DMIMYYf.jpg" group-title="2017",2017 - INTERNET: O FILME NACIONAL
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/INTNET.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/INTNET.mp4
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Kong%20A%20Ilha%20da%20Caveira.jpg" group-title="2017",2017 - Kong: A Ilha da Caveira
-http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/KONGAILHCVR.mp4
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/KONGAILHCVR.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/WBlmzuc.jpg" group-title="2017",2017 - LAVANDA
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/LVNDA.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/LVNDA.mp4
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Logan.jpg" group-title="2017",2017 - Logan
-http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/LOGN.mp4
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/LOGN.mp4
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A3e!.jpg" group-title="2017",2017 - Mãe!
-http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/MAE.mp4
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/MAE.mp4
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Malena.jpg" group-title="2017",2017 - Malena
-http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/MLNA.mp4
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/MLNA.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/FdcxRZW.jpg" group-title="2017",2017 - MANCHESTER À BEIRA MAR
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/MACHABRMR.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/MACHABRMR.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/RJPKnHl.jpg" group-title="2017",2017 - MAX STEEL
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/MXSTL.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/MXSTL.mp4
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Mec%C3%A2nica%20das%20Sombras.jpg" group-title="2017",2017 - Mecânica das Sombras
-http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/MECMDSMBRS.mp4
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/MECMDSMBRS.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/SnqKi2k.jpg" group-title="2017",2017 - MOANA: UM MAR DE AVENTURAS
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/MONUMRDAVTRA.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/15feepb.jpg" group-title="2017",2017 - Moana: Um Mar de Aventuras
 http://s.netcine.tv/netcine-bucket/filmes2016/animacoes/MOANA-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/15feepb.jpg" group-title="2017",2017 - Moana: Um Mar de Aventuras
 http://s.netcine.tv/netcine-bucket/filmes2016/animacoes/MOANADUB-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/SnqKi2k.jpg" group-title="2017",2017 - MOANA: UM MAR DE AVENTURAS
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/MONUMRDAVTRA.mp4
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Monster%20High%20-%20Eletrizante.jpg" group-title="2017",2017 - Monster High: Eletrizante
-http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/MNSTRHGELTRZNT.mp4
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/MNSTRHGELTRZNT.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/inDWZhM.jpg" group-title="2017",2017 - MONSTER TRUCKS
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/MNSTRRCK.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/MNSTRRCK.mp4
 #EXTINF:-1 tvg-logo="http://www.amanhaeuteconto.com.br/wp-content/uploads/2017/05/mulher-maravilha-filme.jpg" group-title="2017",2017 - Mulher Maravilha
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MLHRMRVLHA.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MLHRMRVLHA.mp4
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Na%20Mira%20Do%20Atirador.jpg" group-title="2017",2017 - Na Mira Do Atirador
-http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/NAMRDATRDR.mp4
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/NAMRDATRDR.mp4
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Nosso%20Reino.jpg" group-title="2017",2017 - Nosso Reino
-http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/NOSRNO.mp4
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/NOSRNO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/pgC6vrw.jpg" group-title="2017",2017 - NOSSOS AMANTES
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/NOSAMNTS.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/NOSAMNTS.mp4
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/O%20Culto%20De%20Chucky.jpg" group-title="2017",2017 - O Culto de Chucky 
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OCLTDCHCKLEG.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OCLTDCHCKLEG.mp4
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/O%20Culto%20de%20Chucky.jpg" group-title="2017",2017 - O Culto de Chucky
-http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/OCLTDCHCK.mp4
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/OCLTDCHCK.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/d6KsdWH.jpg" group-title="2017",2017 - O MONSTRO NO ARMÁRIO
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/OMSNTNARMR.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/OMSNTNARMR.mp4
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/O%20Poderoso%20Chefinho.jpg" group-title="2017",2017 - O Poderoso Chefinho
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/OPDRSOCFNHDUB.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5pIAeEV.jpg" group-title="2017",2017 - PANDORA
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/PNDRA.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/PNDRA.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/K1uqFBw.jpg" group-title="2017",2017 - PASSAGEIROS
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/PASGRIOS.mp4
 #EXTINF:-1 tvg-logo="https://netcine.us/wp-content/uploads/2017/03/images-1.jpg" group-title="2017",2017 - Passageiros
 http://s.netcine.tv/netcine-bucket/filmes2016/PASDUB-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/K1uqFBw.jpg" group-title="2017",2017 - PASSAGEIROS
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/PASGRIOS.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/JEBXx7k.jpg" group-title="2017",2017 - PELES
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/PLES.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/PLES.mp4
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Pol%C3%ADcia%20Federal%20-%20A%20Lei%20%C3%A9%20Para%20Todos.jpg" group-title="2017",2017 - Polícia Federal: A Lei é Para Todos
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/POLCFDRLALEIEPRTDS.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/nvFUNXv.jpg" group-title="2017",2017 - RESGATE SUICIDA
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/RSGTSCD.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/RSGTSCD.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DpW1IyG.jpg" group-title="2017",2017 - SACRIFICIO
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/SCRFC.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/SCRFC.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DzFH7pb.jpg" group-title="2017",2017 - SANDY WEXLER
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/SNDYWXLR.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/00q0MCM.jpg" group-title="2017",2017 - Sandy Wexler
 http://s.netcine.tv/netcine-bucket/filmes2017/SANDYDUB-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/DzFH7pb.jpg" group-title="2017",2017 - SANDY WEXLER
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/SNDYWXLR.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xzdSqkQ.jpg" group-title="2017",2017 - STEREO
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/STRO.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/STRO.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ebbRrDV.jpg" group-title="2017",2017 - THE WARRIOR'S GATE
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/WRISGT.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/WRISGT.mp4
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Transformers%20-%20O%20%C3%9Altimo%20Cavaleiro.jpg" group-title="2017",2017 - Transformers: O Último Cavaleiro
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/TNSFRMRS05.mp4
 #EXTINF:-1 group-title="2017",2017 - Um Lobo em Pele de Cordeiro
 https://www.youtube.com/watch?v=oIJ040ZidNQ&t=841s
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Uma%20Agente%20Muito%20Louca.jpg" group-title="2017",2017 - Uma Agente Muito Louca
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/UMAGNTMTLC.mp4
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Uma%20Noite%20de%20Loucuras.jpg" group-title="2017",2017 - Uma Noite de Loucuras
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/UMANTDLOCRS.mp4
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Uma%20Verdade%20Mais%20Inconveniente.jpg" group-title="2017",2017 - Uma Verdade Mais Inconveniente
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/UMAVRDADMASINCVNTE.mp4
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Valerian%20e%20a%20Cidade%20dos%20Mil%20Planetas.jpg" group-title="2017",2017 - Valerian e a Cidade dos Mil Planetas
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/VLRIANEACDEDSMLPLNT.mp4
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Velozes%20e%20Furiosos%208.jpg" group-title="2017",2017 - Velozes & Furiosos 8
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/VLZEFROSOS08.mp4
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Vingan%C3%A7a.jpg" group-title="2017",2017 - Vingança
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/VNGA.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/rSTTMIZ.jpg" group-title="2017",2017 - VIZINHOS NADA SECRETOS
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/VZNHSNDSCRTS.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/VZNHSNDSCRTS.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/1Ks7IqM.jpg" group-title="2016",2016 - 100 STREETS
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/100STRTS.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/100STRTS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tRvD3pK.jpg" group-title="2016",2016 - 90 MINUTOS NO PARAÍSO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/90MINPRSO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/90MINPRSO.mp4
 #EXTINF:-1 group-title="2016",2016 - A BRUXA DO CABELO BRANCO DO REINO LUNAR
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/ABRXDCBRNCRNLNR.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ABRXDCBRNCRNLNR.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/nEttAAw.jpg" group-title="2016",2016 - A CHEGADA
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/ACHGDA.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ACHGDA.mp4
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-YJwaKJYuuAA/VqkQvvC_VLI/AAAAAAAABDc/y3T-5j_yv1s/s1600/A%2BHerdeira%2B%25282016%2529%2BBDRip%2BBluray%2B720p.jpg" group-title="2016",2016 - A HERDEIRA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AHRDIRA.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AHRDIRA.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E6sQJwa.jpg" group-title="2016",2016 - A LENDA DE TARZAN
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/ALNDETRZN.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ALNDETRZN.mp4
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-h-86nE6i2nY/Vp1fw2rh7tI/AAAAAAAAACs/rCkUif15TQg/s400/chal%25C3%25A9.jpg" group-title="2016",2016 - A MENINA DO CHALÉ
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AMNINDCHLE.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AMNINDCHLE.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fesPEt3.png" group-title="2016",2016 - A PROCURA DA LIBERDADE
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/APRCURDLBRD.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/APRCURDLBRD.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kjNVz6d.jpg" group-title="2016",2016 - A RESSURREIÇÃO DO ANTICRISTO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ARSRCAODANTCRST.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ARSRCAODANTCRST.mp4
 #EXTINF:-1 group-title="2016",2016 - A SEITA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ASITA.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ASITA.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Q8FH6VR.jpg" group-title="2016",2016 - A ÚLTIMA RESSACA DO ANO
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/AULTMRSCDAN.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/AULTMRSCDAN.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/N5ikyve.jpg" group-title="2016",2016 - A VOLTA DO JUIZO FINAL
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/AVLTDJZFNL.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/AVLTDJZFNL.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bjfUMVk.jpg" group-title="2016",2016 - AGENTE MIRIM
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/AGNTMRIM.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/AGNTMRIM.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7fEC1Sg.jpg" group-title="2016",2016 - AGUAS RASAS
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/AGUSRAS.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/AGUSRAS.mp4
 #EXTINF:-1 group-title="2016",2016 - ALÉM DA REALIDADE
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/ALMDRLD.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ALMDRLD.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3SUXWMM.png" group-title="2016",2016 - AMOR E AMIZADE
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/AMREAMZD.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/AMREAMZD.mp4
 #EXTINF:-1 group-title="2016",2016 - AMOR EM SAMPA
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/AMREMSP.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/AMREMSP.mp4
 #EXTINF:-1 group-title="2016",2016 - AMOR POR ACIDENTE
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AMRPRACDNT.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AMRPRACDNT.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jOodHAW.jpg" group-title="2016",2016 - ANGRY BIRDS: O FILME
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/ANGRYBRDSFLM.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ANGRYBRDSFLM.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qBm7jVn.jpg" group-title="2016",2016 - ANIMAIS FANTÁSTICOS E ONDE HABITAM
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ANMSFNTSTCEONDHBTM.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMzmL5v.jpg" group-title="2016",2016 - Animais Fantásticos e Onde Habitam
 http://s.netcine.tv/netcine-bucket/filmes2016/ANIMAISDUB-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/qBm7jVn.jpg" group-title="2016",2016 - ANIMAIS FANTÁSTICOS E ONDE HABITAM
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/ANMSFNTSTCEONDHBTM.mp4
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-WpQnHcjm1K8/Vq_hlF1yI7I/AAAAAAAAFa8/SlVbAtQ4r4c/s500-c/grandma_t116382_jpg_290x478_upscale_q90.jpg" group-title="2016",2016 - APRENDENDO COM A VOVÓ
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/APRNDOCMAVO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/APRNDOCMAVO.mp4
 #EXTINF:-1 group-title="2016",2016 - AQUARIUS
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/AQRIS.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/AQRIS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8QR1kBP.png" group-title="2016",2016 - ASSALTO AO PODER
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/ASLTOAOPDR.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ASLTOAOPDR.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JjESLHq.jpg" group-title="2016",2016 - BARBIE AVENTURA NAS ESTRELAS
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/BARBIRAVNESTLS.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/BARBIRAVNESTLS.mp4
 #EXTINF:-1 group-title="2016",2016 - CALL TO DUTY: FORA DE ALCANCE
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/CLTDTY.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/CLTDTY.mp4
 #EXTINF:-1 group-title="2016",2016 - CANIBAIS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CANBS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CANBS.mp4
 #EXTINF:-1 group-title="2016",2016 - CAPITÃO FANTÁSTICO
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/CPTFNTSC.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/CPTFNTSC.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/3ic5u3" group-title="2016",2016 - CAPTIVE
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CPTVE.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CPTVE.mp4
 #EXTINF:-1 group-title="2016",2016 - CAROL
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CRL.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CRL.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/upxOtgk.jpg" group-title="2016",2016 - CEGONHAS: A HISTÓRIA QUE NÃO TE CONTARAM
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/CGNHSAHSTQNTC.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/CGNHSAHSTQNTC.mp4
 #EXTINF:-1 group-title="2016",2016 - COMO EU ERA ANTES DE VOCÊ
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/CMEUERANTSDVC.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/CMEUERANTSDVC.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dybzbd2.jpg" group-title="2016",2016 - DEADPOOL
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/DEADP.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/DEADP.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xPT4AQY.jpg" group-title="2016",2016 - DESNORTEADOS
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/DESNRTAD.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/DESNRTAD.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8S3oBAQ.jpg" group-title="2016",2016 - DEUSES DO EGITO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/DEUSDEGTO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/DEUSDEGTO.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/smfcuPe.jpg" group-title="2016",2016 - DOUTOR ESTRANHO
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/DRESTNHO.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dvhKYky.jpg" group-title="2016",2016 - Doutor Estranho
 http://s.netcine.tv/netcine-bucket/filmes2016/dstrange/DS2016DUB-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/smfcuPe.jpg" group-title="2016",2016 - DOUTOR ESTRANHO
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/DRESTNHO.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3VhNNoH.jpg" group-title="2016",2016 - ELE NUNCA MORRE
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/ELENCMRR.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ELENCMRR.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EYFQpB7.jpg" group-title="2016",2016 - ELVIS E NIXON
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/ELVSENIXN.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ELVSENIXN.mp4
 #EXTINF:-1 group-title="2016",2016 - ENSINA-ME O AMOR
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ESNMOAMR.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ESNMOAMR.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m1qdItq.jpg" group-title="2016",2016 - ESPECIALISTA EM CRISE
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ESPCLSEMCRS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ESPCLSEMCRS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ORvC2nL.jpg" group-title="2016",2016 - ESQUADRAO SUICIDA
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/ESQDSUCDA.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ESQDSUCDA.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CvP2jCp.jpg" group-title="2016",2016 - FESTA DA SALSICHA
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/FSTDSLSCHA.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/FSTDSLSCHA.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8tIYy8L.jpg" group-title="2016",2016 - FUGINDO DO INFERNO
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/FGNDINFNO.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/FGNDINFNO.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GhAhY8z.jpg" group-title="2016",2016 - GENIOS DO CRIME
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/GNSDCRM.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/GNSDCRM.mp4
 #EXTINF:-1 group-title="2016",2016 - GRACE DE MÔNACO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/GRCDMNC.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/GRCDMNC.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zYfB3HP.jpg" group-title="2016",2016 - HARDCORE MISSAO EXTREMA
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/HARDCRMSEXTRM.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/HARDCRMSEXTRM.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GvBVgp6.jpg" group-title="2016",2016 - HOMEM IRRACIONAL
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OHOMNIRCIONL.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OHOMNIRCIONL.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QsZNCtc.jpg" group-title="2016",2016 - HORAS DECISIVAS
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/HRSDCSVS.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/HRSDCSVS.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/CoCn2qo.jpg" group-title="2016",2016 - HORIZONTE PROFUNDO: DESASTRE NO GOLFO
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/HRZNTPRFNDSTRDGLF.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/HRZNTPRFNDSTRDGLF.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZRzPzbl.jpg" group-title="2016",2016 - IRMÃS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/IRMAS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/IRMAS.mp4
 #EXTINF:-1 group-title="2016",2016 - JEM E AS HOLOGRAMAS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/JMEASHLFRMS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/JMEASHLFRMS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OHwgy8T.jpg" group-title="2016",2016 - JOGO DE ASSASSINOS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/JGSDASINS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/JGSDASINS.mp4
 #EXTINF:-1 group-title="2016",2016 - JONAS
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/JNS.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/JNS.mp4
 #EXTINF:-1 group-title="2016",2016 - JOSÉ DO EGITO: O FILME
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/JSDEGTOFLM.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/JSDEGTOFLM.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FQogmAy.jpg" group-title="2016",2016 - LEGO FRIENDS: GIRLZ 4 LIFE
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/LEGOFRNDS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/LEGOFRNDS.mp4
 #EXTINF:-1 group-title="2016",2016 - MÃE SÓ HÁ UMA
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/MASHUM.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/MASHUM.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QojLpdg.jpg" group-title="2016",2016 - MENTE CRIMINOSA
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/MENTCRMINSA.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/MENTCRMINSA.mp4
 #EXTINF:-1 group-title="2016",2016 - MERCY
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/MERCY.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/MERCY.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XqfgYa5.jpg" group-title="2016",2016 - MEU IRMAO CEGO
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/MEUIRMCG.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/MEUIRMCG.mp4
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Michelle%20e%20Obama.jpg" group-title="2016",2016 - Michelle e Obama
-http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/MCHLEOBMA.mp4
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/MCHLEOBMA.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nmhYOu6.jpg" group-title="2016",2016 - MOGLI O MENINO LOBO
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/MGLOMENLB.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/MGLOMENLB.mp4
 #EXTINF:-1 group-title="2016",2016 - MUNDO CÃO
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/MNDCA.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/MNDCA.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HaDQZTP.jpg" group-title="2016",2016 - NERVE: UM JOGO SEM REGRAS
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/NRVUJSR.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/NRVUJSR.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w0JSQHU.jpg" group-title="2016",2016 - NOSSO FIEL TRAIDOR
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/NOSSFILTRDR.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/NOSSFILTRDR.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2AvCHjC.jpg" group-title="2016",2016 - O BOM DINOSSAURO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OBMDINO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OBMDINO.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YpzECTr.jpg" group-title="2016",2016 - O BOM GIGANTE AMIGO
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/OBMGIGNTAMG.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/OBMGIGNTAMG.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PLDxoI.jpg" group-title="2016",2016 - O CONTADOR
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/OCNTDR.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/OCNTDR.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/isHXSgP.jpg" group-title="2016",2016 - O DRAGAO DO NATAL
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/ODRGODNTL.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ODRGODNTL.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YhtGoGw.png" group-title="2016",2016 - O FINAL DA TURNÊ
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OFNLDTRN.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OFNLDTRN.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z2GQvlY.jpg" group-title="2016",2016 - O LAR DAS CRIANCAS PECULIARES
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/OLRDSCRNPCLRS.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/OLRDSCRNPCLRS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k2UbmPR.jpg" group-title="2016",2016 - O MESTRE DOS GÊNIOS
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/OMSTRDSGNS.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/OMSTRDSGNS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eMmoo5m.jpg" group-title="2016",2016 - O PRESENTE
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OPRSENT.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OPRSENT.mp4
 #EXTINF:-1 tvg-logo="https://imgs24.com/images/Prohram-200x297.jpg" group-title="2016",2016 - O PROGRAMA
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/OPRGMA.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/OPRGMA.mp4
 #EXTINF:-1 group-title="2016",2016 - O ROUBO DA TAÇA
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/OROBDTA.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/OROBDTA.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/eepIekU.jpg" group-title="2016",2016 - O SHAOLIN DO SERTÃO
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/OSHLINDSRT.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/OSHLINDSRT.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yu8Af0l.jpg" group-title="2016",2016 - O TIGRE E O DRAGÃO: A ESPADA DO DESTINO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OTRIGEDRG.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OTRIGEDRG.mp4
 #EXTINF:-1 group-title="2016",2016 - OPERAÇÃO RESGATE
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OPRCORSGT.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OPRCORSGT.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BuWwXw5.jpg" group-title="2016",2016 - OS CACADORES
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/OSCDRS.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/OSCDRS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UIZFppD.jpg" group-title="2016",2016 - OS DEZ MANDAMENTOS: O FILME
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OSDZMANDMTS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OSDZMANDMTS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YhQ7X1f.jpg" group-title="2016",2016 - PERFEITA É A MÃE
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/PRFTEAMA.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/PRFTEAMA.mp4
 #EXTINF:-1 group-title="2016",2016 - PERSEGUINDO ABBOTT
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/PRSGUNDABOT.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/PRSGUNDABOT.mp4
 #EXTINF:-1 group-title="2016",2016 - PETS A VIDA SECRETA DOS BICHOS
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/PETSAVSDBS.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/PETSAVSDBS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tnKjB08.jpg" group-title="2016",2016 - PETS: A VIDA SECRETA DOS BICHOS
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/PETSAVSCDBS.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/PETSAVSCDBS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tkLg33r.jpg" group-title="2016",2016 - POPSTAR: SEM PARAR; SEM LIMITES
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/POPSTSMPRSMLMT.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/POPSTSMPRSMLMT.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OVUbL7C.jpg" group-title="2016",2016 - PORQUE É NOVEMBRO
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/PQENVBRO.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/PQENVBRO.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ANXFQh7.jpg" group-title="2016",2016 - PROCURANDO DORY
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/PRCNDRY.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/PRCNDRY.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8PDv2QL.jpg" group-title="2016",2016 - QUANDO AS LUZES SE APAGAM
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/QNDASLZSAPGM.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/QNDASLZSAPGM.mp4
 #EXTINF:-1 group-title="2016",2016 - REBELIÃO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/RBLOA.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/RBLOA.mp4
 #EXTINF:-1 group-title="2016",2016 - REZA A LENDA
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/RZALND.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/RZALND.mp4
 #EXTINF:-1 group-title="2016",2016 - SETE MINUTOS DEPOIS DA MEIA-NOITE
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/STMNDPSDMENTDUB.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/STMNDPSDMENTDUB.mp4
 #EXTINF:-1 group-title="2016",2016 - SING: QUEM CANTA SEUS MALES ESPANTA
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/SNGQCSME.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/SNGQCSME.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n0VZiRb.jpg" group-title="2016",2016 - SNOOPY E CHARLIE BROWN: PEANUTS; O FILME
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SNPYECRLIBRPANRSOFLM.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SNPYECRLIBRPANRSOFLM.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3lOwXDt.jpg" group-title="2016",2016 - SPECTRAL
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/SPCTRL.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/SPCTRL.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1x4VscU.jpg" group-title="2016",2016 - SPOTLIGHT: SEGREDOS REVELADOS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SPTGHTSCRDSRVLDS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SPTGHTSCRDSRVLDS.mp4
 #EXTINF:-1 group-title="2016",2016 - STEVE JOBS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/STVJBS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/STVJBS.mp4
 #EXTINF:-1 group-title="2016",2016 - TANTHROPOID
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/ATHRPDLEG.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ATHRPDLEG.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xv9y4qc.jpg" group-title="2016",2016 - THE BEACH BOYS: UMA HISTÓRIA DE SUCESSO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/THBCHBYSUHDS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/THBCHBYSUHDS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CShXB0C.jpg" group-title="2016",2016 - TINI DEPOIS DE VIOLETTA
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/TNDPSDVLTA.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/TNDPSDVLTA.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j9EzyQq.jpg" group-title="2016",2016 - TRIPLE 9
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/TRPL9.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/TRPL9.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KgMl7O1.jpg" group-title="2016",2016 - TROLLS
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/TRLS.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/TRLS.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/u8oMv9v.jpg" group-title="2016",2016 - UM SUBURBANO SORTUDO
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/UMSUBSRTDO.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/UMSUBSRTDO.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xkUgxMR.jpg" group-title="2016",2016 - UMA AVENTURA DE BABAS
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/UMAVNTRDBABS.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/UMAVNTRDBABS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VDloNud.jpg" group-title="2016",2016 - UMA CANCAO
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/UMACNCAO.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/UMACNCAO.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BnB82LP.jpg" group-title="2016",2016 - UMA NOITE COM A FAMILIA BLACKS
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/UMANTCMAFMLBLC.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/UMANTCMAFMLBLC.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YGUelfo.jpg" group-title="2016",2016 - VIGILANTES DA GUERRA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/VGLANTSDGRRA.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/VGLANTSDGRRA.mp4
 #EXTINF:-1 group-title="2016",2016 - VOLTANDO DO INFERNO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/VLTNDINF.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/VLTNDINF.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LKGfZgW.jpg" group-title="2016",2016 - WOODLAWN: TALENTO E FÉ
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/TLNTEFWODLWN.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/TLNTEFWODLWN.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/60aFbhD.jpg" group-title="2016",2016 - ZOOTOPIA: ESSA CIDADE É O BICHO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ZOTPIA.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ZOTPIA.mp4
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-57muPfCOkMk/VM2vv-Kzo3I/AAAAAAAAIG0/pVZXhb0vu2M/s300/entrevista.jpg" group-title="2015",2015 - A ENTREVISTA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AERVTVST.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AERVTVST.mp4
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-PvbGYZqFJn0/VZMHy75NjMI/AAAAAAAAM7s/rXUPbh-2UUg/s1600/Estrada4.png" group-title="2015",2015 - A ESTRADA 47
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AESTD47.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AESTD47.mp4
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-DDRhrXvs5Io/VkId8wRfQlI/AAAAAAAAUGU/2DscEK9Ku2M/s1600/A%2BHistoria%2BVerdadeira.jpg" group-title="2015",2015 - A HISTÓRIA VERDADEIRA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AHISTVRDA.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AHISTVRDA.mp4
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AMLdoOUC1Do/Va6bW0axFkI/AAAAAAAAAK8/5kFfBSifzhY/s1600/baixar%2Bfilmes%2Bgratis%2BSimao%2BCds%2BDo%2BIc%25C3%25B3.jpg" group-title="2015",2015 - A MÁQUINA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AMQNA.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AMQNA.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/73lKVTQ.jpg" group-title="2015",2015 - A PRIMEIRA VEZ
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/APRMRVEZ.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/APRMRVEZ.mp4
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-c8Fmrbg2aTg/VVwSHBN3BcI/AAAAAAAABmE/vtWIHfN3eOc/s1600/A%2BSaga%2BViking.jpg" group-title="2015",2015 - A SAGA VIKING
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ASGVKNG.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ASGVKNG.mp4
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-JqQygYenN3o/VdDStlJA3EI/AAAAAAAAfl0/wZKpvkROw1E/s1600/A2.jpg" group-title="2015",2015 - A SALVAÇÃO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ASLVCAO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ASLVCAO.mp4
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-lNtY8tIdqFY/VOE0Q7hpWNI/AAAAAAAACAc/PFADK65oW2E/s1600/The-Theory-of-Everything-Poster-2.jpg" group-title="2015",2015 - A TEORIA DE TUDO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ATORIDTD.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ATORIDTD.mp4
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-VA-44DqorOU/VvwQDlkAejI/AAAAAAAAGuY/AQg3iGtxXz088N58FaC4XAWwgv03n98lw/s320/A%2BViatura.jpg" group-title="2015",2015 - A VIATURA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AVIATURA.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AVIATURA.mp4
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-hTiQEbn_obU/VpP3PfEH5WI/AAAAAAAAAOc/yufBLfqq9YI/s1600/CAPA.jpg" group-title="2015",2015 - A VISITA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AVISTA.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AVISTA.mp4
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-Zo4tVG3R_Fc/VlBuqdchGkI/AAAAAAAAD4Y/ZkkG8fM6lyc/s300/1.jpg" group-title="2015",2015 - ADULTOS INEXPERIENTES
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ADLTSINEXPRTES.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ADLTSINEXPRTES.mp4
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-MSALpd0COuI/VeJuzxC0N3I/AAAAAAAAKGI/AKV-aSDQD2k/s300/Sem%2Bt%25C3%25ADtulo%2B1d.png" group-title="2015",2015 - ALWAYS WATCHING: A MARBLE HORNETS STORY
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AWAMHS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AWAMHS.mp4
 #EXTINF:-1 tvg-logo="https://topfilmesonlinehd.com/wp-content/uploads/2015/04/Amaldi%C3%A7oado.jpg" group-title="2015",2015 - AMALDIÇOADO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AMLSCADO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AMLSCADO.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/juvLdRu.jpg" group-title="2015",2015 - AMERICAN POLTERGEIST
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/AMRCNPLTGST.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/AMRCNPLTGST.mp4
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-l8hVq94_qg0/VfDlCywxc3I/AAAAAAAAElU/uKjXYiV7X8M/s400/Amizade%2BDesfeita%2B01.jpg" group-title="2015",2015 - AMIZADE DESFEITA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AMZDSFTA.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AMZDSFTA.mp4
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-O09JylFu9cE/VbrHFPdaI9I/AAAAAAAABWY/H37xZn7C_kE/s1600/CAPA%2BDO%2BDVD%2BAMN%25C3%2589SIA%2BZICA%2BTOP%2BCAPAS.jpg" group-title="2015",2015 - AMNÉSIA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AMNESIA.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AMNESIA.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iO54w4D.jpg" group-title="2015",2015 - AMOR E REVOLUÇÃO
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/AMRERVLC.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/AMRERVLC.mp4
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Ma-yC1L5c6A/Varle07mCtI/AAAAAAAAB3Q/84OC8Pl5agQ/w1200-h630-p-nu/Amor%2BSem%2BPecado%2B-%2BCapa%2BFilme%2BDVD.jpg" group-title="2015",2015 - AMOR SEM PECADO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AMRSMPCD.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AMRSMPCD.mp4
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-E1wY3C87ItQ/Vj5XsQc6UTI/AAAAAAAAfFQ/7aUZBFDZZQ4/s1600/filme-de-apenas-um-show-o-filme.jpg" group-title="2015",2015 - APENAS UM SHOW: O FILME
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/APNSUSWOFILME.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/APNSUSWOFILME.mp4
 #EXTINF:-1 group-title="2015",2015 - AS SUFRAGISTAS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ASDRGIST.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ASDRGIST.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/Fn5i1y" group-title="2015",2015 - BELAS E PERSEGUIDAS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BLSEPRSGDS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BLSEPRSGDS.mp4
 #EXTINF:-1 group-title="2015",2015 - BEM CASADOS
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/BMCSDOS.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/BMCSDOS.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/QcXZMg" group-title="2015",2015 - BIRDMAN OU - A INESPERADA VIRTUDE DA IGNORÂNCIA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BRDMAINSPDVRTDAIGN.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BRDMAINSPDVRTDAIGN.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/hjctg3" group-title="2015",2015 - BRAVETOWN
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/BRVTWN.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/BRVTWN.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/T2g1oq" group-title="2015",2015 - CADA UM NA SUA CASA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CSUMNSUACS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CSUMNSUACS.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/B49oJX" group-title="2015",2015 - CAIPIRA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CAIPIRA.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CAIPIRA.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/IdsEBf" group-title="2015",2015 - CALVÁRIO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CLVRIO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CLVRIO.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IishYF7.jpg" group-title="2015",2015 - CANTANDO DE GALO
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/CATNDGL.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/CATNDGL.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zGmzETF.jpg" group-title="2015",2015 - CÁSSIA ELLER
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CSAELR.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CSAELR.mp4
 #EXTINF:-1 group-title="2015",2015 - CHATÔ: O REI DO BRASIL
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/CHTORDBR.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/CHTORDBR.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/masvK4S.jpg" group-title="2015",2015 - CIDADES DE PAPEL
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CDADPAPL.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CDADPAPL.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jEx6IlI.jpg" group-title="2015",2015 - CINDERELA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CNDRLA.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CNDRLA.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vvVyISz.jpg" group-title="2015",2015 - COMO SOBREVIVER A UM ATAQUE ZUMBI
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CMSBRVVERAUATQZMB.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CMSBRVVERAUATQZMB.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yYGAhuA.jpg" group-title="2015",2015 - D.U.F.F. VOCÊ CONHECE; TEM OU É
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/DUFFVCNHECTMOE.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/DUFFVCNHECTMOE.mp4
 #EXTINF:-1 group-title="2015",2015 - DEPOIS DE TUDO
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/DPSDTD.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/DPSDTD.mp4
 #EXTINF:-1 group-title="2015",2015 - DIABLO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/DIABLODUB.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/DIABLODUB.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dtDWm49.jpg" group-title="2015",2015 - DIVERTIDA MENTE
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/DVRTDMNT.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/DVRTDMNT.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4jqFC52.jpg" group-title="2015",2015 - DOIS LADOS DO AMOR
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/DSLDSDAMR.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/DSLDSDAMR.mp4
 #EXTINF:-1 group-title="2015",2015 - DOPE UM DESLIZE PERIGOSO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/DOPUMDSLZPRGS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/DOPUMDSLZPRGS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a4UMM16.jpg" group-title="2015",2015 - DRAGON BLADE
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/DRGNBLDE.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/DRGNBLDE.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DysJyLD.jpg" group-title="2015",2015 - ENTRANDO NUMA ROUBADA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ENTDNRBND.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ENTDNRBND.mp4
 #EXTINF:-1 group-title="2015",2015 - ENTRE ABELHAS
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/ENTRABLHS.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ENTRABLHS.mp4
 #EXTINF:-1 group-title="2015",2015 - ESCONDIDOS
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/ESCNDS.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ESCNDS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hdDv6C0.jpg" group-title="2015",2015 - ESPÍRITO DE LOBO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ESPRTODLBO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ESPRTODLBO.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3CY6uJY.jpg" group-title="2015",2015 - EVERESTE
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/EVRSTE.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/EVRSTE.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6ur20TM.jpg" group-title="2015",2015 - EX MACHINA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/EXMCHNA.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/EXMCHNA.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Pfie6Dz.jpg" group-title="2015",2015 - FORA DE ALCANCE
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/FORDALCNC.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/FORDALCNC.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6n1driL.jpg" group-title="2015",2015 - FORÇA MAIOR
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/FRCAMIOR.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/FRCAMIOR.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2P6Ay1p.jpg" group-title="2015",2015 - FORÇA PARA VIVER
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/FRCPRVIV.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/FRCPRVIV.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1jh8oc8.jpg" group-title="2015",2015 - FOXCATCHER: UMA HISTÓRIA QUE CHOCOU O MUNDO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/FXCTHRUHQCOM.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/FXCTHRUHQCOM.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QlumSER.jpg" group-title="2015",2015 - FRONTERA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/FRNTRA.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/FRNTRA.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y0LYGHw.jpg" group-title="2015",2015 - GOLPE DUPLO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/GLPDPL.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/GLPDPL.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DyLI6ic.jpg" group-title="2015",2015 - GOOSEBUMPS: MONSTROS E ARREPIOS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/GSBUMPSMNSTREARPS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/GSBUMPSMNSTREARPS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sjfsZuM.jpg" group-title="2015",2015 - GRANDES OLHOS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/GRNDSOLHS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/GRNDSOLHS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/95zIZiH.jpg" group-title="2015",2015 - HACKER
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/HCKR.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/HCKR.mp4
 #EXTINF:-1 group-title="2015",2015 - HOMEM-FORMIGA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HMNFRMG.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HMNFRMG.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MemBieL.jpg" group-title="2015",2015 - INSENSÍVEIS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/INSNSVS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/INSNSVS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NCAigxr.jpg" group-title="2015",2015 - JÁ ESTOU COM SAUDADES
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/JAESTCMSDS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/JAESTCMSDS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p4PejSu.jpg" group-title="2015",2015 - JACK E A MECÂNICA DO CORAÇÃO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JCKEAMCNCDCOR.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JCKEAMCNCDCOR.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gJ2DNFQ.jpg" group-title="2015",2015 - JIMI: TUDO AO MEU FAVOR
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JMTDAMUFVR.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JMTDAMUFVR.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZubVhO.jpg" group-title="2015",2015 - JOGO DURO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JGDRO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JGDRO.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6GEHyxg.jpg" group-title="2015",2015 - JUVENTUDES ROUBADAS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JUVTNDROBDS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JUVTNDROBDS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SDd7yUE.jpg" group-title="2015",2015 - KINGSMAN: SERVIÇO SECRETO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/KNGSMSVSCRT.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/KNGSMSVSCRT.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7nuktm5.jpg" group-title="2015",2015 - LIÇÕES EM FAMÍLIA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/LICSEMFMLA.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/LICSEMFMLA.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7LNtyUv.jpg" group-title="2015",2015 - LINDA DE MORRER
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/LNDMORRE.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/LNDMORRE.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z40hOfI.jpg" group-title="2015",2015 - LIVRE
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/LIVRE.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/LIVRE.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wz1XgKT.jpg" group-title="2015",2015 - LOBOS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/LOBOS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/LOBOS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vQgFAcC.jpg" group-title="2015",2015 - LOUCAS PRA CASAR
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/LCSPRCSR.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/LCSPRCSR.mp4
 #EXTINF:-1 group-title="2015",2015 - MACBETH: AMBIÇÃO & GUERRA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/MCBETHABCOEGURR.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/MCBETHABCOEGURR.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IdVZHM0.png" group-title="2015",2015 - MCFARLAND; USA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/MCFRLND.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/MCFRLND.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/71gKAmw.png" group-title="2015",2015 - MINIONS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/MINIONS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/MINIONS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LSeLXxY.jpg" group-title="2015",2015 - MISTRESS AMERICA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/MISTRSSAMRC.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/MISTRSSAMRC.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VfXhUTG.jpg" group-title="2015",2015 - MORRENDO E APRENDENDO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/MRNDEAPRNDO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/MRNDEAPRNDO.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aMCD85J.jpg" group-title="2015",2015 - MORTE NO FUNERAL
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MRTNFNRL.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MRTNFNRL.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J0lr6c1.jpg" group-title="2015",2015 - NA TOCA DO TIGRE
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/NATCADTRG.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/NATCADTRG.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Su0b89v.jpg" group-title="2015",2015 - NOITE SEM FIM
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/NTSMFM.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/NTSMFM.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0r8qrko.jpg" group-title="2015",2015 - NÓS NUNCA TEREMOS PARIS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/NSNCTRMSPRS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/NSNCTRMSPRS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1QENf88.jpg" group-title="2015",2015 - O AVIADOR
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/OAVADR.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/OAVADR.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ALfXPPA.jpg" group-title="2015",2015 - O CARA PERFEITO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OCARPRFTO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OCARPRFTO.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wyzi3kL.jpg" group-title="2015",2015 - O DESTINO DE JÚPITER
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ODSTNDJPTR.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ODSTNDJPTR.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6CJcAhr.jpg" group-title="2015",2015 - O GAROTO DA CASA AO LADO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OGRTDCSALD.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OGRTDCSALD.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IUqHcwK.jpg" group-title="2015",2015 - O MISTERIOSO CASO DE JUDITH WINSTEAD
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OMSTRSCSDJDTWNST.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OMSTRSCSDJDTWNST.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9I0zTs1.jpg" group-title="2015",2015 - O PEQUENO PRÍNCIPE
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OPQNPRNCP.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OPQNPRNCP.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BcSSFNa.jpg" group-title="2015",2015 - O SÉTIMO FILHO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OSTMFLH.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OSTMFLH.mp4
 #EXTINF:-1 group-title="2015",2015 - O TEMPO NÃO ESPERA POR NINGUÉM
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OTMPNESPRPNGM.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OTMPNESPRPNGM.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OfTfmSW.jpg" group-title="2015",2015 - O ÚLTIMO CAÇADOR DE BRUXAS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OULTMCADRDBRXDUB.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OULTMCADRDBRXDUB.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WmyYNYv.jpg" group-title="2015",2015 - ONDE NASCE A ESPERANÇA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ONDNASCESPRCA.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ONDNASCESPRCA.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QCqoVy3.jpg" group-title="2015",2015 - OPERAÇÕES ESPECIAIS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OPRCOSESPCIAS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OPRCOSESPCIAS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HOCvx3J.jpg" group-title="2015",2015 - OS 33
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OS33.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OS33.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DljIUR2.jpg" group-title="2015",2015 - OS DESCARTADOS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OSDSCRTDS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OSDSCRTDS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SWtkHEm.png" group-title="2015",2015 - OS ÚLTIMOS CAVALEIROS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OSULTMSCVLRS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OSULTMSCVLRS.mp4
 #EXTINF:-1 group-title="2015",2015 - OURO SUOR E LAGRIMAS
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/OURSURELGRM.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/OURSURELGRM.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vlNcX1G.jpg" group-title="2015",2015 - PACTO MALIGNO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PCTMLGNO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PCTMLGNO.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YF5Ick3.jpg" group-title="2015",2015 - PARA SEMPRE ALICE
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PRSMPRALC.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PRSMPRALC.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qem7xYR.jpg" group-title="2015",2015 - PEGANDO FOGO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/PGNDFGODUB.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/PGNDFGODUB.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IJZLAzs.jpg" group-title="2015",2015 - PERDIDO EM MARTE
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/PRDEMMRTE.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/PRDEMMRTE.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HsM9AVT.jpg" group-title="2015",2015 - PERIGO EXTREMO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/PRGEXTRMO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/PRGEXTRMO.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HPxaYTU.jpg" group-title="2015",2015 - PIXELS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PIXRLS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PIXRLS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RKsDXH7.jpg" group-title="2015",2015 - PONTE DOS ESPIÕES
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/PNTDESPIOS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/PNTDESPIOS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kPybFYm.jpg" group-title="2015",2015 - PROJETO ALMANAQUE
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PRJTALMNQ.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PRJTALMNQ.mp4
 #EXTINF:-1 group-title="2015",2015 - QUALQUER GATO VIRA-LATA
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/QLQURGTVRLT2.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/QLQURGTVRLT2.mp4
 #EXTINF:-1 group-title="2015",2015 - QUE HORAS ELA VOLTA?
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/QHRSELVLT.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/QHRSELVLT.mp4
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Ref%C3%A9m.jpg" group-title="2015",2015 - Refem: o filme
-http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/RFMNAC.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/RFMNAC.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fbZ3uAQ.jpg" group-title="2015",2015 - REMANESCENTE: ESQUECIDOS POR DEUS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/RMSCNTESQPRDES.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/RMSCNTESQPRDES.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/z5QeiW" group-title="2015",2015 - RESULTADOS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/RESLTS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/RESLTS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x2DMrkY.jpg" group-title="2015",2015 - SAMBA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SAMBA.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SAMBA.mp4
 #EXTINF:-1 group-title="2015",2015 - SANGUE AZUL
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/SNGAZL.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/SNGAZL.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lmjluu1.jpg" group-title="2015",2015 - SEM DIREITO A RESGATE
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SMDRTARSGT.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SMDRTARSGT.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gRNn0pl.jpg" group-title="2015",2015 - SEM RETORNO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SEMRTRNO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SEMRTRNO.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PEkDvWo.jpg" group-title="2015",2015 - SENTIMENTOS QUE CURAM
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SNTMTSQCRM.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SNTMTSQCRM.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vIXVdno.jpg" group-title="2015",2015 - SICARIO: TERRA DE NINGUÉM
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SCROTRDNGM.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SCROTRDNGM.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aJ5Imuh.jpg" group-title="2015",2015 - SNIPER AMERICANO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SNPRAMRCN.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SNPRAMRCN.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ot4q8cz.jpg" group-title="2015",2015 - SUBURRA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SUBRA.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SUBRA.mp4
 #EXTINF:-1 group-title="2015",2015 - SUPERPAI
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/SPRPAI.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/SPRPAI.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZcY3EF9.jpg" group-title="2015",2015 - TERREMOTO: A FALHA DE SAN ANDREAS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TRMTAFLHDSNANDRS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TRMTAFLHDSNANDRS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VgdZpWj.jpg" group-title="2015",2015 - TERROR NOS BASTIDORES
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/TERONSBSTDRS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/TERONSBSTDRS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BymRhdt.jpg" group-title="2015",2015 - THE RIDICULOUS 6
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/THRDCULOS6.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/THRDCULOS6.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TahhrXQ.jpg" group-title="2015",2015 - TOMORROWLAND: UM LUGAR ONDE NADA É IMPOSSÍVEL
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/TOMROWLND.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/TOMROWLND.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/22gUQVL.jpg" group-title="2015",2015 - UM AMOR A CADA ESQUINA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/UMAMRACDESQUNA.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/UMAMRACDESQUNA.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w6FNTrx.jpg" group-title="2015",2015 - UM CASO DE AMOR
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/UMCSDAMR.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/UMCSDAMR.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uHcww0F.jpg" group-title="2015",2015 - UM ROMANCE NA ALTA MODA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/UMROMNCNALTMD.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/UMROMNCNALTMD.mp4
 #EXTINF:-1 group-title="2015",2015 - UM SENHOR ESTAGIÁRIO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/UMSNHRESTGIARIO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/UMSNHRESTGIARIO.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/btTFFmn.jpg" group-title="2015",2015 - VAI QUE COLA: O FILME
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/VAIQCLOFILME.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/VAIQCLOFILME.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gclkJDg.jpg" group-title="2015",2015 - VERÃO EM STATEN ISLAND
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/VERAEMSTISLND.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/VERAEMSTISLND.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZwEUkCp.jpg" group-title="2015",2015 - VÍCIO INERENTE
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/VCOINRNT.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/VCOINRNT.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E4FEmjb.jpg" group-title="2015",2015 - VINGANÇA AO ANOITECER
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/VNGCAOANTCR.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/VNGCAOANTCR.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lMf3vlF.jpg" group-title="2015",2015 - VIRANDO A PÁGINA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/VRNDAPGNA.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/VRNDAPGNA.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f7i6dg1.jpg" group-title="2015",2015 - VOCÊ ACREDITA?
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/VCACRDT.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/VCACRDT.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yarOyo8.jpg" group-title="2014",2014 - 118 DIAS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/118DAS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/118DAS.mp4
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-x6W_OolpdLs/VXqRa-PjzcI/AAAAAAAADy8/iYcgG7ShtDE/s1600/A%2BMarca%2Bdo%2BMedo.jpg" group-title="2014",2014 - A MARCA DO MEDO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AMRCDMDDUB.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AMRCDMDDUB.mp4
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Qp-5KNd_j98/VQISrH5-_BI/AAAAAAAAQHA/WleDv5uZ-8s/s1600/A%2BNoite%2Bda%2BVirada.jpg" group-title="2014",2014 - A NOITE DA VIRADA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ANTDVRDNAC.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ANTDVRDNAC.mp4
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-iOu3kJ2tHfw/UzMxOKgsjGI/AAAAAAAAQ5g/j9f3a3SzGK8/s1600/Alem%C3%A3o_poster.jpg" group-title="2014",2014 - ALEMÃO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ALMAO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ALMAO.mp4
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-Kq4pC-BcvGc/VKl40aUNuFI/AAAAAAAAe4k/HYahzVkgYmI/s1600/Annabelle-2014-movie-poster.jpg" group-title="2014",2014 - ANNABELLE
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ANBLE.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ANBLE.mp4
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-xXFuitcMn4I/VB8fkxvWiPI/AAAAAAAAPuY/zNFc3PiEa-c/s1600/Appleseed%2BAlpha%2BDublado.jpg" group-title="2014",2014 - APPLESEED ALPHA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/APLSDALPHDUB.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/APLSDALPHDUB.mp4
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-mhYHsOZJeYM/VO1Uhh44rII/AAAAAAAAEoU/cAZNd7rGYx4/w1200-h630-p-nu/CAPA%2BDO%2BFILME%2BAS%2BAVENTURAS%2BDE%2BPADDINGTON%2BCAPA%2B1%2BZICA%2BTOP%2BCAPAS%2BACESSE%2B!.jpg" group-title="2014",2014 - AS AVENTURAS DE PADDINGTON
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AAVNTRDPNGTN.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AAVNTRDPNGTN.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/seO7YAI.jpg" group-title="2014",2014 - AS AVENTURAS DE PEABODY & SHERMAN
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/AAVNTRSDPABYESHRM.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/AAVNTRSDPABYESHRM.mp4
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-y9XAFUho3dI/VQSbQGuTK-I/AAAAAAAAQCg/n8Q_ExAqjd0/s1600/Assassino%2BInvisivel.jpg" group-title="2014",2014 - ASSASSINO INVISÍVEL
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ASSNINVSL.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ASSNINVSL.mp4
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-KKx1slthmtw/VmxNc9ykbKI/AAAAAAAABac/BvIBvp3I9mI/s1600/Everest.jpg" group-title="2014",2014 - AVALANCHE NO EVEREST
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AVLNCHNEVRST.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AVLNCHNEVRST.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/ce0Xde" group-title="2014",2014 - CAMINHOS DA FLORESTA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CMNHSDFLRST.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CMNHSDFLRST.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VJtHWxJ.jpg" group-title="2014",2014 - CORAÇÕES DE FERRO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CRCAODFRRO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CRCAODFRRO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/DMghpy" group-title="2014",2014 - DEAD SNOW 2: RED VS. DEAD
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/DEDSNW2RDVSDED.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/DEDSNW2RDVSDED.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z8tuOXY.jpg" group-title="2014",2014 - EM MEUS SONHOS
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/EMSNHS.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/EMSNHS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JjX1VpX.jpg?1" group-title="2014",2014 - ÊXODO: DEUSES E REIS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/EXDDUSERS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/EXDDUSERS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j090Z3k.png" group-title="2014",2014 - FROZEN: UMA AVENTURA CONGELANTE
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/FRZNUACGLNT.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/FRZNUACGLNT.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ycAZAb6.jpg" group-title="2014",2014 - HÉRCULES
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HERCLS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HERCLS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/svQHXMZ.jpg" group-title="2014",2014 - INTERESTELAR
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/INTRSTLAR.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/INTRSTLAR.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s5kc1ca.jpg" group-title="2014",2014 - JOÃO; MARIA: E A BRUXA DA FLORESTA NEGRA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JAOMRAEABXDFLRSNG.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JAOMRAEABXDFLRSNG.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/QMILLe4.jpg" group-title="2014",2014 - MALEVOLA
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/MLVLA.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/MLVLA.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HYTzsj5.jpg" group-title="2014",2014 - MARCADOS PELA GUERRA
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/MRCDSPLGRA.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/MRCDSPLGRA.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pgVQaFg.jpg" group-title="2014",2014 - MOMMY
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/MOMWY.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/MOMWY.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SCkiKvr.png" group-title="2014",2014 - NEED FOR SPEED: O FILME
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/NEDFRSPD.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/NEDFRSPD.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zLNLkpl.jpg" group-title="2014",2014 - NOÉ
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/NOE.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/NOE.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3rIthcu.jpg" group-title="2014",2014 - NOVEMBER MAN: UM ESPIÃO NUNCA MORRE
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/NVBRMNUMESPANCMRE.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/NVBRMNUMESPANCMRE.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D8Wrv6J.jpg" group-title="2014",2014 - O CANDIDATO HONESTO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OCNDDTHNST.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OCNDDTHNST.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/frk40io.jpg" group-title="2014",2014 - O CEU E DE VERDADE
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/OCEDVRD.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/OCEDVRD.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pKFInDr.jpg" group-title="2014",2014 - O DOADOR DE MEMÓRIAS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ODOADRDMEMORS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ODOADRDMEMORS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wust9r9.jpg" group-title="2014",2014 - O JARDIM DOS ESCOLHIDOS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OJRDIMDOSESQUCDS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OJRDIMDOSESQUCDS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ecrYWzV.jpg" group-title="2014",2014 - O QUE SERÁ DE NOZES?
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OQUSRDNZS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OQUSRDNZS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tHX7pbo.jpg" group-title="2014",2014 - O SEGREDO DA BORBOLETA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OSGRDBRLTA.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OSGRDBRLTA.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1CEH5G3.jpg" group-title="2014",2014 - OS CARAS DE PAU EM O MISTERIOSO ROUBO DO ANEL
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OCRSDPUEOMRDA.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OCRSDPUEOMRDA.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oCne6oJ.jpg" group-title="2014",2014 - OS CAVALEIROS DO ZODÍACO: A LENDA DO SANTUÁRIO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OCDZFILME06.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OCDZFILME06.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R2kKasq.jpg" group-title="2014",2014 - PRIMAVERA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/PRMVRA.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/PRMVRA.mp4
 #EXTINF:-1 group-title="2014",2014 - QUALQUER GATO VIRA-LATA
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/QLQURGTVRLT.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/QLQURGTVRLT.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vXkWemi.jpg" group-title="2014",2014 - RELATOS SELVAGENS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/RLTSSLVGNS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/RLTSSLVGNS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PPEMVG2.jpg" group-title="2014",2014 - ROMEU E JULIETA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/RMUEJLETA.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/RMUEJLETA.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XqZkYt4.jpg" group-title="2014",2014 - TRANSCENDENCE: A REVOLUÇÃO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/TRNSCDNCARVCO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/TRNSCDNCARVCO.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MHEIrdI.jpg" group-title="2014",2014 - TRASH: A ESPERANÇA VEM DO LIXO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TSHAESPRNCVMDLX.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TSHAESPRNCVMDLX.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ogocSpg.jpg" group-title="2014",2014 - UM BRINDE A AMIZADE
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/UBRNDAMZD.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/UBRNDAMZD.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DDh2vU9.jpg" group-title="2014",2014 - UM MILHÃO DE MANEIRAS DE PEGAR NA PISTOLA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/UMLHDMNRSDPGRNPSTL.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/UMLHDMNRSDPGRNPSTL.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kPPzfF6.jpg" group-title="2014",2014 - UMA NOTÍCIA INESPERADA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/UNTCINSPRD.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/UNTCINSPRD.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EPqs8fe.png" group-title="2014",2014 - WHIPLASH: EM BUSCA DA PERFEIÇÃO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/WHPSHEBSCDPFC.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/WHPSHEBSCDPFC.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nx84IKJ.jpg" group-title="2013",2013 - A ARTE DA PAIXÃO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AARTDPXA.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AARTDPXA.mp4
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-1gHBOWQNdM0/UqYVOcnOt9I/AAAAAAAANk8/_eXhyPWj5Gg/s1600/AMDD.jpg" group-title="2013",2013 - A MORTE DO DEMÔNIO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AMRTDPDMNIO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AMRTDPDMNIO.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pGQID65.jpg" group-title="2013",2013 - ADORÁVEL PROFESSORA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ADRVLPRFSRA.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ADRVLPRFSRA.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zoLYLs1.jpg" group-title="2013",2013 - BAYONETTA: DESTINO SANGRENTO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/BAYONTA.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/BAYONTA.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/GWDCHo" group-title="2013",2013 - CAÇADOR DE ALMAS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CACDRDALMS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CACDRDALMS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SpcqlGp.jpg" group-title="2013",2013 - CARRIE; A ESTRANHA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CRIEAESTNH2013.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CRIEAESTNH2013.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PEHhmCf.jpg?1" group-title="2013",2013 - CINE HOLLIÚDY
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CINEHLUDY.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CINEHLUDY.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fG1kZ2F.png" group-title="2013",2013 - CÍRCULO DE FOGO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CIRCLODFG.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CIRCLODFG.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mNSlV3l.jpg" group-title="2013",2013 - COMPANY OF HEROES - O FILME
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/COMPNYOHROS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/COMPNYOHROS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NDVcoX0.jpg" group-title="2013",2013 - CONFISSÕES DE ADOLESCENTE
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CNFSDADLCNT.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CNFSDADLCNT.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ulvH3Ee.jpg" group-title="2013",2013 - COPA DE ELITE
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CPDELT.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CPDELT.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YWPjdlb.jpg" group-title="2013",2013 - DEPOIS DA TERRA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/DPSDATERRA.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/DPSDATERRA.mp4
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Detona%20Ralph.jpg" group-title="2013",2013 - Detona Ralph
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/DTNARLPH.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5qSdVfy.jpg" group-title="2013",2013 - DEZESSEIS LUAS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/DZSLUAS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/DZSLUAS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xjWGfNo.jpg" group-title="2013",2013 - ENDER'S GAME: O JOGO DO EXTERMINADOR
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ENDGMJGDEXTRMNDR.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ENDGMJGDEXTRMNDR.mp4
 #EXTINF:-1 tvg-logo="http://www.ccine10.com.br/wp-content/uploads/2013/10/GRAVIDADE1.jpg" group-title="2013",2013 - Gravidade
 http://assistir.querofilmehd.com/filmes/Gravity.2013.720p.BluRay.x264.SPARKS.DualAudio-Highvoltage.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/ceNZpl" group-title="2013",2013 - HERÓIS DE RESSACA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HRSDRSCA.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HRSDRSCA.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WmOS3oL.jpg" group-title="2013",2013 - JACK; O CAÇADOR DE GIGANTES
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JCKOCDRDGGNTS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JCKOCDRDGGNTS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/APGOjiX.jpg" group-title="2013",2013 - JOÃO E MARIA: CAÇADORES DE BRUXAS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JAOEMRA01.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JAOEMRA01.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CSW3FNT.jpg" group-title="2013",2013 - JOBS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JOBS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JOBS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vd6zvJo.jpg" group-title="2013",2013 - JOVEM & BELA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JVMEBLA.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JVMEBLA.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/kKCTYz" group-title="2013",2013 - MISTERIO DE ANUBIS A PEDRA DE RA
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/MSTRDANBSAPDRDRA.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/MSTRDANBSAPDRDRA.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EGfCyCP.jpg" group-title="2013",2013 - O CAVALEIRO SOLITÁRIO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OCVLRSLTRIO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OCVLRSLTRIO.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xcug114.jpg" group-title="2013",2013 - O NATAL DOS PADRINHOS MÁGICOS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ONTLDPDRNHSMGCS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ONTLDPDRNHSMGCS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K0EM9IN.jpg" group-title="2013",2013 - OS CROODS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OSCRDS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OSCRDS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0J8Hnqx.jpg" group-title="2013",2013 - QUESTÃO DE TEMPO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/QSTDTMP.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/QSTDTMP.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sNxco7a.jpg" group-title="2013",2013 - SAFÁRI NA ÁFRICA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SFRNAFRIC.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SFRNAFRIC.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M0OKl3c.jpg" group-title="2013",2013 - SWINDLE
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SWINDLE.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SWINDLE.mp4
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/T%C3%A1%20Chovendo%20Hamb%C3%BArguer%202.jpg" group-title="2013",2013 - Tá Chovendo Hamburguer 2
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/TACHVNDHMBRGR2.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MEMpESB.png" group-title="2013",2013 - TIM MAIA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/TIMAIA.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/TIMAIA.mp4
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Monstros%20S.A..jpg" group-title="2013",2013 - Universidade Monstros
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/UNIMNSTRS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jwrCgQd.jpg" group-title="2013",2013 - WOLVERINE: IMORTAL
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/XMEN06.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/XMEN06.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/C5EItxf.jpg" group-title="2012",2012 - AS AVENTURAS DE PI
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/ASAVNTDPI.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ASAVNTDPI.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/X9S906" group-title="2012",2012 - BATTLESHIP A BATALHA DOS MARES
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BTSHPABTHLDSMRS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BTSHPABTHLDSMRS.mp4
 #EXTINF:-1 group-title="2012",2012 - BRUNA SURFISTINHA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/BRNSFSTINHA.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/BRNSFSTINHA.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3nF3oCT.jpg" group-title="2012",2012 - CAVALO DE GUERRA
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/CVLDGUR.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/CVLDGUR.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/mXtxqv" group-title="2012",2012 - DEU A LOUCA NOS NAZIS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/DLUCNSNZ.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/DLUCNSNZ.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2LczDOP.jpg" group-title="2012",2012 - DJANGO LIVRE
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/DJNGLVR.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/DJNGLVR.mp4
 #EXTINF:-1 group-title="2012",2012 - E AÍ... COMEU?
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/EAICMU.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/EAICMU.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6LebrR.jpg" group-title="2012",2012 - O HOMEM QUE MUDOU O JOGO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OHMNQMDOJG.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OHMNQMDOJG.mp4
 #EXTINF:-1 group-title="2012",2012 - O IMPOSSÍVEL
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OIMPSVL.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OIMPSVL.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A3gPTNH.jpg" group-title="2012",2012 - O Ritual
 http://media-br-am.crackle.com/1/3/v6/z1zlf_480p.mp4
 #EXTINF:-1 group-title="2012",2012 - OS PENETRAS
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/OSPNTRS.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/OSPNTRS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7wXCA6P.jpg" group-title="2012",2012 - PARAÍSOS ARTIFICIAIS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/PRAISOARTFCIAS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/PRAISOARTFCIAS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fpvBpUC.jpg" group-title="2012",2012 - SEGUNDOS FATAIS: BLACK HAWK DOWN
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SGNDSFTAIS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SGNDSFTAIS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pSQYnzk.png" group-title="2012",2012 - SINAIS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SINAIS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SINAIS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ki7MIMY.jpg" group-title="2012",2012 - VIZINHOS IMEDIATOS DE 3° GRAU
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/VIZNHIMDATS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/VIZNHIMDATS.mp4
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/A%20Coisa.jpg" group-title="2011",2011 - A Coisa
-http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ACOISA.mp4
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ACOISA.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rb023m0.jpg" group-title="2011",2011 - A FERA
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/AFERA.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/AFERA.mp4
 #EXTINF:-1 group-title="2011",2011 - A LISTA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ALISTA2011.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ALISTA2011.mp4
 #EXTINF:-1 group-title="2011",2011 - A SEITA MISTERIOSA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ASETAMSTRA.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ASETAMSTRA.mp4
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-8ns7GjnhWZU/ThUz_h9EkOI/AAAAAAAAFMs/IY1BzmqxDdE/s1600/livro-the-art-of-tintim-01.jpg" group-title="2011",2011 - AS AVENTURAS DE TINTIM - O FILME
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AAVTRSDTNFILME.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AAVTRSDTNFILME.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fH1AaIk.jpg" group-title="2011",2011 - ASSALTO EM DOSE DUPLA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ASLTEDSDPL.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ASLTEDSDPL.mp4
 #EXTINF:-1 group-title="2011",2011 - BEST PLAYER: GUERREIROS VIRTUAIS
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/BSTPLY.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/BSTPLY.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/eJo66s" group-title="2011",2011 - BIG TIME RUSH: O FILME
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BTRSHOFILME.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BTRSHOFILME.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aQGEmmH.jpg" group-title="2011",2011 - BRAVURA INDÔMITA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BRVRINDMT.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BRVRINDMT.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/IAfLK4" group-title="2011",2011 - CASTELO DO MEDO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CSTLDMD.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CSTLDMD.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7hriRhX.jpg" group-title="2011",2011 - HANNA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/HANNA.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/HANNA.mp4
 #EXTINF:-1 group-title="2011",2011 - HOP: REBELDE SEM PÁSCOA
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/HOPRBLSPSC.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/HOPRBLSPSC.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/56lkdvb.jpg" group-title="2011",2011 - INVASÃO DO MUNDO: BATALHA DE LOS ANGELES
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/INVSDMND.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/INVSDMND.mp4
 #EXTINF:-1 group-title="2011",2011 - NÃO ME ABANDONE JAMAIS
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/NMABNDJMS.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/NMABNDJMS.mp4
 #EXTINF:-1 group-title="2011",2011 - O DESVIO
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/ODSVIO.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ODSVIO.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1ictTWb.jpg" group-title="2011",2011 - O RITUAL
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ORTAL.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ORTAL.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/8wcxYn" group-title="2011",2011 - O ZELADOR ANIMAL
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OZLDR.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OZLDR.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q0m8has.jpg" group-title="2011",2011 - OS ESPECIALISTAS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OESPCLSTS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OESPCLSTS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cj3LLnr.jpg" group-title="2011",2011 - OS PINGUINS DO PAPAI
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OSPNGUNSDPAI.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OSPNGUNSDPAI.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ugGXenS.jpg" group-title="2011",2011 - OS TRÊS MOSQUETEIROS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OTRSMSQTRS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OTRSMSQTRS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CbXGkfK.jpg" group-title="2011",2011 - PRISIONEIROS DO HOLOCAUSTO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PRSNRSDHLCST.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PRSNRSDHLCST.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n4udtdQ.jpg" group-title="2011",2011 - RAFINHA BASTOS: A ARTE DO INSULTO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/RFNHBSTSAARTDINSLT.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/RFNHBSTSAARTDINSLT.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xCQ24tq.jpg" group-title="2011",2011 - SHAOLIN
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SHAOLIN.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SHAOLIN.mp4
 #EXTINF:-1 group-title="2011",2011 - SUPER 8
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SPR8.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SPR8.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0tzUGKq.jpg" group-title="2010",2010 - 72 HORAS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/72HRS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/72HRS.mp4
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-gzfxFeL-2v4/VJsh5MysiFI/AAAAAAAAATU/fo4uqiAXiFE/s1600/capa-do-filme-a-final.jpg" group-title="2010",2010 - A FINAL
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AFNL.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AFNL.mp4
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-3YFtWOz41Ts/VVEz5FC_QHI/AAAAAAAAKM4/TulMzScR2gQ/s320/a2bmentira.jpg" group-title="2010",2010 - A MENTIRA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AMNTR.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AMNTR.mp4
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/_pmyigWqcM5Q/TTCoyZt4o3I/AAAAAAAAA14/kx15tenSwCw/s1600/rede-social.jpg" group-title="2010",2010 - A REDE SOCIAL
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ARDSCIL.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ARDSCIL.mp4
 #EXTINF:-1 group-title="2010",2010 - CARS TOON: AS GRANDES HISTÓRIAS DO MATE
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CRSTONAGHDM.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CRSTONAGHDM.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/auLiuFX.png" group-title="2010",2010 - CENTURIÃO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CNTRAO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CNTRAO.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wSvHK2f.jpg" group-title="2010",2010 - CONTOS DO CARGUEIRO NEGRO
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/WATCHMCNTSDCRG.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/WATCHMCNTSDCRG.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oWXTloO.png" group-title="2010",2010 - ELA É DEMAIS PRA MIM
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ELAEDMSPRMIN.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ELAEDMSPRMIN.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WXutl8z.jpg" group-title="2010",2010 - GUERRA AO TERROR
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/GURAOTER.mp4
 #EXTINF:-1 tvg-logo="https://images-br-am.crackle.com/1/d/qm/a6dyb_tnl_210x118.jpg" group-title="2010",2010 - Guerra ao Terror
 http://media-br-am.crackle.com/1/q/f6/95ylf_480p.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WXutl8z.jpg" group-title="2010",2010 - GUERRA AO TERROR
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/GURAOTER.mp4
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Juntos%20Pelo%20Acaso.jpg" group-title="2010",2010 - Juntos Pelo Acaso
-http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/JNTSPLACSO.mp4
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/JNTSPLACSO.mp4
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Megamente.jpg" group-title="2010",2010 - Megamente
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/MGMNTE.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LD4luLE.jpg" group-title="2010",2010 - NINJA ASSASSINO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/NINJASSNSO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/NINJASSNSO.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bm0TrRq.jpg" group-title="2010",2010 - NOSSO LAR
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/NSSOLR.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/NSSOLR.mp4
 #EXTINF:-1 group-title="2010",2010 - O 30° DIA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/O30DIA.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/O30DIA.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jd11smR.jpg" group-title="2010",2010 - O ÚLTIMO MESTRE DO AR
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OULTMMSTDAR.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OULTMMSTDAR.mp4
 #EXTINF:-1 group-title="2010",2010 - PRÍNCIPE DA PÉRSIA: AS AREIAS DO TEMPO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/PRNCDPRSASARSDOTMP.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/PRNCDPRSASARSDOTMP.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2KybsCh.jpg" group-title="2010",2010 - SEA REX: JORNADA A UM MUNDO PRÉ-HISTÓRICO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SEARX3D.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SEARX3D.mp4
 #EXTINF:-1 group-title="2009",2009 - 17 OUTRA VEZ
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/17OUTVZ.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/17OUTVZ.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cr79WhC.jpg" group-title="2009",2009 - 2012
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/2012.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/2012.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zHQbWRF.jpg" group-title="2009",2009 - 9 - A SALVAÇÃO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ASLVCAO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ASLVCAO.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mq2s3O0.jpg" group-title="2009",2009 - ANJOS E DEMONIOS
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/ANJSEDMNIS.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ANJSEDMNIS.mp4
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-ykm5Uu3dhXI/U9XFDBewYAI/AAAAAAAAInQ/Z86ozqKfC4I/s1600/astro_boy_ver11_xlg.jpg" group-title="2009",2009 - ASTRO BOY
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ASTRBOY.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ASTRBOY.mp4
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/_TXXxYOOZ06Q/SYHZmjtO2QI/AAAAAAAAAGw/na1OfV2YvJk/s400/australia+o+filme.jpg" group-title="2009",2009 - AUSTRÁLIA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AUSTRLIA.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AUSTRLIA.mp4
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-_hozFIKqLvs/VvVlpL1V1zI/AAAAAAABkIU/4-2eS9nPZdkVdYuFyr9lc-inYZLdwRYgQ/s1600/1.jpg" group-title="2009",2009 - AVATAR
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AVTR.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AVTR.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fNTyZZo.jpg" group-title="2009",2009 - CORALINE E O MUNDO SECRETO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CORLNE.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CORLNE.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/zwN7Hj" group-title="2009",2009 - DISTRITO 9
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/DISTRIT9.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/DISTRIT9.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yJ7ccr8.jpg" group-title="2009",2009 - DRAGON BALL EVOLUTION
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/DBZEVLTN.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/DBZEVLTN.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fx0TQ8h.jpg" group-title="2009",2009 - EU TE AMO; BETH COOPER
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/EUTAMOBTHCPR.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/EUTAMOBTHCPR.mp4
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Invictus.jpg" group-title="2009",2009 - Invictus
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/INVCTS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wrLWs4D.jpg" group-title="2009",2009 - LUTADOR DE RUA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/LTDRDRUA.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/LTDRDRUA.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8hPC1if.jpg" group-title="2009",2009 - MALUCA PAIXÃO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MLCPXAO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MLCPXAO.mp4
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Monstros%20Vs.%20Alien%C3%ADgenas.jpg" group-title="2009",2009 - Monstros Vs. Alienígenas
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/MNSTRSVSALIEN.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/FNhePb" group-title="2009",2009 - MULHER MARAVILHA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/MLHRMRVLHA.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/MLHRMRVLHA.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zj1Dh1M.jpg" group-title="2009",2009 - O LUTADOR
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OLTDR.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OLTDR.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UBC8riX.jpg" group-title="2009",2009 - O RETRATO DE DORIAN GRAY
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ORTRDORNGRY.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ORTRDORNGRY.mp4
 #EXTINF:-1 group-title="2009",2009 - OS DELÍRIOS DE CONSUMO DE BECKY BLOOM
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OSDLRISDCSMO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OSDLRISDCSMO.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uc1kdyd.jpg" group-title="2009",2009 - PACTO SECRETO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PCTSCRT.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PCTSCRT.mp4
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Press%C3%A1gio%202009.jpg" group-title="2009",2009 - Presságio
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/PRSGIO.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BWaxYTz.jpg" group-title="2009",2009 - SPLICE: A NOVA ESPÉCIE
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SLPCANVESPC.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SLPCANVESPC.mp4
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/T%C3%A1%20Chovendo%20Hamb%C3%BArguer.jpg" group-title="2009",2009 - Tá Chovendo Hambúrguer
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/TACHVNDHMBRGR.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HEI24Wb.jpg" group-title="2009",2009 - TEKKEN
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TKKN.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TKKN.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5jdhWTa.jpg" group-title="2009",2009 - WATCHMEN - O FILME
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/WTCHMNOFLM.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/WTCHMNOFLM.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZJvZo48.jpg" group-title="2009",2009 - ZUMBILÂNDIA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ZMBLND.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ZMBLND.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cFP9uUu.jpg" group-title="2008",2008 - CREPÚSCULO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ASGCRSPCLO01.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ASGCRSPCLO01.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dgvvyxR.jpg" group-title="2008",2008 - HANCOCK
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/HNCK.mp4
 #EXTINF:-1 tvg-logo="https://images-br-am.crackle.com/1/u/96/631lf_tnl_210x118.jpg" group-title="2008",2008 - Hancock
 http://media-br-am.crackle.com/1/u/96/631lf_480p.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/dgvvyxR.jpg" group-title="2008",2008 - HANCOCK
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/HNCK.mp4
 #EXTINF:-1 group-title="2008",2008 - NA NATUREZA SELVAGEM
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/NANTRZSVLG.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/NANTRZSVLG.mp4
 #EXTINF:-1 group-title="2008",2008 - O BOM FILHO À CASA TORNA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OBMFLHACSTRN.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OBMFLHACSTRN.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kNwC5Pu.jpg" group-title="2008",2008 - O INCRÍVEL HULK
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OINCVLHLK.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OINCVLHLK.mp4
 #EXTINF:-1 group-title="2008",2008 - O OLHO DO MAL
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/OLHDML.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/OLHDML.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83bvbtU.jpg" group-title="2008",2008 - O VIZINHO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OVZNHO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OVZNHO.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LUk8qIe.jpg" group-title="2008",2008 - SETE VIDAS
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/STVDS.mp4
 #EXTINF:-1 tvg-logo="https://images1.folha.com.br/livraria/images/3/c/1153148-250x250.png" group-title="2008",2008 - Sete Vidas
 http://media-br-am.crackle.com/1/z/16/3o1lf_480p.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LUk8qIe.jpg" group-title="2008",2008 - SETE VIDAS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/STVDS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6IA0icU.jpg" group-title="2008",2008 - SPEED RACER
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SPDRCR.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SPDRCR.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BP13L.jpg" group-title="2008",2008 - UMA CHAMADA PERDIDA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/UMCHMDPRDA.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/UMCHMDPRDA.mp4
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Wall-E.jpg" group-title="2008",2008 - Wall-E
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/WLLE.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Umw3bm6.jpg" group-title="2007",2007 - À PROCURA DA FELICIDADE
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/APRCRDFLCDAD.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/APRCRDFLCDAD.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FR6FbJj.png" group-title="2007",2007 - GRITOS MORTAIS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/GRTSMORTS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/GRTSMORTS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q24o6dT.jpg" group-title="2007",2007 - LIGEIRAMENTE GRÁVIDOS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/LIGRANTGRVDS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/LIGRANTGRVDS.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_300_300/medias/nmedia/18/87/10/52/19891014.jpg" group-title="2007",2007 - Numero 23
 http://assistir.querofilmehd.com/filmes/Numero.23.2007.720p.BRRip.H264.AC3-DUAL-TORUKMAKTO.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HkSKHCv.jpg" group-title="2007",2007 - O NEVOEIRO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ONVOERO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ONVOERO.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ERK0.jpg" group-title="2007",2007 - PRIMITIVO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PRMTVO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PRMTVO.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PCi5Grm.jpg" group-title="2006",2006 - AS TORRES GÊMEAS
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/ASTRSGMS.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ASTRSGMS.mp4
 #EXTINF:-1 group-title="2006",2006 - CLICK
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CLCK.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CLCK.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2tdtKW4.jpg" group-title="2006",2006 - DOIS ESTRANHOS; UM CASAMENTO / O PRAZER DA SUA COMPANHIA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OPRZRDSUACMPNH.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OPRZRDSUACMPNH.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1rptUx9.jpg" group-title="2006",2006 - DOOM: A PORTA DO INFERNO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/DOMAPRTDINFN.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/DOMAPRTDINFN.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q3alCUP.jpg" group-title="2006",2006 - FILHOS DA ESPERANÇA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/FLHSDESPRNC.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/FLHSDESPRNC.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iO6PvvS.jpg" group-title="2006",2006 - FLYBOYS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/FLBYS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/FLBYS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kInV4eL.jpg" group-title="2006",2006 - MAIS ESTRANHO QUE A FICÇÃO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MSESTNHQFCAO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MSESTNHQFCAO.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PwhgDy6.jpg" group-title="2006",2006 - O CODIGO DA VINCI
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/OCODVNC.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qEMRyfV.jpg" group-title="2006",2006 - O Codigo Da Vinci
 http://media-br-am.crackle.com/1/n/z6/grvlf_480p.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PwhgDy6.jpg" group-title="2006",2006 - O CODIGO DA VINCI
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/OCODVNC.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a2XrlZb.jpg" group-title="2006",2006 - OS INFILTRADOS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OSINFTRDS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OSINFTRDS.mp4
 #EXTINF:-1 group-title="2006",2006 - OS SEM-FLORESTA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OSMFLRSTS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OSMFLRSTS.mp4
 #EXTINF:-1 tvg-logo="https://images-br-am.crackle.com/1/r/im/9odyb_tnl_210x118.jpg" group-title="2006",2006 - Sob Suspeita
 http://media-br-am.crackle.com/1/_/x6/36wlf_480p.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ypmUD.jpg" group-title="2006",2006 - TENACIOUS D: UMA DUPLA INFERNAL
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TNCSDUDI.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TNCSDUDI.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0ZxxKZQ.jpg" group-title="2006",2006 - TREM FANTASMA
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/TRMFNTSM.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/TRMFNTSM.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mG2Cqvm.jpg" group-title="2006",2006 - ULTRAVIOLETA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ULTRVLT.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ULTRVLT.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VyMfzgq.jpg" group-title="2006",2006 - V DE VINGANÇA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/VDVNGNCA.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/VDVNGNCA.mp4
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-hYrS6ZqAReo/U4zozoEtfAI/AAAAAAAAHpU/Zhoi_-IX0Lg/s1600/affdcho.jpg" group-title="2005",2005 - A FANTÁSTICA FÁBRICA DE CHOCOLATE
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AFNTSCFBRCDCHCLT2005.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AFNTSCFBRCDCHCLT2005.mp4
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-15QUW72R5Nc/UyiFxwSQp4I/AAAAAAAAA28/tsPeBAd8Rh8/s1600/noiva-cadaver.jpg" group-title="2005",2005 - A NOIVA-CADÁVER
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ANOIVCDVER.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ANOIVCDVER.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mtXbNmy.jpg" group-title="2005",2005 - AEON FLUX
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/AERNFLX.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/AERNFLX.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bmwke9D.jpg" group-title="2005",2005 - DESVENTURAS EM SÉRIE
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/DSVNTRESER.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/DSVNTRESER.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XyILXIv.jpg" group-title="2005",2005 - ELEKTRA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ELKTRA.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ELKTRA.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GPGCOzx.png" group-title="2005",2005 - HITCH - CONSELHEIRO AMOROSO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/HTCHCNSLHAMRS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/HTCHCNSLHAMRS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UEwu5Ce.png" group-title="2005",2005 - JOHNNY & JUNE
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/JOHNTEJNE.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/JOHNTEJNE.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/74k676t.jpg" group-title="2005",2005 - LAR DOCE INFERNO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/LRDCINFN.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/LRDCINFN.mp4
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/O%20Galinho%20Chicken%20Little.jpg" group-title="2005",2005 - O Galinho Chicken Little
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/OGLNHCHKNLT.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Iogmu7A.jpg" group-title="2005",2005 - OLIVER TWIST
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OLVRTWST.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OLVRTWST.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/47r6fD" group-title="2005",2005 - REFÉM
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/RFEM.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/RFEM.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5xtyqql.jpg" group-title="2005",2005 - RITMO DE UM SONHO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/RTMDUMSNHO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/RTMDUMSNHO.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jjCtF.jpg" group-title="2005",2005 - VENOM
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/VENOM.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/VENOM.mp4
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6NS9XoYQhAo/UvoWxC8_HrI/AAAAAAAAAXA/hdSZ8EHgPdk/s1600/janela_secreta1.jpg" group-title="2004",2004 - A JANELA SECRETA
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AJNLSCRT.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h609dWq.jpg" group-title="2004",2004 - A Janela Secreta
 http://media-br-am.crackle.com/1/u/56/rv1lf_480p.mp4
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6NS9XoYQhAo/UvoWxC8_HrI/AAAAAAAAAXA/hdSZ8EHgPdk/s1600/janela_secreta1.jpg" group-title="2004",2004 - A JANELA SECRETA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AJNLSCRT.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xT0SM.jpg" group-title="2004",2004 - A PAIXÃO DE CRISTO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/APAXAODCRST.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/APAXAODCRST.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-nO1vJW4E0c4/UBbRzdaSbwI/AAAAAAAAAfk/hdRvfZPLwQs/s1600/as%2Bbranquelas....jpg" group-title="2004",2004 - AS BRANQUELAS
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ASBRNQLS.mp4
 #EXTINF:-1 tvg-logo="https://images-br-am.crackle.com/1/v/96/931lf_tnl_210x118.jpg" group-title="2004",2004 - As Branquelas
 http://media-br-am.crackle.com/1/v/96/931lf_480p.mp4
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-nO1vJW4E0c4/UBbRzdaSbwI/AAAAAAAAAfk/hdRvfZPLwQs/s1600/as%2Bbranquelas....jpg" group-title="2004",2004 - AS BRANQUELAS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ASBRNQLS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1q7kHW9.jpg" group-title="2004",2004 - COM A BOLA TODA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CMABLATD.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CMABLATD.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tje87tP.jpg" group-title="2004",2004 - COMO SE FOSSE A PRIMEIRA VEZ
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CMSFSAPRMVZ.mp4
 #EXTINF:-1 tvg-logo="https://images-br-am.crackle.com/1/u/56/uv1lf_tnl_210x118.jpg" group-title="2004",2004 - Como Se Fosse a Primeira Vez
 http://media-br-am.crackle.com/1/u/56/uv1lf_480p.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tje87tP.jpg" group-title="2004",2004 - COMO SE FOSSE A PRIMEIRA VEZ
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CMSFSAPRMVZ.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ujukiWh.png" group-title="2004",2004 - ESCOLA DE ROCK
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/ESCLDRCK.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ESCLDRCK.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ZJbUMjI.jpg" group-title="2004",2004 - HORA DE VOLTAR
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/HRDVLTR.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/HRDVLTR.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YqYpeUO.jpg" group-title="2004",2004 - O EXPRESSO POLAR
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OEXPRSPOLAR.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OEXPRSPOLAR.mp4
 #EXTINF:-1 group-title="2004",2004 - SHOW DE VIZINHA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SHWDVZNA.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SHWDVZNA.mp4
 #EXTINF:-1 group-title="2003",2003 - AMOR À SEGUNDA VISTA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AMRASGNDVST.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AMRASGNDVST.mp4
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Bem-Vindo%20%C3%80%20Selva.jpg" group-title="2003",2003 - Bem-Vindo À Selva
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/BMVNDASLV.mp4
 #EXTINF:-1 group-title="2003",2003 - CRUZEIRO DAS LOUCAS
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/OCRZRDLCS.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/OCRZRDLCS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qNMh5Nv.jpg" group-title="2003",2003 - FREDDY X JASON
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/FRDVSJSN.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/FRDVSJSN.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3B2mEfQ.jpg" group-title="2003",2003 - HULK
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/HULK.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/HULK.mp4
 #EXTINF:-1 group-title="2003",2003 - LISBELA E O PRISIONEIRO
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/LSBLEOPRSNR.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/LSBLEOPRSNR.mp4
 #EXTINF:-1 group-title="2003",2003 - OS NORMAIS: O FILME
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/OSNRMASOFLM.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/OSNRMASOFLM.mp4
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Procurando%20Nemo.jpg" group-title="2003",2003 - Procurando Nemo
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/PRCRNDONEM.mp4
 #EXTINF:-1 group-title="2002",2002 - A MÁQUINA DO TEMPO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AMQNDTMP.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AMQNDTMP.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OuvPFCz.jpg" group-title="2002",2002 - CIDADE DE DEUS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CIDEDEUS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CIDEDEUS.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/oSQzjw" group-title="2002",2002 - DESAPARECIDAS
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/DESPRCDAS.mp4
 #EXTINF:-1 tvg-logo="https://images-br-am.crackle.com/1/9/l6/wjwlf_tnl_210x118.jpg" group-title="2002",2002 - Desaparecidas
 http://media-br-am.crackle.com/1/9/l6/wjwlf_480p.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/oSQzjw" group-title="2002",2002 - DESAPARECIDAS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/DESPRCDAS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xkzRU7Z.jpg" group-title="2002",2002 - GAROTA VENENO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/GRTVNO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/GRTVNO.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y22m2Nn.jpg" group-title="2002",2002 - JASON X
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JSNX.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JSNX.mp4
 #EXTINF:-1 group-title="2002",2002 - NÃO É MAIS UM BESTEIROL AMERICANO
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/NEUMBSTRAMRCN.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/NEUMBSTRAMRCN.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wdosvvg.jpg" group-title="2002",2002 - O AMOR É CEGO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OAMRECG.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OAMRECG.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PqIUBMZ.jpg" group-title="2002",2002 - RITMO TOTAL
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/RTMTOTL.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/RTMTOTL.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qmFZdVZ.jpg" group-title="2002",2002 - UM AMOR PARA RECORDAR
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/UAMRPRRCRDR.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/UAMRPRRCRDR.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/diQFlin.jpg" group-title="2001",2001 - CÍRCULO DE FOGO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CIRCLODFG2001.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CIRCLODFG2001.mp4
 #EXTINF:-1 group-title="2001",2001 - DO QUE AS MULHERES GOSTAM
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/DQAMLHRSGSTM.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/DQAMLHRSGSTM.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/hWx0wD" group-title="2001",2001 - FINAL FANTASY
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/FFTSTSW.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/FFTSTSW.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xAEZ73C.jpg" group-title="2001",2001 - NAVIO FANTASMA
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/NVFNTSM.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/NVFNTSM.mp4
 #EXTINF:-1 group-title="2001",2001 - O BURACO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OBURC.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OBURC.mp4
 #EXTINF:-1 group-title="2000",2000 - ALTA FREQUÊNCIA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ALTFRQNC.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ALTFRQNC.mp4
 #EXTINF:-1 group-title="2000",2000 - O AUTO DA COMPADECIDA
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/OATDCPDCDA.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/OATDCPDCDA.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/U6wl7h" group-title="1999",1999 - DETROIT A CIDADE DO ROCK
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/DTRIDACDADRCK.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/DTRIDACDADRCK.mp4
 #EXTINF:-1 group-title="1999",1999 - O TALENTOSO RIPLEY
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OTLNTSRPLY.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OTLNTSRPLY.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cGT7B71.jpg" group-title="1999",1999 - PIRATAS DA INFORMÁTICA / PIRATAS DO VALE DO SILÍCIO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PIRTVLDSLCIO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PIRTVLDSLCIO.mp4
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/_xN-ChkkkzSw/S9ONwVZBAcI/AAAAAAAAAU0/OIgxTrCISZ0/s1600/Advogado+Do+Diabo.jpg" group-title="1998",1998 - ADVOGADO DO DIABO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ADVGDIAB.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ADVGDIAB.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zKktGAn.jpg" group-title="1998",1998 - CIDADE DOS ANJOS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CIDDSANJS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CIDDSANJS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a6m5kAq.png" group-title="1998",1998 - O HOMEM DA MÁSCARA DE FERRO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OHMNDMSCRDFRR.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OHMNDMSCRDFRR.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3tU816X.jpg" group-title="1998",1998 - PATCH ADAMS: O AMOR É CONTAGIOSO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PTCHADMSOAMRECNTG.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PTCHADMSOAMRECNTG.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4UuCunn.jpg" group-title="1998",1998 - TITANIC
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TITANC.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TITANC.mp4
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-k_0ilWp53yc/VtwcSToNRPI/AAAAAAAAD5U/PFYVCKZJ11s/s1600/At%25C3%25A9%2Bo%2BLimite%2BDa%2BHonra%2B%25281997%2529%2BOficial.jpg" group-title="1997",1997 - ATÉ O LIMITE DA HONRA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ATOLMTDHNRA.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ATOLMTDHNRA.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/YODCVL" group-title="1997",1997 - GATTACA: EXPERIÊNCIA GENÉTICA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/GATCEXPRCIA.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/GATCEXPRCIA.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WbTb9vs.jpg" group-title="1997",1997 - GOOD BURGER
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/GODBRGRS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/GODBRGRS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fiMhvl3.jpg" group-title="1996",1996 - JUMANJI
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JUMNJ.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/JUMNJ.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s7ZKSY3.jpg" group-title="1996",1996 - OS 12 MACACOS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OS12MCACOS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OS12MCACOS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0J7PBi7.jpg" group-title="1996",1996 - OS ESPÍRITOS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OESPRTS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OESPRTS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UYMak0L.jpg" group-title="1996",1996 - STRIPTEASE
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/STRPTESE.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/STRPTESE.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CSQ0x6K.jpg" group-title="1995",1995 - O NOME DO JOGO
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ONMDJG.mp4
 #EXTINF:-1 tvg-logo="https://images-br-am.crackle.com/1/m/56/vr1lf_tnl_210x118.jpg" group-title="1995",1995 - O Nome do Jogo
 http://media-br-am.crackle.com/1/m/56/vr1lf_480p.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CSQ0x6K.jpg" group-title="1995",1995 - O NOME DO JOGO
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/ONMDJG.mp4
 #EXTINF:-1 group-title="1995",1995 - OS SUSPEITOS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OSUSPITS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OSUSPITS.mp4
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Forrest%20Gump%20-%20O%20Contador%20de%20Hist%C3%B3rias.jpg" group-title="1994",1994 - Forrest Gump: O Contador de Histórias
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/FORSTGRMPOCNTADRDHSTRIA.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xmqpFBH.jpg" group-title="1994",1994 - O MÁSKARA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OMSKR01.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OMSKR01.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zl5q9ho.jpg" group-title="1994",1994 - O NOVO PESADELO - O RETORNO DE FREDDY KRUEGER
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AHRDPSDL07.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AHRDPSDL07.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BhBUmO9.jpg" group-title="1993",1993 - BATALHA DE HONRA
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/BTLHDHNR.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/BTLHDHNR.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t5PU3qs.jpg" group-title="1993",1993 - DAVE: PRESIDENTE POR UM DIA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/DAVPRSDNTPUD.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/DAVPRSDNTPUD.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KilJ4Em.jpg" group-title="1993",1993 - JASON VAI PARA O INFERNO: A ÚLTIMA SEXTA-FEIRA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SXTFR13PTIX.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SXTFR13PTIX.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rShJlg0.jpg" group-title="1993",1993 - TOMBSTONE: A JUSTIÇA ESTÁ CHEGANDO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TOMBTNEAJSTESTCGAND.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TOMBTNEAJSTESTCGAND.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kjrmza5.jpg" group-title="1992",1992 - AS CRIATURAS ATRÁS DAS PAREDES
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ASCRTURSARSDPRDS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ASCRTURSARSDPRDS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mKQGpCP.jpg" group-title="1992",1992 - O ÚLTIMO DOS MOICANOS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OULMDMICNS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OULMDMICNS.mp4
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-GBe9i_XRGts/UkM15A4WtAI/AAAAAAAACTw/VaKrud1WsGw/s1600/A+Familia+Addams.jpg" group-title="1991",1991 - A FAMÍLIA ADDAMS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AFMLADMS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AFMLADMS.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/iaDfBZ" group-title="1991",1991 - BONECA ASSASSINA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/BONCASSNA.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/BONCASSNA.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/EUR7HM" group-title="1991",1991 - EDWARD MÃOS DE TESOURA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/EDWRDMSDTSR.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/EDWRDMSDTSR.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L0mkvaS.jpg" group-title="1991",1991 - O MESTRE DOS BRINQUEDOS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OMSTRDSBRNQDS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OMSTRDSBRNQDS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dUtOpIA.jpg" group-title="1989",1989 - CYBORG: O DRAGÃO DO FUTURO
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/CBRGODRGDFTRO.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/CBRGODRGDFTRO.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/32PcXzx.jpg" group-title="1989",1989 - SEM LICENÇA PARA DIRIGIR
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SEMLICNPRDRGIR.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SEMLICNPRDRGIR.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tYalCKv.jpg" group-title="1989",1989 - TEMPO DE GLÓRIA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TMPDGLRIA.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TMPDGLRIA.mp4
 #EXTINF:-1 group-title="1989",1989 - UMA DUPLA QUASE PERFEITA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/UMDPLAQSPRFTA.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/UMDPLAQSPRFTA.mp4
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-o4eZr76BlgM/TzUI-ke2lWI/AAAAAAAABhU/PeBUYQSWsZE/s1600/akira.jpg" group-title="1988",1988 - AKIRA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AKIRA.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AKIRA.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z7tlp.jpg" group-title="1988",1988 - UM PRÍNCIPE EM NOVA YORK
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/UMPRNCPEMNVYRK.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/UMPRNCPEMNVYRK.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gzm8ogj.jpg" group-title="1987",1987 - NAMORADA DE ALUGUEL
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/NARMDALGL.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/NARMDALGL.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_300_300/medias/nmedia/18/90/43/61/20096488.jpg" group-title="1987",1987 - Os Intocáveis
 http://assistir.querofilmehd.com/filmes/The.Untouchables.1987.720p.BDRip.Dual.DTS.AC3-TFREAKS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6LBR7t7.jpg" group-title="1986",1986 - STALLONE COBRA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/STLNECBR.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/STLNECBR.mp4
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/O%20%C3%9Altimo%20Guerreiro%20das%20Estrelas.jpg" group-title="1984",1984 - O Último Guerreiro das Estrelas
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/OULTMGURODSESTRLS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2nFVnOz.jpg" group-title="1983",1983 - MCQUADE; O LOBO SOLITÁRIO
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/MCQDOLBSLTR.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/MCQDOLBSLTR.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M9al5Uy.jpg" group-title="1983",1983 - OS CAÇADORES DE ATLÂNTIDA
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/OSCADRSDATLD.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/OSCADRSDATLD.mp4
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Os%20Embalos%20de%20S%C3%A1bado%20Continuam.jpg" group-title="1983",1983 - Os Embalos de Sábado Continuam
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/OSEMBLDSBDANTCNT.mp4
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-3Vh74igBfqs/U34-hwLzMPI/AAAAAAAAHPk/QuM_19X4luY/s1600/capa-filme.jpg" group-title="1982",1982 - AMOR ESTRANHO AMOR
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/AMRESTNHAMR.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/AMRESTNHAMR.mp4
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Blade%20Runner%202049.jpg" group-title="1982",1982 - Blade Runner o Caçador de Andróides
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/BLDRNER.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gnxuWZF.jpg" group-title="1981",1981 - PAGUE PARA ENTRAR; REZE PARA SAIR
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/PGPRENTRRZPRSIR.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/PGPRENTRRZPRSIR.mp4
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-ZHBuoRMgHQQ/Vdt67_V5eoI/AAAAAAAADNQ/UUBscdIvRv8/s1600/1941.jpg" group-title="1979",1979 - 1941: UMA GUERRA MUITO LOUCA
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/1941UGML.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/1941UGML.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EbGFdtl.jpg" group-title="1978",1978 - DAMIEN: A PROFECIA 2
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/APRFCA2.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/APRFCA2.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bRLuGyP.jpg" group-title="1978",1978 - OS EMBALOS DE SÁBADO À NOITE
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/OSEMBLDSBDANT.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/OSEMBLDSBDANT.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9lW64UR.jpg" group-title="1976",1976 - CARRIE; A ESTRANHA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CRIEAESTNH1976.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CRIEAESTNH1976.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uTkERVa.jpg" group-title="1976",1976 - OS ÚLTIMOS MACHÕES
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OULTMSMCHOS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OULTMSMCHOS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xrqE92K.jpg" group-title="1975",1975 - LUTADOR DE RUA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/LTDRSRUA.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/LTDRSRUA.mp4
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/A%20Dupla%20Explosiva.jpg" group-title="1974",1974 - A Dupla Explosiva
-http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ADPLEXPL.mp4
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ADPLEXPL.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/nBAX9A" group-title="1974",1974 - DESAFIANDO O ASSASSINO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/DSFANDOASASNO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/DSFANDOASASNO.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OAu8leu.jpg" group-title="1973",1973 - O VÔO DO DRAGÃO
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/OVODRGO.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/OVODRGO.mp4
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-TzD6LFtVLpU/Vi7o5May_wI/AAAAAAAAEjw/cFzSebEvXus/s320/bruce%2Blee.jpg" group-title="1973",1973 - OPERAÇÃO DRAGÃO
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/OPRCDRGO.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/OPRCDRGO.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BMwyvhQ.jpg" group-title="1972",1972 - A FÚRIA DO DRAGÃO
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/AFRDRGO.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/AFRDRGO.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FGsrmNR.jpg" group-title="1972",1972 - O DRAGÃO CHINÊS
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/ODRGOCHNS.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ODRGOCHNS.mp4
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-iKn3PGDQo6o/VtDh7TdWfiI/AAAAAAAAEBw/UXyFgdhm2sY/s320/A%2BFant%25C3%25A1stica%2BF%25C3%25A1brica%2Bde%2BChocolate%2B%25281971%2529.jpg" group-title="1971",1971 - A FANTÁSTICA FÁBRICA DE CHOCOLATE
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AFNTSCFBRCDCHCLT.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AFNTSCFBRCDCHCLT.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZhXP7Z5.jpg" group-title="1968",1968 - ERA UMA VEZ NO OESTE
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ERAUMAVZNOST.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ERAUMAVZNOST.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yuELh97.jpg" group-title="1966",1966 - POR UM PUNHADO DE DÓLARES
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PRUMPNHDDOLRS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PRUMPNHDDOLRS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JeCYVFt.png" group-title="1966",1966 - TRÊS HOMENS EM CONFLITO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TSHMNSEMCFLT.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TSHMNSEMCFLT.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bPzKFWV.jpg" group-title="1965",1965 - POR UNS DÓLARES A MAIS
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PRUNSDLRSAMS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PRUNSDLRSAMS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nZasa9K.jpg" group-title="1963",1963 - DEU A LOUCA NO MUNDO
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/DEUALUCNMND.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/DEUALUCNMND.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CVcuEmy.jpg" group-title="1963",1963 - OS PÁSSAROS
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/OSPSRS.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/OSPSRS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z71aHIH.jpg" group-title="1957",1957 - SEM LEI E SEM ALMA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SMLEIESMALM.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SMLEIESMALM.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DGOG7zr.png" group-title="1956",1956 - RASTROS DE ÓDIO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/RSTRSDODIO.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/RSTRSDODIO.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_215_290/pictures/15/11/09/20/22/224034.jpg" group-title="1951",1951 - SANSÃO E DALILA
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/SNSOEDLA.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/SNSOEDLA.mp4
 #EXTINF:-1 group-title="N/D",009 RE:CYBORG
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/009RCBRG.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/009RCBRG.mp4
 #EXTINF:-1 tvg-logo="https://images-br-am.crackle.com/1/c/qm/45dyb_tnl_210x118.jpg" group-title="N/D",1984
 http://media-br-am.crackle.com/1/p/f6/75ylf_480p.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2z2pAEc.jpg" group-title="N/D",A Beira do Abismo
@@ -1223,13 +1285,13 @@ http://media-br-am.crackle.com/1/z/v6/k1zlf_480p.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V93meos.jpg" group-title="N/D",Adeus Amor
 http://media-br-am.crackle.com/1/-/d6/g5vlf_480p.mp4
 #EXTINF:-1 group-title="N/D",ADIEU GALAXY EXPRESS 999
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ADIEUGLXYEXPR999.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ADIEUGLXYEXPR999.mp4
 #EXTINF:-1 tvg-logo="https://images-br-am.crackle.com/1/3/f6/s7ylf_tnl_210x118.jpg" group-title="N/D",Adoraveis Mulheres
 http://media-br-am.crackle.com/1/3/f6/s7ylf_480p.mp4
 #EXTINF:-1 tvg-logo="https://images-br-am.crackle.com/1/0/16/6o1lf_tnl_210x118.jpg" group-title="N/D",Africa dos Meus Sonhos
 http://media-br-am.crackle.com/1/0/16/6o1lf_480p.mp4
 #EXTINF:-1 group-title="N/D",AFRO SAMURAI: RESURRECTION
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AFRSMRIRSRCTION.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AFRSMRIRSRCTION.mp4
 #EXTINF:-1 tvg-logo="https://www.fulltv.com.ar/images/peliculas/kuffs-poli-por-casualidad.jpg" group-title="N/D",Agente Indomavel
 http://media-br-am.crackle.com/1/q/v6/hnvlf_480p.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Urj42dp.jpg" group-title="N/D",All That Jazz - O Show Deve Continuar
@@ -1245,7 +1307,7 @@ http://media-br-am.crackle.com/1/w/z6/ksvlf_480p.mp4
 #EXTINF:-1 tvg-logo="https://images-br-am.crackle.com/1/c/4m/c9fyb_tnl_210x118.jpg" group-title="N/D",Annie
 http://media-br-am.crackle.com/1/s/96/z01lf_480p.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/45r1Gkc.jpg" group-title="N/D",ANOMALISA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ANOMLS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ANOMLS.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/87/75/21/19961181.jpg" group-title="N/D",Apenas Uma Vez
 http://media-br-am.crackle.com/1/y/f6/86ylf_480p.mp4
 #EXTINF:-1 tvg-logo="https://images-br-am.crackle.com/1/5/8l/u7cyb_tnl_210x118.jpg" group-title="N/D",Aprendendo A Viver
@@ -1257,7 +1319,7 @@ http://media-br-am.crackle.com/1/r/v6/okvlf_480p.mp4
 #EXTINF:-1 tvg-logo="https://images-br-am.crackle.com/1/g/f6/44ylf_tnl_210x118.jpg" group-title="N/D",As Faces de Helen
 http://media-br-am.crackle.com/1/g/f6/44ylf_480p.mp4
 #EXTINF:-1 group-title="N/D",AS MEMÓRIAS DE MARNIE
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ASMORISDMRN.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ASMORISDMRN.mp4
 #EXTINF:-1 tvg-logo="https://cinema10.com.br/upload/filmes/filmes_2988_Assalto%20Sobre%20Trilhos.jpg" group-title="N/D",Assalto Sobre Trilhos
 http://media-br-am.crackle.com/1/5/f6/07ylf_480p.mp4
 #EXTINF:-1 tvg-logo="https://images-br-am.crackle.com/1/e/l6/edwlf_tnl_210x118.jpg" group-title="N/D",Atraidos Pelo Destino
@@ -1265,7 +1327,7 @@ http://media-br-am.crackle.com/1/e/l6/edwlf_480p.mp4
 #EXTINF:-1 tvg-logo="https://images-br-am.crackle.com/1/b/km/l7eyb_tnl_210x118.jpg" group-title="N/D",Bastidores de um Casamento
 http://media-br-am.crackle.com/1/w/v6/80zlf_480p.mp4
 #EXTINF:-1 group-title="N/D",BATA ANTES DE ENTRAR
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BTANSTDENTR.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BTANSTDENTR.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yZosz1R.jpg" group-title="N/D",Beleza Oculta
 http://s.netcine.tv/netcine-bucket/filmes2016/BELEDUB-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-12561-1psbiwp_c02fcd68.jpeg" group-title="N/D",Bernardo e Bianca
@@ -1275,7 +1337,7 @@ http://media-br-am.crackle.com/1/l/l6/7gwlf_480p.mp4
 #EXTINF:-1 tvg-logo="https://images-br-am.crackle.com/1/w/96/d41lf_tnl_210x118.jpg" group-title="N/D",Bons Costumes
 http://media-br-am.crackle.com/1/w/96/d41lf_480p.mp4
 #EXTINF:-1 group-title="N/D",BORUTO: NARUTO THE MOVIE
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/NRTOSHPFILME08.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/NRTOSHPFILME08.mp4
 #EXTINF:-1 tvg-logo="https://images-br-am.crackle.com/1/v/96/731lf_tnl_210x118.jpg" group-title="N/D",Bruno
 http://media-br-am.crackle.com/1/v/96/731lf_480p.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/Z9ZUbO" group-title="N/D",Cacada sem Treguas
@@ -1295,7 +1357,7 @@ https://goo.gl/kwplQF
 #EXTINF:-1 tvg-logo="https://thayjustin.files.wordpress.com/2010/04/cativeiro1.jpg" group-title="N/D",Cativeiro
 http://media-br-am.crackle.com/1/h/z6/stvlf_480p.mp4
 #EXTINF:-1 group-title="N/D",COBAIN: MONTAGE OF HECK
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CBNMTGOFHCK.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CBNMTGOFHCK.mp4
 #EXTINF:-1 tvg-logo="https://images-br-am.crackle.com/1/l/om/1ffyb_tnl_210x118.jpg" group-title="N/D",Codigo de Honra
 http://media-br-am.crackle.com/1/3/16/kp1lf_480p.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/90/65/30/20107036.jpg" group-title="N/D",Coisas Belas E Sujas
@@ -1371,9 +1433,9 @@ http://media-br-am.crackle.com/1/5/d6/v4vlf_480p.mp4
 #EXTINF:-1 tvg-logo="https://images-br-am.crackle.com/1/y/z6/ssvlf_tnl_210x118.jpg" group-title="N/D",Greta
 http://media-br-am.crackle.com/1/y/z6/ssvlf_480p.mp4
 #EXTINF:-1 group-title="N/D",HACKER G.U. TRILOGY
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HCKTRLOGY.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HCKTRLOGY.mp4
 #EXTINF:-1 group-title="N/D",HACKER THE MOVIE
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HCKOMOVIE.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/HCKOMOVIE.mp4
 #EXTINF:-1 tvg-logo="https://images-br-am.crackle.com/1/x/om/gefyb_tnl_210x118.jpg" group-title="N/D",Hackers - Piratas de Computador
 http://media-br-am.crackle.com/1/z/16/1o1lf_480p.mp4
 #EXTINF:-1 tvg-logo="https://images-br-am.crackle.com/1/p/im/zrdyb_tnl_210x118.jpg" group-title="N/D",Haven
@@ -1397,7 +1459,7 @@ http://media-br-am.crackle.com/1/8/v6/l2zlf_480p.mp4
 #EXTINF:-1 tvg-logo="https://images-br-am.crackle.com/1/k/gl/dlbyb_tnl_210x118.jpg" group-title="N/D",Impacto Mortal
 http://media-br-am.crackle.com/1/n/v6/6jvlf_480p.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gi8EfDa.jpg" group-title="N/D",INFERNO
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/INFRNO.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/INFRNO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/CexmlI" group-title="N/D",Inocente Ou Culpado
 http://media-br-am.crackle.com/1/t/d6/h3vlf_480p.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KXjSiwL.png" group-title="N/D",Irmã Dulce
@@ -1405,7 +1467,7 @@ https://goo.gl/4HO3ci
 #EXTINF:-1 tvg-logo="https://images-br-am.crackle.com/1/6/8l/z7cyb_tnl_210x118.jpg" group-title="N/D",Ironias do Amor
 http://media-br-am.crackle.com/1/x/h6/97vlf_480p.mp4
 #EXTINF:-1 group-title="N/D",IT: UMA OBRA-PRIMA DO MEDO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ITUMOBRPRMDMD.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ITUMOBRPRMDMD.mp4
 #EXTINF:-1 tvg-logo="https://images-br-am.crackle.com/1/5/f6/y7ylf_tnl_210x118.jpg" group-title="N/D",JCVD
 http://media-br-am.crackle.com/1/5/f6/y7ylf_480p.mp4
 #EXTINF:-1 tvg-logo="https://images-br-am.crackle.com/1/k/ol/y0byb_tnl_210x118.jpg?ts=20130222043142" group-title="N/D",Jogando com Prazer
@@ -1459,7 +1521,7 @@ http://media-br-am.crackle.com/1/z/16/4o1lf_480p.mp4
 #EXTINF:-1 tvg-logo="https://images-br-am.crackle.com/1/j/96/uz1lf_tnl_210x118.jpg" group-title="N/D",Meus Quinze Anos
 http://media-br-am.crackle.com/1/j/96/uz1lf_480p.mp4
 #EXTINF:-1 group-title="N/D",MICHAEL JACKSON'S THIS IS IT
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MJTHSISIT.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MJTHSISIT.mp4
 #EXTINF:-1 tvg-logo="https://images-br-am.crackle.com/1/v/cl/7p4wb_tnl_250x141.jpg" group-title="N/D",Mixed Nuts
 http://media-br-am.crackle.com/1/z/56/cw1lf_480p.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W5hrAQH.jpg" group-title="N/D",Na Companhia Do Medo
@@ -1473,7 +1535,7 @@ http://media-br-am.crackle.com/1/n/d6/tzvlf_480p.mp4
 #EXTINF:-1 tvg-logo="https://images-br-am.crackle.com/1/d/qm/85dyb_tnl_210x118.jpg" group-title="N/D",Nao Sem a Minha Filha
 http://media-br-am.crackle.com/1/r/f6/c6ylf_480p.mp4
 #EXTINF:-1 group-title="N/D",Naruto Clássico - Filme 01 - Crônicas Ninjas da Princesa da Neve
-http://v2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/c45a807a.mp4
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/c45a807a.mp4
 #EXTINF:-1 tvg-logo="https://images-br-am.crackle.com/1/1/16/cp1lf_tnl_210x118.jpg" group-title="N/D",Nas Profundezas Do Mar Sem Fim
 http://media-br-am.crackle.com/1/1/16/cp1lf_480p.mp4
 #EXTINF:-1 tvg-logo="https://images-br-am.crackle.com/1/5/8l/w7cyb_tnl_210x118.jpg" group-title="N/D",Nem Por Cima do Meu Cadaver
@@ -1573,7 +1635,7 @@ http://media-br-am.crackle.com/1/x/n6/ry2lf_480p.mp4
 #EXTINF:-1 group-title="N/D",Pequenos Delitos
 http://s.netcine.tv/netcine-bucket/filmes2017/SMALLDUB-BAIXO.mp4
 #EXTINF:-1 group-title="N/D",PERDIDOS NO PACIFICO
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/PRDSNPCFCLEG.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/PRDSNPCFCLEG.mp4
 #EXTINF:-1 tvg-logo="https://images-br-am.crackle.com/1/0/v6/o1zlf_tnl_210x118.jpg" group-title="N/D",Persuasao
 http://media-br-am.crackle.com/1/0/v6/o1zlf_480p.mp4
 #EXTINF:-1 tvg-logo="https://dvdefilme.files.wordpress.com/2012/08/dirty-o-poder-da-corrupc3a7c3a3o.jpg" group-title="N/D",Poder e Corrupcao (Dirty)
@@ -1581,7 +1643,7 @@ http://media-br-am.crackle.com/1/z/n6/y9ulf_480p.mp4
 #EXTINF:-1 tvg-logo="https://images-br-am.crackle.com/1/x/n6/qy2lf_tnl_210x118.jpg" group-title="N/D",Premonicoes
 http://media-br-am.crackle.com/1/x/n6/qy2lf_480p.mp4
 #EXTINF:-1 group-title="N/D",PRESSÁGIOS DE UM CRIME
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/PRSGDUCRM.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/PRSGDUCRM.mp4
 #EXTINF:-1 tvg-logo="https://images-br-am.crackle.com/1/d/wl/secyb_tnl_210x118.jpg" group-title="N/D",Primeira Descida
 http://media-br-am.crackle.com/1/y/d6/30vlf_480p.mp4
 #EXTINF:-1 tvg-logo="https://static.cineclick.com.br/sites/adm/uploads/banco_imagens/53/260x365_519ebb071e6de.jpg" group-title="N/D",Procurando Encrenca
@@ -1637,7 +1699,7 @@ http://media-br-am.crackle.com/1/m/l6/chwlf_480p.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/urKZOUk.jpg" group-title="N/D",Sem Vestigios
 http://media-br-am.crackle.com/1/y/56/bw1lf_480p.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YQNaJzJ.jpg" group-title="N/D",SETE HOMENS E UM DESTINO
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/SETHMNSEUDSTN.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/SETHMNSEUDSTN.mp4
 #EXTINF:-1 tvg-logo="https://images-br-am.crackle.com/1/y/r6/3gvlf_tnl_210x118.jpg" group-title="N/D",Sexo Mentiras e Videotape
 http://media-br-am.crackle.com/1/y/r6/3gvlf_480p.mp4
 #EXTINF:-1 tvg-logo="https://images-br-am.crackle.com/1/y/56/8v1lf_tnl_210x118.jpg" group-title="N/D",Simplesmente Alice
@@ -1667,7 +1729,7 @@ http://media-br-am.crackle.com/1/r/d6/b0vlf_480p.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/jZwPn0" group-title="N/D",Tentaculos
 http://media-br-am.crackle.com/1/f/gl/qkbyb_480p.mp4
 #EXTINF:-1 group-title="N/D",THE GIRL IN THE BOOK
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/THGRLTBOK.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/THGRLTBOK.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2017/03/041.png" group-title="N/D",Tinha Que Ser Ele?
 http://s.netcine.tv/netcine-bucket/filmes2016/TINHADUB-ALTO.mp4
 #EXTINF:-1 group-title="N/D",TOC – Transtornada Obsessiva Compulsiva
@@ -1683,7 +1745,7 @@ http://media-br-am.crackle.com/1/p/d6/12vlf_480p.mp4
 #EXTINF:-1 tvg-logo="https://images-br-am.crackle.com/1/j/8m/dhgyb_tnl_210x118.jpg" group-title="N/D",Triplo X
 http://media-br-am.crackle.com/1/v/96/831lf_480p.mp4
 #EXTINF:-1 group-title="N/D",TÚMULO DOS VAGA-LUMES
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/TUMLDSVAGLMS.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/TUMLDSVAGLMS.mp4
 #EXTINF:-1 tvg-logo="https://images-br-am.crackle.com/1/q/r6/b22lf_tnl_210x118.jpg" group-title="N/D",Turistas
 http://media-br-am.crackle.com/1/q/r6/b22lf_480p.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bj8CimT.jpg" group-title="N/D",Um Amor de Verao
@@ -1731,5 +1793,5 @@ http://media-br-am.crackle.com/1/q/d6/42vlf_480p.mp4
 #EXTINF:-1 tvg-logo="https://images-br-am.crackle.com/1/r/z6/wuvlf_tnl_210x118.jpg" group-title="N/D",XXX2 - Estado de Emergencia
 http://media-br-am.crackle.com/1/r/z6/wuvlf_480p.mp4
 #EXTINF:-1 group-title="N/D",Yu-Gi-OH! - Filme - 10th Anniversary
-http://v2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/cba9c3c2.mp4
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/cba9c3c2.mp4
 

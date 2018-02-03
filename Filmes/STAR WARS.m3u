@@ -1,21 +1,21 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lDPHBTB.jpg" ,1978 - STAR WARS: EPISÓDIO IV: UMA NOVA ESPERANÇA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/STRWRSIV.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/STRWRSIV.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jlHfl60.jpg" ,1980 - STAR WARS: EPISÓDIO V: O IMPÉRIO CONTRA-ATACA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/STRWRSV.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/STRWRSV.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bh2pzCF.jpg" ,1983 - STAR WARS: EPISÓDIO VI: O RETORNO DE JEDI
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/STRWRSVI.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/STRWRSVI.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BXau8IR.jpg" ,1999 - STAR WARS: EPISÓDIO I - A AMEAÇA FANTASMA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/STRWRSI.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/STRWRSI.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cO8Gcpc.jpg" ,2002 - STAR WARS: EPISÓDIO II - ATAQUE DOS CLONES
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/STRWRSII.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/STRWRSII.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JsQMk7W.jpg" ,2005 - STAR WARS: EPISÓDIO III - A VINGANÇA DOS SITH
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/STRWRSIII.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/STRWRSIII.mp4
 #EXTINF:-1 ,2015 - STAR WARS: EPISÓDIO VII: O DESPERTAR DA FORÇA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/STRWRSVII.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/STRWRSVII.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i423E8y.jpg" ,2016 - ROGUE ONE: UMA HISTÓRIA STAR WARS
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/RGONUHSTRWRS.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/RGONUHSTRWRS.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2017/03/images-2.jpg" ,2016 - Rogue One – Uma História Star Wars
 http://s.netcine.tv/netcine-bucket/filmes2016/ROGUEDUBB-ALTO.mp4
 

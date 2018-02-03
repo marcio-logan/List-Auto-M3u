@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o8CghSV.jpg" ,2012 - TED
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TED.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TED.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZU0976L.jpg" ,2015 - TED 2
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/TED2.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/TED2.mp4
 

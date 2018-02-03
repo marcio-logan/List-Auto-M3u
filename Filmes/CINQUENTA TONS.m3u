@@ -1,11 +1,11 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eouzMBK.jpg" ,2015 - CINQUENTA TONS DE CINZA
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CNQNTNSDCNZ.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CNQNTNSDCNZ.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8ETP042.jpg" ,2016 - CINQUENTA TONS DE PRETO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CQNTATNSDPRT.mp4
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CQNTATNSDPRT.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/MOHRHKQ.jpg" ,2017 - CINQUENTA TONS MAIS ESCUROS
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/CQNTTNSMSESCRLEG.mp4
+http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/CQNTTNSMSESCRLEG.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/MOHRHKQ.jpg" ,2017 - Cinquenta Tons Mais Escuros
 http://s.netcine.tv/netcine-bucket/filmes2017/FITTY2017-BAIXO.mp4
 
