@@ -1,9 +1,7 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/InBU8Ng.jpg" ,1951 - ALICE NO PAÍS DAS MARAVILHAS
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ALCNPSDSMRVLHS1951.mp4
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ALCNPSDSMRVLHS1951.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YjWY7bq.jpg" ,2010 - ALICE NO PAÍS DAS MARAVILHAS
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ALCNPSDSMRVLHS.mp4
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ALCNPSDSMRVLHS.mp4
 #EXTINF:-1 ,2016 - ALICE ATRAVÉS DO ESPELHO
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ALCATRVSDESLHO.mp4
-
+http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/ALCATRVSDESLHO.mp4

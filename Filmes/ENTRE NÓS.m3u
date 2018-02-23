@@ -1,7 +1,5 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1V5K7z.jpg" ,2014 - ENTRE NÓS
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ENTRNS.mp4
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ENTRNS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EQhAvVh.jpg" ,2017 - UM LIMITE ENTRE NÓS
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/UMLMTENTNS.mp4
-
+http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/UMLMTENTNS.mp4

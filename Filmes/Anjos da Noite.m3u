@@ -1,19 +1,17 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qijUabg.jpg" ,2003 - ANJOS DA NOITE: UNDERWORLD
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ANJSDNT1.mp4
+http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/ANJSDNT1.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0LKaRq4.jpg" ,2006 - ANJOS DA NOITE: A EVOLUCAO
+http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/ANJSDNT2.mp4
 #EXTINF:-1 tvg-logo="https://images-br-am.crackle.com/1/o/4j/grftb_tnl_210x118.jpg" ,2006 - Anjos da Noite: A Evolucao
 http://media-br-am.crackle.com/1/u/n6/d6ulf_480p.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0LKaRq4.jpg" ,2006 - ANJOS DA NOITE: A EVOLUCAO
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ANJSDNT2.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JerQmnI.jpg" ,2009 - ANJOS DA NOITE: A REBELIAO
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ANJSDNT3.mp4
+http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/ANJSDNT3.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DbxBDNf.jpg" ,2012 - ANJOS DA NOITE: O DESPERTAR
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ANJSDNT4.mp4
+http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/ANJSDNT4.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6il59nU.jpg" ,2016 - ANJOS DA NOITE - GUERRAS DE SANGUE
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ANJSDNT5.mp4
+http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/ANJSDNT5.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DMj62nd.jpg" ,2017 - Anjos da Noite: Guerras de Sangue
 http://s.netcine.tv/netcine-bucket/filmes2016/ANJOSDUB-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fl0iNA3.jpg" ,Anjos da Noite 3 - A Rebeliao
 http://media-br-am.crackle.com/1/k/om/wffyb_480p.mp4
-

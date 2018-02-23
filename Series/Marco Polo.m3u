@@ -1,43 +1,41 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="https://goo.gl/IuwrEL" group-title="T1 - Marco Polo",1x01 - Marco Polo - The Wayfarer
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/MRCPLT01EP01.mp4
+http://v2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/MRCPLT01EP01.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/IuwrEL" group-title="T1 - Marco Polo",1x02 - Marco Polo - The Wolf and the Deer
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/MRCPLT01EP02.mp4
+http://v2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/MRCPLT01EP02.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/IuwrEL" group-title="T1 - Marco Polo",1x03 - Marco Polo - Feast
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/MRCPLT01EP03.mp4
+http://v2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/MRCPLT01EP03.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/IuwrEL" group-title="T1 - Marco Polo",1x04 - Marco Polo - The Fourth Step
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/MRCPLT01EP04.mp4
+http://v2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/MRCPLT01EP04.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/IuwrEL" group-title="T1 - Marco Polo",1x05 - Marco Polo - Hashshashin
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/MRCPLT01EP05.mp4
+http://v2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/MRCPLT01EP05.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/IuwrEL" group-title="T1 - Marco Polo",1x06 - Marco Polo - White Moon
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/MRCPLT01EP06.mp4
+http://v2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/MRCPLT01EP06.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/IuwrEL" group-title="T1 - Marco Polo",1x07 - Marco Polo - The Scholars Pen
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/MRCPLT01EP07.mp4
+http://v2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/MRCPLT01EP07.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/IuwrEL" group-title="T1 - Marco Polo",1x08 - Marco Polo - Rendering
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/MRCPLT01EP08.mp4
+http://v2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/MRCPLT01EP08.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/IuwrEL" group-title="T1 - Marco Polo",1x09 - Marco Polo - Prisoners
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/MRCPLT01EP09.mp4
+http://v2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/MRCPLT01EP09.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/IuwrEL" group-title="T1 - Marco Polo",1x10 - Marco Polo - The Heavenly and Primal - ONSeason Finale
-http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/MRCPLT01EP10.mp4
+http://v2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/MRCPLT01EP10.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/IuwrEL" group-title="T2 - Marco Polo",2x01 - Marco Polo - Hunter and the Sable Weaver
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/MRCPLT02EP01.mp4
+http://v4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/MRCPLT02EP01.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/IuwrEL" group-title="T2 - Marco Polo",2x02 - Marco Polo - Hug
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/MRCPLT02EP02.mp4
+http://v4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/MRCPLT02EP02.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/IuwrEL" group-title="T2 - Marco Polo",2x03 - Marco Polo - Measure Against the Linchpin
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/MRCPLT02EP03.mp4
+http://v4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/MRCPLT02EP03.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/IuwrEL" group-title="T2 - Marco Polo",2x04 - Marco Polo - Let God’s Work Begin
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/MRCPLT02EP04.mp4
+http://v4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/MRCPLT02EP04.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/IuwrEL" group-title="T2 - Marco Polo",2x05 - Marco Polo - Lullaby
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/MRCPLT02EP05.mp4
+http://v4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/MRCPLT02EP05.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/IuwrEL" group-title="T2 - Marco Polo",2x06 - Marco Polo - Serpent’s Terms
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/MRCPLT02EP06.mp4
+http://v4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/MRCPLT02EP06.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/IuwrEL" group-title="T2 - Marco Polo",2x07 - Marco Polo - Lost Crane
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/MRCPLT02EP07.mp4
+http://v4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/MRCPLT02EP07.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/IuwrEL" group-title="T2 - Marco Polo",2x08 - Marco Polo - Whitehorse
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/MRCPLT02EP08.mp4
+http://v4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/MRCPLT02EP08.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/IuwrEL" group-title="T2 - Marco Polo",2x09 - Marco Polo - Heirs
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/MRCPLT02EP09.mp4
+http://v4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/MRCPLT02EP09.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/IuwrEL" group-title="T2 - Marco Polo",2x10 - Marco Polo - The Fellowship - ONSeason Finale
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/MRCPLT02EP10.mp4
-
+http://v4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/MRCPLT02EP10.mp4

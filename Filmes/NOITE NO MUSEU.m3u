@@ -1,9 +1,7 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/esm5z3f.jpg" ,2000 - UMA NOITE NO MUSEU
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/UNTNMSU1.mp4
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/UNTNMSU1.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xsaFq.jpg" ,2009 - UMA NOITE NO MUSEU 2
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/UNTNMSU2.mp4
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/UNTNMSU2.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gbHwhZU.jpg" ,2015 - UMA NOITE NO MUSEU 3: O SEGREDO DA TUMBA
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/UNTNMSU3.mp4
-
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/UNTNMSU3.mp4

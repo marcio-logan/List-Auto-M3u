@@ -1,9 +1,7 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SqS6Goj.jpg" ,2000 - VOVÓ... ZONA
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/VOVZNA.mp4
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/VOVZNA.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RQW2C3K.jpg" ,2006 - VOVÓ... ZONA 2
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/VOVZNA2.mp4
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/VOVZNA2.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nUXlQkf.jpg" ,2011 - VOVÓ... ZONA 3: TAL PAI; TAL FILHO
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/VOVZNA3.mp4
-
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/VOVZNA3.mp4

@@ -1,15 +1,13 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="https://goo.gl/npk5f6" ,2002 - HOMEM-ARANHA
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/HMNARNH01.mp4
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/HMNARNH01.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/xzZQRC" ,2004 - HOMEM-ARANHA 2
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/HMNARNH02.mp4
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/HMNARNH02.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YKwh6c2.jpg" ,2007 - HOMEM-ARANHA 3
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/HMNARNH03.mp4
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/HMNARNH03.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I4WDY.jpg" ,2012 - O ESPETACULAR HOMEM-ARANHA
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OESPTCLHMNARNH01.mp4
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OESPTCLHMNARNH01.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cBl6mXW.jpg" ,2014 - O ESPETACULAR HOMEM-ARANHA 2: A AMEAÇA DE ELECTRO
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OESPTCLHMNARNH02.mp4
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OESPTCLHMNARNH02.mp4
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Homem-Aranha%20-%20De%20Volta%20ao%20Lar.jpg" ,2017 - Homem-Aranha: De Volta ao Lar
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/HOMARNHDVLTALR.mp4
-
+http://v7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/HOMARNHDVLTALR.mp4

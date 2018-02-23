@@ -1,9 +1,7 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/dorEIzf.jpg" ,2013 - MINHA MÃE É UMA PEÇA: O FILME
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/MNHMAEUMPC.mp4
+http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/MNHMAEUMPC.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2017/03/01-2.jpg" ,2016 - Minha Mãe é uma Peça 2
 http://s.netcine.tv/netcine-bucket/filmes2016/MINHAMAE-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kBx5IZF.jpg" ,2016 - MINHA MÃE É UMA PEÇA 2
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/MNHMAEUMPC2.mp4
-
+http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/MNHMAEUMPC2.mp4

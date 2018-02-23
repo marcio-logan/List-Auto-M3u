@@ -1,7 +1,5 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eoCDvEN.jpg" ,1996 - INDEPENDENCE DAY
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/INDPNDAY.mp4
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/INDPNDAY.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9LjnyOk.jpg" ,2016 - INDEPENDENCE DAY O RESSURGIMENTO
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/INDPNDAYORSGMNT.mp4
-
+http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/INDPNDAYORSGMNT.mp4

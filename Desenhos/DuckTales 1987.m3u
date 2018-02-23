@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/48/DuckTales_%28Main_title%29.jpg" group-title="DuckTales 1987",Epsodio 001
 http://www.blogger.com/video-play.mp4?contentId=609338277b7e043d
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/48/DuckTales_%28Main_title%29.jpg" group-title="DuckTales 1987",Epsodio 002
@@ -216,4 +215,3 @@ http://www.blogger.com/video-play.mp4?contentId=f8f669810c133296
 http://www.blogger.com/video-play.mp4?contentId=46bb6818c480f45
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/48/DuckTales_%28Main_title%29.jpg" group-title="DuckTales 1987",Epsodio 108
 http://www.blogger.com/video-play.mp4?contentId=ca5ed8971528d088
-

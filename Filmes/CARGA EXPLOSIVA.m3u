@@ -1,11 +1,9 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="https://goo.gl/4Prh2q" ,2002 - CARGA EXPLOSIVA
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CRGEXPLSV1.mp4
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CRGEXPLSV1.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7GFPBP5.jpg" ,2005 - CARGA EXPLOSIVA 2
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CRGEXPLSV2.mp4
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CRGEXPLSV2.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IcGTgz9.png" ,2008 - CARGA EXPLOSIVA 3
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CRGEXPLSV3.mp4
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CRGEXPLSV3.mp4
 #EXTINF:-1 tvg-logo="https://imgur.com/5eRW3yK.jpg" ,2015 - CARGA EXPLOSIVA: O LEGADO
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CRGEXPLSVOLEGADO.mp4
-
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CRGEXPLSVOLEGADO.mp4

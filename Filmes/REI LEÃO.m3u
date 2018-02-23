@@ -1,9 +1,7 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LtA1Zmr.jpg" ,1994 - O REI LEÃO
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/REILAO01.mp4
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/REILAO01.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WU4X0Ys.jpg" ,1998 - O REI LEÃO 2: O REINO DE SIMBA
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/REILAO02.mp4
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/REILAO02.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t4471e6.jpg" ,2004 - O REI LEÃO 3: HAKUNA MATATA
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/REILAO03.mp4
-
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/REILAO03.mp4

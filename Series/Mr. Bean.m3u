@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="http://goo.gl/hgTxh2" group-title="T1 - Mr. Bean",Ep01 1x01 Mr. Bean: Mr. Bean
 https://www.youtube.com/watch?v=OBLRjm79apo&list=PLntp0UP_5HpL4Wc-xhU0jleJ7a1eMmfX6&index=1
 #EXTINF:-1 tvg-logo="http://goo.gl/hgTxh2" group-title="T1 - Mr. Bean",Ep02 1x01 Mr. Bean: The Return of Mr. Bean
@@ -28,4 +27,3 @@ https://www.youtube.com/watch?v=pHWySDe3yH0&list=PLntp0UP_5HpL4Wc-xhU0jleJ7a1eMm
 https://www.youtube.com/watch?v=yW9QJEPHFxU&list=PLntp0UP_5HpL4Wc-xhU0jleJ7a1eMmfX6&index=13
 #EXTINF:-1 tvg-logo="http://goo.gl/hgTxh2" group-title="T1 - Mr. Bean",Ep14 1x01 Mr. Bean: Hair by Mr. Bean of London
 https://www.youtube.com/watch?v=d1jleBkdb28&list=PLntp0UP_5HpL4Wc-xhU0jleJ7a1eMmfX6&index=14
-

@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/bvAQFMk.jpg" group-title="TRIGUN",Ep 01 TRIGUN
 http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/TRGUNEP01.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/bvAQFMk.jpg" group-title="TRIGUN",Ep 02 TRIGUN
@@ -52,4 +51,3 @@ http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/TRGUNEP24.mp4
 http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/TRGUNEP25.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/bvAQFMk.jpg" group-title="TRIGUN",Ep 26 TRIGUN
 http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/TRGUNEP26.mp4
-

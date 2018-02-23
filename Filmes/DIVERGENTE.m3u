@@ -1,9 +1,7 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="https://goo.gl/pcl0KK" ,2014 - DIVERGENTE
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/DVRGNT.mp4
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/DVRGNT.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nIDEWSO.jpg" ,2015 - A SÉRIE DIVERGENTE: INSURGENTE
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ASREDVRGNTISRGNT.mp4
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ASREDVRGNTISRGNT.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aJSZNc5.jpg" ,2016 - A SERIE DIVERGENTE CONVERGENTE
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ASREDVRGNTCNVGNT.mp4
-
+http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/ASREDVRGNTCNVGNT.mp4

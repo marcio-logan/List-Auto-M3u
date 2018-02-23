@@ -1,11 +1,9 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EtEHTvv.jpg" ,2001 - SHREK
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SHREK01.mp4
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SHREK01.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JeXL7ou.jpg" ,2004 - SHREK 2
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SHREK02.mp4
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SHREK02.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0IFXdjG.jpg" ,2007 - SHREK TERCEIRO
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SHREK03.mp4
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SHREK03.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/is2w2Pj.jpg" ,2010 - SHREK PARA SEMPRE
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SHREKPRSMPR.mp4
-
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SHREKPRSMPR.mp4

@@ -1,57 +1,56 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="https://goo.gl/62AjwW" group-title="T1 - Hannibal",1x01 Hannibal: Apéritif
-http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/HNBLLT01EP01.mp4
+http://v1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/HNBLLT01EP01.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/62AjwW" group-title="T1 - Hannibal",1x02 Hannibal: Amuse-Bouche
-http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/HNBLLT01EP02.mp4
+http://v1.ec.cx/RedeCanais/RedeCanais/RCServer04/ondemand/HNBLLT01EP02.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/62AjwW" group-title="T1 - Hannibal",1x03 Hannibal: OnS Potage
-http://cdnv14.ec.cx/RedeCanais/RCServer05/ondemand/HNBLLT01EP03.mp4
+http://v5.ec.cx/RedeCanais/RCServer05/ondemand/HNBLLT01EP03.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/62AjwW" group-title="T1 - Hannibal",1x04 Hannibal: Verriness
-http://cdnv14.ec.cx/RedeCanais/RCServer05/ondemand/HNBLLT01EP04.mp4
+http://v5.ec.cx/RedeCanais/RCServer05/ondemand/HNBLLT01EP04.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/62AjwW" group-title="T1 - Hannibal",1x05 Hannibal: Oeuf
-http://cdnv14.ec.cx/RedeCanais/RCServer05/ondemand/HNBLLT01EP05.mp4
+http://v5.ec.cx/RedeCanais/RCServer05/ondemand/HNBLLT01EP05.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/62AjwW" group-title="T1 - Hannibal",1x06 Hannibal: Entrée
-http://cdnv14.ec.cx/RedeCanais/RCServer05/ondemand/HNBLLT01EP06.mp4
+http://v5.ec.cx/RedeCanais/RCServer05/ondemand/HNBLLT01EP06.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/62AjwW" group-title="T1 - Hannibal",1x07 Hannibal: Sorbet
-http://cdnv14.ec.cx/RedeCanais/RCServer05/ondemand/HNBLLT01EP07.mp4
+http://v5.ec.cx/RedeCanais/RCServer05/ondemand/HNBLLT01EP07.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/62AjwW" group-title="T1 - Hannibal",1x08 Hannibal: Fromage
-http://cdnv14.ec.cx/RedeCanais/RCServer05/ondemand/HNBLLT01EP08.mp4
+http://v5.ec.cx/RedeCanais/RCServer05/ondemand/HNBLLT01EP08.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/62AjwW" group-title="T1 - Hannibal",1x09 Hannibal: Trou Normand
-http://cdnv14.ec.cx/RedeCanais/RCServer05/ondemand/HNBLLT01EP09.mp4
+http://v5.ec.cx/RedeCanais/RCServer05/ondemand/HNBLLT01EP09.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/62AjwW" group-title="T1 - Hannibal",1x10 Hannibal: Buffet Froid
-http://cdnv14.ec.cx/RedeCanais/RCServer05/ondemand/HNBLLT01EP10.mp4
+http://v5.ec.cx/RedeCanais/RCServer05/ondemand/HNBLLT01EP10.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/62AjwW" group-title="T1 - Hannibal",1x11 Hannibal: Rôti
-http://cdnv14.ec.cx/RedeCanais/RCServer05/ondemand/HNBLLT01EP11.mp4
+http://v5.ec.cx/RedeCanais/RCServer05/ondemand/HNBLLT01EP11.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/62AjwW" group-title="T1 - Hannibal",1x12 Hannibal: Relevés
-http://cdnv14.ec.cx/RedeCanais/RCServer05/ondemand/HNBLLT01EP12.mp4
+http://v5.ec.cx/RedeCanais/RCServer05/ondemand/HNBLLT01EP12.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/62AjwW" group-title="T1 - Hannibal",1x13 Hannibal: Savoureux – ONSeason Finale
-http://cdnv14.ec.cx/RedeCanais/RCServer05/ondemand/HNBLLT01EP13.mp4
+http://v5.ec.cx/RedeCanais/RCServer05/ondemand/HNBLLT01EP13.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/62AjwW" group-title="T2 - Hannibal",2x01 Hannibal: Kaiseki
-http://cdnv15.ec.cx/RedeCanais/RCServer08/ondemand/HNBLLT02EP01.mp4
+http://v6.ec.cx/RedeCanais/RCServer08/ondemand/HNBLLT02EP01.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/62AjwW" group-title="T2 - Hannibal",2x02 Hannibal: Tome-wan
-http://cdnv15.ec.cx/RedeCanais/RCServer08/ondemand/HNBLLT02EP02.mp4
+http://v6.ec.cx/RedeCanais/RCServer08/ondemand/HNBLLT02EP02.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/62AjwW" group-title="T2 - Hannibal",2x03 Hannibal: Hassun
-http://cdnv15.ec.cx/RedeCanais/RCServer08/ondemand/HNBLLT02EP03.mp4
+http://v6.ec.cx/RedeCanais/RCServer08/ondemand/HNBLLT02EP03.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/62AjwW" group-title="T2 - Hannibal",2x04 Hannibal: Takiawase
-http://cdnv15.ec.cx/RedeCanais/RCServer08/ondemand/HNBLLT02EP04.mp4
+http://v6.ec.cx/RedeCanais/RCServer08/ondemand/HNBLLT02EP04.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/62AjwW" group-title="T2 - Hannibal",2x05 Hannibal: Mukozuke
-http://cdnv15.ec.cx/RedeCanais/RCServer08/ondemand/HNBLLT02EP05.mp4
+http://v6.ec.cx/RedeCanais/RCServer08/ondemand/HNBLLT02EP05.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/62AjwW" group-title="T2 - Hannibal",2x06 Hannibal: Futamono
-http://cdnv15.ec.cx/RedeCanais/RCServer08/ondemand/HNBLLT02EP06.mp4
+http://v6.ec.cx/RedeCanais/RCServer08/ondemand/HNBLLT02EP06.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/62AjwW" group-title="T2 - Hannibal",2x07 Hannibal: Yakimono
-http://cdnv15.ec.cx/RedeCanais/RCServer08/ondemand/HNBLLT02EP07.mp4
+http://v6.ec.cx/RedeCanais/RCServer08/ondemand/HNBLLT02EP07.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/62AjwW" group-title="T2 - Hannibal",2x08 Hannibal: Su-zakana
-http://cdnv15.ec.cx/RedeCanais/RCServer08/ondemand/HNBLLT02EP08.mp4
+http://v6.ec.cx/RedeCanais/RCServer08/ondemand/HNBLLT02EP08.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/62AjwW" group-title="T2 - Hannibal",2x09 Hannibal: Shiizakana
-http://cdnv15.ec.cx/RedeCanais/RCServer08/ondemand/HNBLLT02EP09.mp4
+http://v6.ec.cx/RedeCanais/RCServer08/ondemand/HNBLLT02EP09.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/62AjwW" group-title="T2 - Hannibal",2x10 Hannibal: Naka-Choko
-http://cdnv15.ec.cx/RedeCanais/RCServer08/ondemand/HNBLLT02EP10.mp4
+http://v6.ec.cx/RedeCanais/RCServer08/ondemand/HNBLLT02EP10.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/62AjwW" group-title="T2 - Hannibal",2x11 Hannibal: Ko No Mono
-http://cdnv15.ec.cx/RedeCanais/RCServer08/ondemand/HNBLLT02EP11.mp4
+http://v6.ec.cx/RedeCanais/RCServer08/ondemand/HNBLLT02EP11.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/62AjwW" group-title="T2 - Hannibal",2x12 Hannibal: Tome-wan
-http://cdnv15.ec.cx/RedeCanais/RCServer08/ondemand/HNBLLT02EP12.mp4
+http://v6.ec.cx/RedeCanais/RCServer08/ondemand/HNBLLT02EP12.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/62AjwW" group-title="T2 - Hannibal",2x13 Hannibal: Mizumono – ONSeason Finale
-http://cdnv15.ec.cx/RedeCanais/RCServer08/ondemand/HNBLLT02EP13.mp4
+http://v6.ec.cx/RedeCanais/RCServer08/ondemand/HNBLLT02EP13.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/62AjwW" group-title="T3 - Hannibal",3x01 Hannibal: Antipasto
 https://googledrive.com/host/0B8Bn5QmKvSLeajFWRmo3TlljMkE/HNBLLT03EP01.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/62AjwW" group-title="T3 - Hannibal",3x02 Hannibal: Primavera
@@ -78,4 +77,3 @@ https://googledrive.com/host/0B8Bn5QmKvSLeajFWRmo3TlljMkE/HNBLLT03EP11.mp4
 http://pao.fairytaill.com/365/Hannibal/S03E12.MP4
 #EXTINF:-1 tvg-logo="https://goo.gl/62AjwW" group-title="T3 - Hannibal",3x13 Hannibal: He Wrath of the Lamb - ONSeason Finale
 http://pao.fairytaill.com/365/Hannibal/S03E13.MP4
-

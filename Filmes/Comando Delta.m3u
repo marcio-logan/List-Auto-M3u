@@ -1,7 +1,5 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Comando%20Delta.jpg" ,1986 - Comando Delta
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/CMDLT.mp4
+http://v7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/CMDLT.mp4
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Comando%20Delta%202.jpg" ,1990 - Comando Delta 2: Conexão Colômbia
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/CMDLT2.mp4
-
+http://v7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/CMDLT2.mp4

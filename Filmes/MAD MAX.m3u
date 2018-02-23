@@ -1,11 +1,9 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IGKJvOW.jpg" ,1979 - MAD MAX
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MDMX01.mp4
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MDMX01.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/coht4xj.jpg" ,1981 - MAD MAX 2: A CAÇADA CONTINUA
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MDMX02.mp4
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MDMX02.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fbl8XZ7.jpg" ,1985 - MAD MAX: ALÉM DA CÚPULA DO DRAGÃO
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MDMX03.mp4
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MDMX03.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RCsZrhd.png" ,2015 - MAD MAX: ESTRADA DA FÚRIA
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/MDMXESTDFUR.mp4
-
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/MDMXESTDFUR.mp4

@@ -1,7 +1,5 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tphcjWl.jpg" ,2000 - OLHOS FAMINTOS
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OLHSFAMTS1.mp4
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OLHSFAMTS1.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HeuAGxA.jpg" ,2003 - OLHOS FAMINTOS 2
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OLHSFAMTS2.mp4
-
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OLHSFAMTS2.mp4

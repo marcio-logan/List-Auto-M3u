@@ -1,7 +1,5 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/azPGcZy.jpg" ,2011 - ASSASSINO A PREÇO FIXO
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ASASINOAPRCFX.mp4
+http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/ASASINOAPRCFX.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8PSGDSn.jpg" ,2016 - ASSASSINO A PREÇO FIXO 2
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ASASINOAPRCFX2.mp4
-
+http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/ASASINOAPRCFX2.mp4

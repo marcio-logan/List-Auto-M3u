@@ -1,9 +1,7 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ecivpjm.png" ,2005 - MADAGASCAR
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MDGSCR01.mp4
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MDGSCR01.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eGWJqSI.png" ,2008 - MADAGASCAR 2: A GRANDE ESCAPADA
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MDGSCR02.mp4
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MDGSCR02.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m5opILz.jpg" ,2012 - MADAGASCAR 3: OS PROCURADOS
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MDGSCR03.mp4
-
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/MDGSCR03.mp4

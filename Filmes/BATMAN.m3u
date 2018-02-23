@@ -1,51 +1,49 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="https://goo.gl/1UP1cw" ,1989 - BATMAN
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BTMN01.mp4
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BTMN01.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/cX3Thb" ,1992 - BATMAN: O RETORNO
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BTMN02.mp4
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BTMN02.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/FIIqOz" ,1993 - BATMAN A MASCARA DO FANTASMA
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/BATMAMSCRDFNTSM.mp4
+http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/BATMAMSCRDFNTSM.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/ueA5RV" ,1995 - BATMAN: ETERNAMENTE
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BTMN03.mp4
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BTMN03.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/orRbxj" ,1997 - BATMAN: BATMAN E ROBIN
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BTMN04.mp4
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BTMN04.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ep7zFwa.jpg" ,1998 - BATMAN MR. FREEZE ABAIXO DE ZERO
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/BATMCNTROCPZVRM.mp4
+http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/BATMCNTROCPZVRM.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/5zBzg1" ,2000 - BATMAN DO FUTURO: O RETORNO DO CORINGA
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/BATMDFTRORTNDCRNG.mp4
+http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/BATMDFTRORTNDCRNG.mp4
 #EXTINF:-1 ,2003 - BATMAN: O MISTERIO DA MULHER MORCEGO
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/BATMOMSTRDMLHRMRCG.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/zMss8M" ,2005 - BATMAN BEGINS
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BTMN05.mp4
+http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/BATMOMSTRDMLHRMRCG.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kj3yJAh.jpg" ,2005 - BATMAN VS DRACULA
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/BATMVSDRCL.mp4
-#EXTINF:-1 ,2008 - BATMAN: O CAVALEIRO DE GOTHAM
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/BTMNOCVLDGTHM.mp4
+http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/BATMVSDRCL.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/zMss8M" ,2005 - BATMAN BEGINS
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BTMN05.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/6gL5JG" ,2008 - BATMAN: O CAVALEIRO DAS TREVAS
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BTMN06.mp4
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BTMN06.mp4
+#EXTINF:-1 ,2008 - BATMAN: O CAVALEIRO DE GOTHAM
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/BTMNOCVLDGTHM.mp4
 #EXTINF:-1 ,2009 - SUPERMAN BATMAN INIMIGOS PUBLICOS
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/SPRMNEBTMNINMGSPBLCS.mp4
+http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/SPRMNEBTMNINMGSPBLCS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ep7zFwa.jpg" ,2010 - BATMAN CONTRA O CAPUZ VERMELHO
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/BATMCNTROCPZVRM.mp4
+http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/BATMCNTROCPZVRM.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EMZXBSd.jpg" ,2010 - SUPERMAN/BATMAN: APOCALYPSE
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SPRMEBTMNAPCLPSE.mp4
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/SPRMEBTMNAPCLPSE.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/j11oni" ,2011 - BATMAN ANO UM
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/BATMANUM.mp4
+http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/BATMANUM.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/YBS2Kl" ,2012 - BATMAN: O CAVALEIRO DAS TREVAS RESSURGE
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BTMN07.mp4
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BTMN07.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/lllkY9" ,2012 - BATMAN: O CAVALEIRO DAS TREVAS |PARTE 1|
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/BTMNOCVDSTRVSPT1.mp4
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/BTMNOCVDSTRVSPT1.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/h9QoW5" ,2013 - BATMAN: O CAVALEIRO DAS TREVAS |PARTE 2|
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/BTMNOCVDSTRVSPT2.mp4
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/BTMNOCVDSTRVSPT2.mp4
 #EXTINF:-1 ,2013 - LEGO BATMAN: O FILME - SUPER HEROIS SE UNEM
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/BATMLGOFLMSPRHRSUN.mp4
+http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/BATMLGOFLMSPRHRSUN.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/L0uwQE" ,2015 - BATMAN VS. ROBIN
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BTMNVSRBN.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ue7F0oI.png" ,2016 - BATMAN A PIADA MORTAL
-http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/BATMAPIDMRT.mp4
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BTMNVSRBN.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/t2gJrO" ,2016 - BATMAN: SANGUE RUIM
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/BTMNSNGRUIM.mp4
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/BTMNSNGRUIM.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nC807Ot.jpg" ,2016 - BATMAN VS SUPERMAN: A ORIGEM DA JUSTIÇA
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/BTMNVSPRMNAODJT.mp4
-
+http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/BTMNVSPRMNAODJT.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ue7F0oI.png" ,2016 - BATMAN A PIADA MORTAL
+http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/BATMAPIDMRT.mp4
