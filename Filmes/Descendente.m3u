@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Descendente.jpg" ,2015 - Descendente
+http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCFServer4/ondemand/DSCDNTS.mp4
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Descendente%202.jpg" ,2017 - Descendente 2
+http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCFServer4/ondemand/DSCDNTS2.mp4

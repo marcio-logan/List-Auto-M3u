@@ -1,23 +1,23 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lwu2Poq.jpg" ,2002 - RESIDENT EVIL: O HÓSPEDE MALDITO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/REVIL01.mp4
+http://d1253j4wvfqwc4.cloudfront.net/RedeCanais/RedeCanais/RCFServer1/ondemand/REVIL01.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d9IsUPB.jpg" ,2004 - RESIDENT EVIL: APOCALIPSE
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/REVIL02.mp4
+http://d1253j4wvfqwc4.cloudfront.net/RedeCanais/RedeCanais/RCFServer1/ondemand/REVIL02.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7pzUj3A.jpg" ,2007 - RESIDENT EVIL 3: A EXTINÇÃO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/REVIL03.mp4
+http://d1253j4wvfqwc4.cloudfront.net/RedeCanais/RedeCanais/RCFServer1/ondemand/REVIL03.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/08HLySx.jpg" ,2009 - RESIDENT EVIL: DEGENERAÇÃO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/REVILDGNRC.mp4
+http://d1253j4wvfqwc4.cloudfront.net/RedeCanais/RedeCanais/RCFServer1/ondemand/REVILDGNRC.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3jzjIlc.jpg" ,2010 - RESIDENT EVIL 4: RECOMEÇO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/REVIL04.mp4
+http://d1253j4wvfqwc4.cloudfront.net/RedeCanais/RedeCanais/RCFServer1/ondemand/REVIL04.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mQkxPX6.jpg" ,2012 - RESIDENT EVIL 5: RETRIBUIÇÃO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/REVIL05.mp4
+http://d1253j4wvfqwc4.cloudfront.net/RedeCanais/RedeCanais/RCFServer1/ondemand/REVIL05.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XGEyDnL.png" ,2012 - RESIDENT EVIL: CONDENAÇÃO
-http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/REVILCNDNCAO.mp4
+http://d1253j4wvfqwc4.cloudfront.net/RedeCanais/RedeCanais/RCFServer1/ondemand/REVILCNDNCAO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ccddCxn.jpg" ,2017 - RESIDENT EVIL 6: O CAPÍTULO FINAL
-http://v3.ec.cx/RedeCanais/RCFServer3/ondemand/REVIL06.mp4
+http://d1253j4wvfqwc4.cloudfront.net/RedeCanais/RedeCanais/RCFServer3/ondemand/REVIL06.mp4
+#EXTINF:-1 tvg-logo="https://images-br-am.crackle.com/1/v/n6/g6ulf_tnl_210x118.jpg" ,Resident Evil - Apocalipse
+http://media-br-am.crackle.com/1/v/n6/g6ulf_480p.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lwu2Poq.jpg" ,Resident Evil - O Hospede Maldito
 http://media-br-am.crackle.com/1/b/h6/q8vlf_480p.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/34/Resident_Evil_Extinction.jpg" ,Resident Evil 3: A Extincao
 http://media-br-am.crackle.com/1/0/v6/n1zlf_480p.mp4
-#EXTINF:-1 tvg-logo="https://images-br-am.crackle.com/1/v/n6/g6ulf_tnl_210x118.jpg" ,Resident Evil - Apocalipse
-http://media-br-am.crackle.com/1/v/n6/g6ulf_480p.mp4

@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Blade%20Runner%202049.jpg" ,1982 - Blade Runner, o Caçador de Andróides
+http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCFServer4/ondemand/BLDRNER.mp4
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Blade%20Runner%20O%20Ca%C3%A7ador%20de%20Androides.jpg" ,2017 - Blade Runner 2049
+http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCFServer4/ondemand/BLDRNR2049.mp4
