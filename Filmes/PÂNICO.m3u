@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/78e1Vl1.jpg" ,1997 - PÂNICO
-http://d2vsc6y0jm4dyz.redecanais.video/RedeCanais/RedeCanais/RCFServer1/ondemand/PNC1.mp4
+http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer1/ondemand/PNC1.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=PNC1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kURnefD.png" ,1999 - PÂNICO 2
-http://d2vsc6y0jm4dyz.redecanais.video/RedeCanais/RedeCanais/RCFServer1/ondemand/PNC2.mp4
+http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer1/ondemand/PNC2.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=PNC2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n1OpCCc.jpg" ,2000 - PÂNICO 3
-http://d2vsc6y0jm4dyz.redecanais.video/RedeCanais/RedeCanais/RCFServer1/ondemand/PNC3.mp4
+http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer1/ondemand/PNC3.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=PNC3
 #EXTINF:-1 ,2002 - O QUARTO DO PÂNICO
-http://d2vsc6y0jm4dyz.redecanais.video/RedeCanais/RedeCanais/RCFServer2/ondemand/OQRTDPNC.mp4
+http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer2/ondemand/OQRTDPNC.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=OQRTDPNC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AmSnTbg.jpg" ,2011 - PÂNICO 4
-http://d2vsc6y0jm4dyz.redecanais.video/RedeCanais/RedeCanais/RCFServer1/ondemand/PNC4.mp4
+http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer1/ondemand/PNC4.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=PNC4

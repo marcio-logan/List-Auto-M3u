@@ -1,11 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eouzMBK.jpg" ,2015 - CINQUENTA TONS DE CINZA
-http://d1253j4wvfqwc4.cloudfront.net/RedeCanais/RedeCanais/RCFServer1/ondemand/CNQNTNSDCNZ.mp4
+http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer1/ondemand/CNQNTNSDCNZ.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=CNQNTNSDCNZ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8ETP042.jpg" ,2016 - CINQUENTA TONS DE PRETO
-http://d1253j4wvfqwc4.cloudfront.net/RedeCanais/RedeCanais/RCFServer2/ondemand/CQNTATNSDPRT.mp4
+http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer2/ondemand/CQNTATNSDPRT.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=CQNTATNSDPRT
 #EXTINF:-1 tvg-logo="http://i.imgur.com/MOHRHKQ.jpg" ,2017 - CINQUENTA TONS MAIS ESCUROS
-http://d1253j4wvfqwc4.cloudfront.net/RedeCanais/RedeCanais/RCFServer3/ondemand/CQNTTNSMSESCRLEG.mp4
+http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer3/ondemand/CQNTTNSMSESCRLEG.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=CQNTTNSMSESCRLEG
 #EXTINF:-1 tvg-logo="http://i.imgur.com/MOHRHKQ.jpg" ,2017 - Cinquenta Tons Mais Escuros
 http://s.netcine.tv/netcine-bucket/filmes2017/FITTY2017-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Cinquenta%20Tons%20Mais%20Escuros.jpg" ,2017 - Cinquenta Tons Mais Escuros
-http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCFServer4/ondemand/CQNTTNSMSESCR.mp4
+http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer4/ondemand/CQNTTNSMSESCR.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=CQNTTNSMSESCR
+#EXTINF:-1 tvg-logo="http://server6.redecanais.tv/imgs-videos/Cinquenta%20Tons%20de%20Liberdade.jpg" ,2018 - Cinquenta Tons de Liberdade
+http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer4/ondemand/CQNTTNSDLRBDS.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=CQNTTNSDLRBDS

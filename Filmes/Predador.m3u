@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/O%20Predador.jpg" ,1987 - O Predador
-http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCFServer4/ondemand/OPRDR.mp4
+http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer4/ondemand/OPRDR.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=OPRDR
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Predador%202%20-%20A%20Ca%C3%A7ada%20Continua.jpg" ,1990 - Predador 2: A Caçada Continua
-http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCFServer4/ondemand/PRDRS2.mp4
+http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer4/ondemand/PRDRS2.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=PRDRS2
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Predadores.jpg" ,2010 - Predadores
-http://d15rb4p4373nzv.redecanais.video/RedeCanais/RedeCanais/RCFServer4/ondemand/PRDRS.mp4
+http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer4/ondemand/PRDRS.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=PRDRS

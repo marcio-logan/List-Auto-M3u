@@ -1,57 +1,57 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T1 - Máquina Mortífera",T1x01: Piloto
-http://d1253j4wvfqwc4.cloudfront.net/RedeCanais/RedeCanais/RCServer11/ondemand/MQNMRTFT01EP01.mp4
-#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T1 - Máquina Mortífera",T1x02: Surf N Turf
-http://d1253j4wvfqwc4.cloudfront.net/RedeCanais/RedeCanais/RCServer11/ondemand/MQNMRTFT01EP02.mp4
-#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T1 - Máquina Mortífera",T1x03: Melhores Amigos
-http://d1253j4wvfqwc4.cloudfront.net/RedeCanais/RedeCanais/RCServer11/ondemand/MQNMRTFT01EP03.mp4
-#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T1 - Máquina Mortífera",T1x04: Lá Se Vai A Vizinhança
-http://d1253j4wvfqwc4.cloudfront.net/RedeCanais/RedeCanais/RCServer11/ondemand/MQNMRTFT01EP04.mp4
-#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T1 - Máquina Mortífera",T1x05: Leite Derramado
-http://d1253j4wvfqwc4.cloudfront.net/RedeCanais/RedeCanais/RCServer11/ondemand/MQNMRTFT01EP05.mp4
-#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T1 - Máquina Mortífera",T1x06: Laços Que Unem
-http://d1253j4wvfqwc4.cloudfront.net/RedeCanais/RedeCanais/RCServer11/ondemand/MQNMRTFT01EP06.mp4
-#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T1 - Máquina Mortífera",T1x07: Polícia da Moda
-http://d1253j4wvfqwc4.cloudfront.net/RedeCanais/RedeCanais/RCServer11/ondemand/MQNMRTFT01EP07.mp4
-#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T1 - Máquina Mortífera",T1x08: Posso Ter Uma Testemunha?
-http://d1253j4wvfqwc4.cloudfront.net/RedeCanais/RedeCanais/RCServer11/ondemand/MQNMRTFT01EP08.mp4
-#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T1 - Máquina Mortífera",T1x09: Jingle Bell Glock
-http://d1253j4wvfqwc4.cloudfront.net/RedeCanais/RedeCanais/RCServer11/ondemand/MQNMRTFT01EP09.mp4
-#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T1 - Máquina Mortífera",T1x10: Homebodies
-http://d1253j4wvfqwc4.cloudfront.net/RedeCanais/RedeCanais/RCServer11/ondemand/MQNMRTFT01EP10.mp4
-#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T1 - Máquina Mortífera",T1x11: Homens da Lei
-http://d1253j4wvfqwc4.cloudfront.net/RedeCanais/RedeCanais/RCServer11/ondemand/MQNMRTFT01EP11.mp4
-#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T1 - Máquina Mortífera",T1x12: Amor Fraterno
-http://d1253j4wvfqwc4.cloudfront.net/RedeCanais/RedeCanais/RCServer11/ondemand/MQNMRTFT01EP12.mp4
-#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T1 - Máquina Mortífera",T1x13: O Selo Está Quebrado
-http://d1253j4wvfqwc4.cloudfront.net/RedeCanais/RedeCanais/RCServer11/ondemand/MQNMRTFT01EP13.mp4
-#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T1 - Máquina Mortífera",T1x14: O Arquivo Murtaugh
-http://d1253j4wvfqwc4.cloudfront.net/RedeCanais/RedeCanais/RCServer11/ondemand/MQNMRTFT01EP14.mp4
-#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T1 - Máquina Mortífera",T1x15: Tão Bom Quanto Getz
-http://d1253j4wvfqwc4.cloudfront.net/RedeCanais/RedeCanais/RCServer11/ondemand/MQNMRTFT01EP15.mp4
-#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T1 - Máquina Mortífera",T1x16: Violência Desnecessária
-http://d1253j4wvfqwc4.cloudfront.net/RedeCanais/RedeCanais/RCServer11/ondemand/MQNMRTFT01EP16.mp4
-#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T1 - Máquina Mortífera",T1x17: Um Problema Como Maria
-http://d1253j4wvfqwc4.cloudfront.net/RedeCanais/RedeCanais/RCServer11/ondemand/MQNMRTFT01EP17.mp4
-#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T1 - Máquina Mortífera",T1x18: Começo
-http://d1253j4wvfqwc4.cloudfront.net/RedeCanais/RedeCanais/RCServer11/ondemand/MQNMRTFT01EP18.mp4
-#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T2 - Máquina Mortífera",2x01: O Gringo Louco
-http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer13/ondemand/MQNMRTFT02EP01.mp4
-#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T2 - Máquina Mortífera",2x02: Dançando em Setembro
-http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer13/ondemand/MQNMRTFT02EP02.mp4
-#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T2 - Máquina Mortífera",2x03: Nascido Para Correr
-http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer13/ondemand/MQNMRTFT02EP03.mp4
-#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T2 - Máquina Mortífera",2x04: Risco de Voo
-http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer13/ondemand/MQNMRTFT02EP04.mp4
-#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T2 - Máquina Mortífera",2x05: Deixá-lo Andar
-http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer13/ondemand/MQNMRTFT02EP05.mp4
-#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T2 - Máquina Mortífera",2x06: Corrida do Ouro
-http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer13/ondemand/MQNMRTFT02EP06.mp4
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T2 - Máquina Mortífera",2x07: Aves
-http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer13/ondemand/MQNMRTFT02EP07.mp4
+http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCServer13/ondemand/MQNMRTFT02EP07.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=MQNMRTFT02EP07
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T2 - Máquina Mortífera",2x08: Fork-Getta-Bout-I
-http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer13/ondemand/MQNMRTFT02EP08.mp4
+http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCServer13/ondemand/MQNMRTFT02EP08.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=MQNMRTFT02EP08
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T2 - Máquina Mortífera",2x09: Tolos se Apressam
-http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer13/ondemand/MQNMRTFT02EP09.mp4
+http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCServer13/ondemand/MQNMRTFT02EP09.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=MQNMRTFT02EP09
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T2 - Máquina Mortífera",2x10: Destrua os Corredores
-http://dtm07lg7h1lzn.cloudfront.net/RedeCanais/RedeCanais/RCServer13/ondemand/MQNMRTFT02EP10.mp4
+http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCServer13/ondemand/MQNMRTFT02EP10.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=MQNMRTFT02EP10
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T1 - Máquina Mortífera",T1x01: Piloto
+http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCServer11/ondemand/MQNMRTFT01EP01.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=MQNMRTFT01EP01
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T1 - Máquina Mortífera",T1x02: Surf N Turf
+http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCServer11/ondemand/MQNMRTFT01EP02.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=MQNMRTFT01EP02
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T1 - Máquina Mortífera",T1x03: Melhores Amigos
+http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCServer11/ondemand/MQNMRTFT01EP03.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=MQNMRTFT01EP03
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T1 - Máquina Mortífera",T1x04: Lá Se Vai A Vizinhança
+http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCServer11/ondemand/MQNMRTFT01EP04.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=MQNMRTFT01EP04
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T1 - Máquina Mortífera",T1x05: Leite Derramado
+http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCServer11/ondemand/MQNMRTFT01EP05.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=MQNMRTFT01EP05
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T1 - Máquina Mortífera",T1x06: Laços Que Unem
+http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCServer11/ondemand/MQNMRTFT01EP06.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=MQNMRTFT01EP06
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T1 - Máquina Mortífera",T1x07: Polícia da Moda
+http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCServer11/ondemand/MQNMRTFT01EP07.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=MQNMRTFT01EP07
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T1 - Máquina Mortífera",T1x08: Posso Ter Uma Testemunha?
+http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCServer11/ondemand/MQNMRTFT01EP08.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=MQNMRTFT01EP08
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T1 - Máquina Mortífera",T1x09: Jingle Bell Glock
+http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCServer11/ondemand/MQNMRTFT01EP09.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=MQNMRTFT01EP09
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T1 - Máquina Mortífera",T1x10: Homebodies
+http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCServer11/ondemand/MQNMRTFT01EP10.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=MQNMRTFT01EP10
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T1 - Máquina Mortífera",T1x11: Homens da Lei
+http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCServer11/ondemand/MQNMRTFT01EP11.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=MQNMRTFT01EP11
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T1 - Máquina Mortífera",T1x12: Amor Fraterno
+http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCServer11/ondemand/MQNMRTFT01EP12.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=MQNMRTFT01EP12
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T1 - Máquina Mortífera",T1x13: O Selo Está Quebrado
+http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCServer11/ondemand/MQNMRTFT01EP13.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=MQNMRTFT01EP13
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T1 - Máquina Mortífera",T1x14: O Arquivo Murtaugh
+http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCServer11/ondemand/MQNMRTFT01EP14.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=MQNMRTFT01EP14
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T1 - Máquina Mortífera",T1x15: Tão Bom Quanto Getz
+http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCServer11/ondemand/MQNMRTFT01EP15.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=MQNMRTFT01EP15
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T1 - Máquina Mortífera",T1x16: Violência Desnecessária
+http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCServer11/ondemand/MQNMRTFT01EP16.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=MQNMRTFT01EP16
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T1 - Máquina Mortífera",T1x17: Um Problema Como Maria
+http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCServer11/ondemand/MQNMRTFT01EP17.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=MQNMRTFT01EP17
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T1 - Máquina Mortífera",T1x18: Começo
+http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCServer11/ondemand/MQNMRTFT01EP18.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=MQNMRTFT01EP18
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T2 - Máquina Mortífera",2x01: O Gringo Louco
+http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCServer13/ondemand/MQNMRTFT02EP01.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=MQNMRTFT02EP01
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T2 - Máquina Mortífera",2x02: Dançando em Setembro
+http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCServer13/ondemand/MQNMRTFT02EP02.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=MQNMRTFT02EP02
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T2 - Máquina Mortífera",2x03: Nascido Para Correr
+http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCServer13/ondemand/MQNMRTFT02EP03.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=MQNMRTFT02EP03
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T2 - Máquina Mortífera",2x04: Risco de Voo
+http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCServer13/ondemand/MQNMRTFT02EP04.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=MQNMRTFT02EP04
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T2 - Máquina Mortífera",2x05: Deixá-lo Andar
+http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCServer13/ondemand/MQNMRTFT02EP05.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=MQNMRTFT02EP05
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T2 - Máquina Mortífera",2x06: Corrida do Ouro
+http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCServer13/ondemand/MQNMRTFT02EP06.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=MQNMRTFT02EP06
