@@ -1,13 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/A%20Forma%20da%20%C3%81gua.jpg" group-title="2018",A Forma da Água (2018)
-http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer4/ondemand/AFMDGUA.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=AFMDGUA
-#EXTINF:-1 group-title="2017",A BAILARINA (2017)
 #EXTINF:-1 tvg-logo="http://server6.redecanais.tv/imgs-videos/A%20Noite%20dos%20Mortos.jpg" group-title="2018",A Noite dos Mortos (2018)
+http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer4/ondemand/AFMDGUA.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=AFMDGUA
 http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer4/ondemand/ANOTDMRTS.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=ANOTDMRTS
 #EXTINF:-1 tvg-logo="http://server6.redecanais.tv/imgs-videos/Ca%C3%A7adores%20De%20Homens.jpg" group-title="2018",Caçadores De Homens (2018)
 http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer4/ondemand/CACDRSDHMNS.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=CACDRSDHMNS
 #EXTINF:-1 tvg-logo="http://server6.redecanais.tv/imgs-videos/Correndo%20Atr%C3%A1s%20de%20um%20Pai.jpg" group-title="2018",Correndo Atrás de um Pai (2018)
 http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer4/ondemand/CRNDATRSDUMPAI.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=CRNDATRSDUMPAI
+#EXTINF:-1 tvg-logo="http://imgs.redecanais.link/imgs-videos/RCServer06/imgs-videos/Daphne%20e%20Velma.jpg" group-title="2018",Daphne e Velma (2018)
+http://cdn2-d.filmesonline.top/RedeCanais/RCFServer4/ondemand/DPNEVLMA.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=DPNEVLMA
+#EXTINF:-1 tvg-logo="http://imgs.redecanais.link/imgs-videos/RCServer06/imgs-videos/Eu,%20Tonya.jpg" group-title="2018",Eu Tonya (2018)
+http://cdn2-d.filmesonline.top/RedeCanais/RCFServer4/ondemand/EUTNYA.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=EUTNYA
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Honra%20ao%20Merito.jpg" group-title="2018",Honra ao Merito (2018)
 http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer4/ondemand/HNRAOMRTO.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=HNRAOMRTO
 #EXTINF:-1 tvg-logo="http://server6.redecanais.tv/imgs-videos/Ingrid%20Vai%20para%20o%20Oeste.jpg" group-title="2018",Ingrid Vai para o Oeste (2018)
@@ -22,6 +25,8 @@ http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer4/ondemand/M
 http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer4/ondemand/ODSTNDUNCAO.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=ODSTNDUNCAO
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Cloverfield%20-%20A%20Part%C3%ADcula%20de%20Deus.jpg" group-title="2018",O Paradoxo Cloverfield (2018)
 http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer4/ondemand/CLVRFLDAPRTCDS.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=CLVRFLDAPRTCDS
+#EXTINF:-1 tvg-logo="http://imgs.redecanais.link/imgs-videos/RCServer06/imgs-videos/O%20Que%20te%20Faz%20Mais%20Forte.jpg" group-title="2018",O Que te Faz Mais Forte (2018)
+http://cdn2-d.filmesonline.top/RedeCanais/RCFServer4/ondemand/OQTFZMSFRT.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=OQTFZMSFRT
 #EXTINF:-1 tvg-logo="http://server6.redecanais.tv/imgs-videos/Paddington%202.jpg" group-title="2018",Paddington 2 (2018)
 http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer4/ondemand/PDNGTN2.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=PDNGTN2
 #EXTINF:-1 tvg-logo="http://server6.redecanais.tv/imgs-videos/Pantera%20Negra.jpg" group-title="2018",Pantera Negra (2018)
@@ -34,12 +39,15 @@ http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer4/ondemand/R
 http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer4/ondemand/TMALENOMQRTO.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=TMALENOMQRTO
 #EXTINF:-1 tvg-logo="http://server6.redecanais.tv/imgs-videos/The%20Titan.jpg" group-title="2018",The Titan (2018)
 http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer4/ondemand/THETITN.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=THETITN
+#EXTINF:-1 tvg-logo="http://imgs.redecanais.link/imgs-videos/RCServer06/imgs-videos/Trama%20Fantasma.jpg" group-title="2018",Trama Fantasma (2018)
+http://cdn2-d.filmesonline.top/RedeCanais/RCFServer4/ondemand/TRMFNTSMA.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=TRMFNTSMA
 #EXTINF:-1 tvg-logo="http://server6.redecanais.tv/imgs-videos/Tr%C3%AAs%20An%C3%BAncios%20Para%20um%20Crime.jpg" group-title="2018",Três Anúncios Para um Crime (2018)
 http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer4/ondemand/TRSANCSPRUMCRM.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=TRSANCSPRUMCRM
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Viva%20-%20A%20Vida%20%C3%A9%20uma%20Festa.jpg" group-title="2018",Viva: A Vida é uma Festa (2018)
 http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer4/ondemand/VIVAAVDEUMFST.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=VIVAAVDEUMFST
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8yEoNFU.jpg" group-title="2017",10000 ANOS DEPOIS (2017)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer3/ondemand/1000ANSDPS.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=1000ANSDPS
+#EXTINF:-1 group-title="2017",A BAILARINA (2017)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer3/ondemand/ABLRN.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=ABLRN
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/A%20Bela%20e%20a%20Fera.jpg" group-title="2017",A Bela e a Fera (2017)
 http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer4/ondemand/ABLEAFR.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=ABLEAFR
@@ -125,8 +133,6 @@ http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer3/ondemand/I
 http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer4/ondemand/KONGAILHCVR.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=KONGAILHCVR
 #EXTINF:-1 tvg-logo="http://i.imgur.com/WBlmzuc.jpg" group-title="2017",LAVANDA (2017)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer3/ondemand/LVNDA.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=LVNDA
-#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/LEGO%20DC%20Super%20Hero%20Girls%20-%20Controle%20Mental.jpg" group-title="2017",Lego DC Super Hero Girls: Controle Mental (2017)
-http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer4/ondemand/LEGDCSPRGRLSCNTLMENTL.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=LEGDCSPRGRLSCNTLMENTL
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Lego%20Ninjago%20-%20O%20Filme.jpg" group-title="2017",LEGO Ninjago: O Filme (2017)
 http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer4/ondemand/LEGNJGOFLM.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=LEGNJGOFLM
 #EXTINF:-1 tvg-logo="http://server6.redecanais.tv/imgs-videos/Lino%20-%20Uma%20Aventura%20de%20Sete%20Vidas.jpg" group-title="2017",Lino: Uma Aventura de Sete Vidas (2017)
@@ -148,15 +154,17 @@ http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer4/ondemand/M
 #EXTINF:-1 tvg-logo="http://server6.redecanais.tv/imgs-videos/Golpe%20de%20Moedas.jpg" group-title="2017",Missão: Golpe de Moedas (2017)
 http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer4/ondemand/GLPDMODS.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=GLPDMODS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/15feepb.jpg" group-title="2017",Moana: Um Mar de Aventuras (2017)
-http://s.netcine.tv/netcine-bucket/filmes2016/animacoes/MOANADUB-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/15feepb.jpg" group-title="2017",Moana: Um Mar de Aventuras (2017)
 http://s.netcine.tv/netcine-bucket/filmes2016/animacoes/MOANA-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/15feepb.jpg" group-title="2017",Moana: Um Mar de Aventuras (2017)
+http://s.netcine.tv/netcine-bucket/filmes2016/animacoes/MOANADUB-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/SnqKi2k.jpg" group-title="2017",MOANA: UM MAR DE AVENTURAS (2017)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer3/ondemand/MONUMRDAVTRA.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=MONUMRDAVTRA
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Monster%20High%20-%20Eletrizante.jpg" group-title="2017",Monster High: Eletrizante (2017)
 http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer4/ondemand/MNSTRHGELTRZNT.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=MNSTRHGELTRZNT
 #EXTINF:-1 tvg-logo="http://i.imgur.com/inDWZhM.jpg" group-title="2017",MONSTER TRUCKS (2017)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer3/ondemand/MNSTRRCK.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=MNSTRRCK
+#EXTINF:-1 tvg-logo="http://imgs.redecanais.link/imgs-videos/RCServer06/imgs-videos/Morgan%20A%20Evolu%C3%A7%C3%A3o.jpg" group-title="2017",Morgan: A Evolução (2017)
+http://cdn2-d.filmesonline.top/RedeCanais/RCFServer4/ondemand/MRGNAEVLCAO.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=MRGNAEVLCAO
 #EXTINF:-1 tvg-logo="http://www.amanhaeuteconto.com.br/wp-content/uploads/2017/05/mulher-maravilha-filme.jpg" group-title="2017",Mulher Maravilha (2017)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer1/ondemand/MLHRMRVLHA.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=MLHRMRVLHA
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Na%20Mira%20Do%20Atirador.jpg" group-title="2017",Na Mira Do Atirador (2017)
@@ -195,6 +203,8 @@ http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer3/ondemand/P
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer3/ondemand/PLES.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=PLES
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Pica-Pau%20-%20O%20Filme.jpg" group-title="2017",Pica-Pau: O Filme (2017)
 http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer4/ondemand/PICPAU.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=PICPAU
+#EXTINF:-1 tvg-logo="http://imgs.redecanais.link/imgs-videos/RCServer03/imgs-videos/Piratas%20do%20Caribe%20-%20A%20Vingan%C3%A7a%20de%20Salazar.jpg" group-title="2017",Piratas do Caribe: A Vingança de Salazar (2017)
+http://cdn-d.filmesonline.top/RedeCanais/RCFServer3/ondemand/PRTSDCRB05.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=PRTSDCRB05
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Pol%C3%ADcia%20Federal%20-%20A%20Lei%20%C3%A9%20Para%20Todos.jpg" group-title="2017",Polícia Federal: A Lei é Para Todos (2017)
 http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer4/ondemand/POLCFDRLALEIEPRTDS.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=POLCFDRLALEIEPRTDS
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Power%20Rangers.jpg" group-title="2017",Power Rangers (2017)
@@ -241,6 +251,8 @@ http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer4/ondemand/1
 http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer4/ondemand/13MINTS.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=13MINTS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tRvD3pK.jpg" group-title="2016",90 MINUTOS NO PARAÍSO (2016)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer2/ondemand/90MINPRSO.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=90MINPRSO
+#EXTINF:-1 tvg-logo="http://imgs.redecanais.link/imgs-videos/RCServer06/imgs-videos/A%205%C2%AA%20Onda.jpg" group-title="2016",A 5ª Onda (2016)
+http://cdn2-d.filmesonline.top/RedeCanais/RCFServer4/ondemand/A5OND.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=A5OND
 #EXTINF:-1 group-title="2016",A BRUXA DO CABELO BRANCO DO REINO LUNAR (2016)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer3/ondemand/ABRXDCBRNCRNLNR.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=ABRXDCBRNCRNLNR
 #EXTINF:-1 tvg-logo="http://i.imgur.com/nEttAAw.jpg" group-title="2016",A CHEGADA (2016)
@@ -471,6 +483,8 @@ http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer2/ondemand/S
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer3/ondemand/ATHRPDLEG.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=ATHRPDLEG
 #EXTINF:-1 tvg-logo="http://server6.redecanais.tv/imgs-videos/Terra%20Estranha.jpg" group-title="2016",Terra Estranha (2016)
 http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer4/ondemand/TRAESTNHA.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=TRAESTNHA
+#EXTINF:-1 tvg-logo="http://imgs.redecanais.link/imgs-videos/RCServer06/imgs-videos/The%20Amityville%20Terror.jpg" group-title="2016",The Amityville Terror (2016)
+http://cdn2-d.filmesonline.top/RedeCanais/RCFServer4/ondemand/THEAMTVLETROR.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=THEAMTVLETROR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xv9y4qc.jpg" group-title="2016",THE BEACH BOYS: UMA HISTÓRIA DE SUCESSO (2016)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer2/ondemand/THBCHBYSUHDS.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=THBCHBYSUHDS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CShXB0C.jpg" group-title="2016",TINI DEPOIS DE VIOLETTA (2016)
@@ -485,6 +499,8 @@ http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer3/ondemand/T
 http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer4/ondemand/UMDSJPRNTL.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=UMDSJPRNTL
 #EXTINF:-1 tvg-logo="http://server6.redecanais.tv/imgs-videos/Um%20Estado%20de%20Liberdade.jpg" group-title="2016",Um Estado de Liberdade (2016)
 http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer4/ondemand/UMESTDODLBRDADE.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=UMESTDODLBRDADE
+#EXTINF:-1 tvg-logo="http://imgs.redecanais.link/imgs-videos/RCServer06/imgs-videos/Um%20Neg%C3%B3cio%20de%20Risco.jpg" group-title="2016",Um Negócio de Risco (2016)
+http://cdn2-d.filmesonline.top/RedeCanais/RCFServer4/ondemand/UMNEGCDRSCO.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=UMNEGCDRSCO
 #EXTINF:-1 tvg-logo="http://i.imgur.com/u8oMv9v.jpg" group-title="2016",UM SUBURBANO SORTUDO (2016)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer3/ondemand/UMSUBSRTDO.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=UMSUBSRTDO
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xkUgxMR.jpg" group-title="2016",UMA AVENTURA DE BABAS (2016)
@@ -505,6 +521,8 @@ http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer2/ondemand/Z
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer1/ondemand/AERVTVST.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=AERVTVST
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-PvbGYZqFJn0/VZMHy75NjMI/AAAAAAAAM7s/rXUPbh-2UUg/s1600/Estrada4.png" group-title="2015",A ESTRADA 47 (2015)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer1/ondemand/AESTD47.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=AESTD47
+#EXTINF:-1 tvg-logo="http://imgs.redecanais.link/imgs-videos/RCServer06/imgs-videos/A%20Hist%C3%B3ria%20do%20Sexo%20-%20O%20S%C3%A9culo%20XX.jpg" group-title="2015",A História do Sexo: O Século XX (2015)
+http://cdn2-d.filmesonline.top/RedeCanais/RCFServer4/ondemand/AHSTRDSXSCLXX.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=AHSTRDSXSCLXX
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-DDRhrXvs5Io/VkId8wRfQlI/AAAAAAAAUGU/2DscEK9Ku2M/s1600/A%2BHistoria%2BVerdadeira.jpg" group-title="2015",A HISTÓRIA VERDADEIRA (2015)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer2/ondemand/AHISTVRDA.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=AHISTVRDA
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AMLdoOUC1Do/Va6bW0axFkI/AAAAAAAAAK8/5kFfBSifzhY/s1600/baixar%2Bfilmes%2Bgratis%2BSimao%2BCds%2BDo%2BIc%25C3%25B3.jpg" group-title="2015",A MÁQUINA (2015)
@@ -543,6 +561,8 @@ http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer1/ondemand/A
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer2/ondemand/ANOMLS.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=ANOMLS
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-E1wY3C87ItQ/Vj5XsQc6UTI/AAAAAAAAfFQ/7aUZBFDZZQ4/s1600/filme-de-apenas-um-show-o-filme.jpg" group-title="2015",APENAS UM SHOW: O FILME (2015)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer2/ondemand/APNSUSWOFILME.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=APNSUSWOFILME
+#EXTINF:-1 tvg-logo="http://imgs.redecanais.link/imgs-videos/RCServer06/imgs-videos/%C3%81rea%2051%202015.jpg" group-title="2015",Área 51 (2015)
+http://cdn2-d.filmesonline.top/RedeCanais/RCFServer4/ondemand/AREA512015.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=AREA512015
 #EXTINF:-1 group-title="2015",AS SUFRAGISTAS (2015)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer2/ondemand/ASDRGIST.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=ASDRGIST
 #EXTINF:-1 tvg-logo="http://server6.redecanais.tv/imgs-videos/Barbie%20Rainhas%20do%20Rock.jpg" group-title="2015",Barbie: Rainhas do Rock (2015)
@@ -579,6 +599,8 @@ http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer1/ondemand/C
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer2/ondemand/CMSBRVVERAUATQZMB.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=CMSBRVVERAUATQZMB
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yYGAhuA.jpg" group-title="2015",D.U.F.F. VOCÊ CONHECE; TEM OU É (2015)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer1/ondemand/DUFFVCNHECTMOE.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=DUFFVCNHECTMOE
+#EXTINF:-1 tvg-logo="http://imgs.redecanais.link/imgs-videos/RCServer06/imgs-videos/Dem%C3%AAncia%202015.jpg" group-title="2015",Demência (2015)
+http://cdn2-d.filmesonline.top/RedeCanais/RCFServer4/ondemand/DMCIA.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=DMCIA
 #EXTINF:-1 group-title="2015",DEPOIS DE TUDO (2015)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer3/ondemand/DPSDTD.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=DPSDTD
 #EXTINF:-1 group-title="2015",DIABLO (2015)
@@ -869,6 +891,8 @@ http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer1/ondemand/R
 http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer4/ondemand/RSGTEMALTVLCDE.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=RSGTEMALTVLCDE
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PPEMVG2.jpg" group-title="2014",ROMEU E JULIETA (2014)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer2/ondemand/RMUEJLETA.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=RMUEJLETA
+#EXTINF:-1 tvg-logo="http://imgs.redecanais.link/imgs-videos/RCServer06/imgs-videos/Sexo%20no%20Mundo%20Antigo%20-%20Prostitui%C3%A7%C3%A3o%20em%20Pomp%C3%A9ia.jpg" group-title="2014",Sexo no Mundo Antigo: Prostituição em Pompéia (2014)
+http://cdn2-d.filmesonline.top/RedeCanais/RCFServer4/ondemand/SEXNMNDOANTGPRSTIIIPMPEIA.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=SEXNMNDOANTGPRSTIIIPMPEIA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XqZkYt4.jpg" group-title="2014",TRANSCENDENCE: A REVOLUÇÃO (2014)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer2/ondemand/TRNSCDNCARVCO.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=TRNSCDNCARVCO
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MHEIrdI.jpg" group-title="2014",TRASH: A ESPERANÇA VEM DO LIXO (2014)
@@ -895,8 +919,6 @@ http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer1/ondemand/C
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer1/ondemand/CRIEAESTNH2013.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=CRIEAESTNH2013
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PEHhmCf.jpg?1" group-title="2013",CINE HOLLIÚDY (2013)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer2/ondemand/CINEHLUDY.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=CINEHLUDY
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fG1kZ2F.png" group-title="2013",CÍRCULO DE FOGO (2013)
-http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer2/ondemand/CIRCLODFG.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=CIRCLODFG
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mNSlV3l.jpg" group-title="2013",COMPANY OF HEROES - O FILME (2013)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer1/ondemand/COMPNYOHROS.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=COMPNYOHROS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NDVcoX0.jpg" group-title="2013",CONFISSÕES DE ADOLESCENTE (2013)
@@ -963,6 +985,8 @@ http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer2/ondemand/D
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer1/ondemand/DJNGLVR.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=DJNGLVR
 #EXTINF:-1 group-title="2012",E AÍ... COMEU? (2012)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer2/ondemand/EAICMU.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=EAICMU
+#EXTINF:-1 tvg-logo="http://imgs.redecanais.link/imgs-videos/RCServer06/imgs-videos/Ernest%20e%20C%C3%A9lestine.jpg" group-title="2012",Ernest e Célestine (2012)
+http://cdn2-d.filmesonline.top/RedeCanais/RCFServer4/ondemand/ERNSTECLSTNE.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=ERNSTECLSTNE
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6LebrR.jpg" group-title="2012",O HOMEM QUE MUDOU O JOGO (2012)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer2/ondemand/OHMNQMDOJG.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=OHMNQMDOJG
 #EXTINF:-1 group-title="2012",O IMPOSSÍVEL (2012)
@@ -1001,6 +1025,8 @@ http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer1/ondemand/B
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer1/ondemand/BRVRINDMT.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=BRVRINDMT
 #EXTINF:-1 tvg-logo="https://goo.gl/IAfLK4" group-title="2011",CASTELO DO MEDO (2011)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer1/ondemand/CSTLDMD.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=CSTLDMD
+#EXTINF:-1 tvg-logo="http://imgs.redecanais.link/imgs-videos/RCServer06/imgs-videos/Escravas%20Sexuais%20do%20Seculo%2021.jpg" group-title="2011",Escravas Sexuais do Seculo 21 (2011)
+http://cdn2-d.filmesonline.top/RedeCanais/RCFServer4/ondemand/ESCVRSDSXSDSLC21.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=ESCVRSDSXSDSLC21
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7hriRhX.jpg" group-title="2011",HANNA (2011)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer1/ondemand/HANNA.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=HANNA
 #EXTINF:-1 group-title="2011",HOP: REBELDE SEM PÁSCOA (2011)
@@ -1069,6 +1095,8 @@ http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer4/ondemand/P
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer2/ondemand/PRNCDPRSASARSDOTMP.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=PRNCDPRSASARSDOTMP
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2KybsCh.jpg" group-title="2010",SEA REX: JORNADA A UM MUNDO PRÉ-HISTÓRICO (2010)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer2/ondemand/SEARX3D.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=SEARX3D
+#EXTINF:-1 tvg-logo="http://imgs.redecanais.link/imgs-videos/RCServer06/imgs-videos/Super.jpg" group-title="2010",Super (2010)
+http://cdn2-d.filmesonline.top/RedeCanais/RCFServer4/ondemand/SPR2010EUA.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=SPR2010EUA
 #EXTINF:-1 group-title="2009",17 OUTRA VEZ (2009)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer2/ondemand/17OUTVZ.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=17OUTVZ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cr79WhC.jpg" group-title="2009",2012 (2009)
@@ -1133,6 +1161,8 @@ http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer3/ondemand/H
 http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer4/ondemand/IRNOSDMAR.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=IRNOSDMAR
 #EXTINF:-1 group-title="2008",NA NATUREZA SELVAGEM (2008)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer2/ondemand/NANTRZSVLG.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=NANTRZSVLG
+#EXTINF:-1 tvg-logo="http://imgs.redecanais.link/imgs-videos/RCServer06/imgs-videos/O%20Assassino%20do%20Alfabeto.jpg" group-title="2008",O Assassino do Alfabeto (2008)
+http://cdn2-d.filmesonline.top/RedeCanais/RCFServer4/ondemand/OASASNODALFBTO.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=OASASNODALFBTO
 #EXTINF:-1 group-title="2008",O BOM FILHO À CASA TORNA (2008)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer2/ondemand/OBMFLHACSTRN.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=OBMFLHACSTRN
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kNwC5Pu.jpg" group-title="2008",O INCRÍVEL HULK (2008)
@@ -1207,6 +1237,10 @@ http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer1/ondemand/A
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer2/ondemand/ANOIVCDVER.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=ANOIVCDVER
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mtXbNmy.jpg" group-title="2005",AEON FLUX (2005)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer3/ondemand/AERNFLX.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=AERNFLX
+#EXTINF:-1 tvg-logo="http://imgs.redecanais.link/imgs-videos/RCServer06/imgs-videos/Brigada%2049.jpg" group-title="2005",Brigada 49 (2005)
+http://cdn2-d.filmesonline.top/RedeCanais/RCFServer4/ondemand/BRGDA49.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=BRGDA49
+#EXTINF:-1 tvg-logo="http://imgs.redecanais.link/imgs-videos/RCServer06/imgs-videos/Coach%20Carter%20-%20Treino%20Para%20a%20Vida.jpg" group-title="2005",Coach Carter: Treino Para a Vida (2005)
+http://cdn2-d.filmesonline.top/RedeCanais/RCFServer4/ondemand/CAHCRTRNPRVDA.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=CAHCRTRNPRVDA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bmwke9D.jpg" group-title="2005",DESVENTURAS EM SÉRIE (2005)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer3/ondemand/DSVNTRESER.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=DSVNTRESER
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XyILXIv.jpg" group-title="2005",ELEKTRA (2005)
@@ -1223,6 +1257,8 @@ http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer4/ondemand/O
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer1/ondemand/OLVRTWST.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=OLVRTWST
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Os%20Irm%C3%A3os%20Grimm.jpg" group-title="2005",Os Irmãos Grimm (2005)
 http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer4/ondemand/OSIRMSGRM.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=OSIRMSGRM
+#EXTINF:-1 tvg-logo="http://imgs.redecanais.link/imgs-videos/RCServer06/imgs-videos/Quase%20Ilegal.jpg" group-title="2005",Quase Ilegal (2005)
+http://cdn2-d.filmesonline.top/RedeCanais/RCFServer4/ondemand/QSEILGL.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=QSEILGL
 #EXTINF:-1 tvg-logo="https://goo.gl/47r6fD" group-title="2005",REFÉM (2005)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer2/ondemand/RFEM.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=RFEM
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5xtyqql.jpg" group-title="2005",RITMO DE UM SONHO (2005)
@@ -1241,6 +1277,8 @@ http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer1/ondemand/A
 http://media-br-am.crackle.com/1/v/96/931lf_480p.mp4
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-nO1vJW4E0c4/UBbRzdaSbwI/AAAAAAAAAfk/hdRvfZPLwQs/s1600/as%2Bbranquelas....jpg" group-title="2004",AS BRANQUELAS (2004)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer1/ondemand/ASBRNQLS.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=ASBRNQLS
+#EXTINF:-1 tvg-logo="http://imgs.redecanais.link/imgs-videos/RCServer06/imgs-videos/Bandidas.jpg" group-title="2004",Bandidas (2004)
+http://cdn2-d.filmesonline.top/RedeCanais/RCFServer4/ondemand/BNDAS.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=BNDAS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1q7kHW9.jpg" group-title="2004",COM A BOLA TODA (2004)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer2/ondemand/CMABLATD.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=CMABLATD
 #EXTINF:-1 tvg-logo="https://images-br-am.crackle.com/1/u/56/uv1lf_tnl_210x118.jpg" group-title="2004",Como Se Fosse a Primeira Vez (2004)
@@ -1263,6 +1301,8 @@ http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer2/ondemand/A
 http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer4/ondemand/BMVNDASLV.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=BMVNDASLV
 #EXTINF:-1 group-title="2003",CRUZEIRO DAS LOUCAS (2003)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer3/ondemand/OCRZRDLCS.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=OCRZRDLCS
+#EXTINF:-1 tvg-logo="http://imgs.redecanais.link/imgs-videos/RCServer06/imgs-videos/Dicionario%20de%20Cama.jpg" group-title="2003",Dicionário de Cama (2003)
+http://cdn2-d.filmesonline.top/RedeCanais/RCFServer4/ondemand/DCNRDCMA.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=DCNRDCMA
 #EXTINF:-1 tvg-logo="http://server6.redecanais.tv/imgs-videos/Divis%C3%A3o%20de%20Homic%C3%ADdios.jpg" group-title="2003",Divisão de Homicídios (2003)
 http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer4/ondemand/DVSAOHMCDS.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=DVSAOHMCDS
 #EXTINF:-1 tvg-logo="http://server6.redecanais.tv/imgs-videos/Duplex.jpg" group-title="2003",Duplex (2003)
@@ -1285,6 +1325,10 @@ http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer1/ondemand/C
 http://media-br-am.crackle.com/1/9/l6/wjwlf_480p.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/oSQzjw" group-title="2002",DESAPARECIDAS (2002)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer2/ondemand/DESPRCDAS.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=DESPRCDAS
+#EXTINF:-1 tvg-logo="http://imgs.redecanais.link/imgs-videos/RCServer06/imgs-videos/Do%20Inferno.jpg" group-title="2002",Do Inferno (2002)
+http://cdn2-d.filmesonline.top/RedeCanais/RCFServer4/ondemand/DOINFNO.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=DOINFNO
+#EXTINF:-1 tvg-logo="http://imgs.redecanais.link/imgs-videos/RCServer06/imgs-videos/D-Tox.jpg" group-title="2002",D-Tox (2002)
+http://cdn2-d.filmesonline.top/RedeCanais/RCFServer4/ondemand/DTX.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=DTX
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xkzRU7Z.jpg" group-title="2002",GAROTA VENENO (2002)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer2/ondemand/GRTVNO.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=GRTVNO
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y22m2Nn.jpg" group-title="2002",JASON X (2002)
@@ -1297,8 +1341,8 @@ http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer1/ondemand/O
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer3/ondemand/RTMTOTL.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=RTMTOTL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qmFZdVZ.jpg" group-title="2002",UM AMOR PARA RECORDAR (2002)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer1/ondemand/UAMRPRRCRDR.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=UAMRPRRCRDR
-#EXTINF:-1 tvg-logo="https://i.imgur.com/diQFlin.jpg" group-title="2001",CÍRCULO DE FOGO (2001)
-http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer2/ondemand/CIRCLODFG2001.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=CIRCLODFG2001
+#EXTINF:-1 tvg-logo="http://imgs.redecanais.link/imgs-videos/RCServer06/imgs-videos/Elvira%202.jpg" group-title="2001",As Loucas Aventuras de Elvira (2001)
+http://cdn2-d.filmesonline.top/RedeCanais/RCFServer4/ondemand/ELVRA2.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=ELVRA2
 #EXTINF:-1 group-title="2001",DO QUE AS MULHERES GOSTAM (2001)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer3/ondemand/DQAMLHRSGSTM.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=DQAMLHRSGSTM
 #EXTINF:-1 tvg-logo="https://goo.gl/hWx0wD" group-title="2001",FINAL FANTASY (2001)
@@ -1313,16 +1357,22 @@ http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer2/ondemand/A
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer3/ondemand/OATDCPDCDA.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=OATDCPDCDA
 #EXTINF:-1 tvg-logo="https://goo.gl/U6wl7h" group-title="1990",DETROIT A CIDADE DO ROCK (1999)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer2/ondemand/DTRIDACDADRCK.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=DTRIDACDADRCK
+#EXTINF:-1 tvg-logo="http://imgs.redecanais.link/imgs-videos/RCServer06/imgs-videos/Inimigo%20do%20Estado.jpg" group-title="1990",Inimigo do Estado (1999)
+http://cdn2-d.filmesonline.top/RedeCanais/RCFServer4/ondemand/INMGSDESTDO.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=INMGSDESTDO
 #EXTINF:-1 group-title="1990",O TALENTOSO RIPLEY (1999)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer2/ondemand/OTLNTSRPLY.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=OTLNTSRPLY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cGT7B71.jpg" group-title="1990",PIRATAS DA INFORMÁTICA / PIRATAS DO VALE DO SILÍCIO (1999)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer1/ondemand/PIRTVLDSLCIO.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=PIRTVLDSLCIO
+#EXTINF:-1 tvg-logo="http://imgs.redecanais.link/imgs-videos/RCServer06/imgs-videos/Um%20Tira%20Muito%20Suspeito.jpg" group-title="1990",Um Tira Muito Suspeito (1999)
+http://cdn2-d.filmesonline.top/RedeCanais/RCFServer4/ondemand/UMTRMTOSPTO.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=UMTRMTOSPTO
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/_xN-ChkkkzSw/S9ONwVZBAcI/AAAAAAAAAU0/OIgxTrCISZ0/s1600/Advogado+Do+Diabo.jpg" group-title="1990",ADVOGADO DO DIABO (1998)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer1/ondemand/ADVGDIAB.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=ADVGDIAB
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zKktGAn.jpg" group-title="1990",CIDADE DOS ANJOS (1998)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer2/ondemand/CIDDSANJS.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=CIDDSANJS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a6m5kAq.png" group-title="1990",O HOMEM DA MÁSCARA DE FERRO (1998)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer1/ondemand/OHMNDMSCRDFRR.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=OHMNDMSCRDFRR
+#EXTINF:-1 tvg-logo="http://imgs.redecanais.link/imgs-videos/RCServer06/imgs-videos/O%20Soldado%20do%20Futuro.jpg" group-title="1990",O Soldado do Futuro (1998)
+http://cdn2-d.filmesonline.top/RedeCanais/RCFServer4/ondemand/OSLDADODFTUR.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=OSLDADODFTUR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3tU816X.jpg" group-title="1990",PATCH ADAMS: O AMOR É CONTAGIOSO (1998)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer1/ondemand/PTCHADMSOAMRECNTG.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=PTCHADMSOAMRECNTG
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4UuCunn.jpg" group-title="1990",TITANIC (1998)
@@ -1333,8 +1383,16 @@ http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer2/ondemand/A
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer2/ondemand/GATCEXPRCIA.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=GATCEXPRCIA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WbTb9vs.jpg" group-title="1990",GOOD BURGER (1997)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer2/ondemand/GODBRGRS.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=GODBRGRS
+#EXTINF:-1 tvg-logo="http://imgs.redecanais.link/imgs-videos/RCServer06/imgs-videos/H%C3%A9rcules%201997.jpg" group-title="1990",Hércules (1997)
+http://cdn2-d.filmesonline.top/RedeCanais/RCFServer4/ondemand/HRCLS1997.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=HRCLS1997
+#EXTINF:-1 tvg-logo="http://imgs.redecanais.link/imgs-videos/RCServer06/imgs-videos/Paulie%20-%20O%20Papagaio%20Bom%20de%20Papo.jpg" group-title="1990",Paulie: O Papagaio Bom de Papo (1997)
+http://cdn2-d.filmesonline.top/RedeCanais/RCFServer4/ondemand/NOSSOID.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=NOSSOID
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/Pescando%20Confus%C3%A3o.jpg" group-title="1990",Pescando Confusão (1997)
 http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer4/ondemand/PSCNDCONFS.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=PSCNDCONFS
+#EXTINF:-1 tvg-logo="http://imgs.redecanais.link/imgs-videos/RCServer06/imgs-videos/Teoria%20da%20Conspira%C3%A7%C3%A3o.jpg" group-title="1990",Teoria da Conspiração (1997)
+http://cdn2-d.filmesonline.top/RedeCanais/RCFServer4/ondemand/TEORDCNSPRC.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=TEORDCNSPRC
+#EXTINF:-1 tvg-logo="http://imgs.redecanais.link/imgs-videos/RCServer06/imgs-videos/A%20Prova%20de%20Balas.jpg" group-title="1990",A Prova de Balas (1996)
+http://cdn2-d.filmesonline.top/RedeCanais/RCFServer4/ondemand/APRVDBLS.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=APRVDBLS
 #EXTINF:-1 tvg-logo="http://server6.redecanais.tv/imgs-videos/James%20e%20o%20Pessego%20Gigante.jpg" group-title="1990",James e o Pessego Gigante (1996)
 http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer4/ondemand/JAMSEOPSGGNTE.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=JAMSEOPSGGNTE
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s7ZKSY3.jpg" group-title="1990",OS 12 MACACOS (1996)
@@ -1343,6 +1401,8 @@ http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer2/ondemand/O
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer1/ondemand/OESPRTS.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=OESPRTS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UYMak0L.jpg" group-title="1990",STRIPTEASE (1996)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer2/ondemand/STRPTESE.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=STRPTESE
+#EXTINF:-1 tvg-logo="http://imgs.redecanais.link/imgs-videos/RCServer06/imgs-videos/Nove%20Meses.jpg" group-title="1990",Nove Meses (1995)
+http://cdn2-d.filmesonline.top/RedeCanais/RCFServer4/ondemand/NVEMESES.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=NVEMESES
 #EXTINF:-1 tvg-logo="https://images-br-am.crackle.com/1/m/56/vr1lf_tnl_210x118.jpg" group-title="1990",O Nome do Jogo (1995)
 http://media-br-am.crackle.com/1/m/56/vr1lf_480p.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CSQ0x6K.jpg" group-title="1990",O NOME DO JOGO (1995)
@@ -1361,10 +1421,18 @@ http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer3/ondemand/B
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer2/ondemand/DAVPRSDNTPUD.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=DAVPRSDNTPUD
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KilJ4Em.jpg" group-title="1990",JASON VAI PARA O INFERNO: A ÚLTIMA SEXTA-FEIRA (1993)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer1/ondemand/SXTFR13PTIX.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=SXTFR13PTIX
+#EXTINF:-1 tvg-logo="http://imgs.redecanais.link/imgs-videos/RCServer06/imgs-videos/M%C3%A1quina%20Quase%20Mortifera.jpg" group-title="1990",Máquina Quase Mortifera (1993)
+http://cdn2-d.filmesonline.top/RedeCanais/RCFServer4/ondemand/MQNQSEMRTFRA.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=MQNQSEMRTFRA
+#EXTINF:-1 tvg-logo="http://imgs.redecanais.link/imgs-videos/RCServer06/imgs-videos/Os%20Dinossauros%20Voltaram.jpg" group-title="1990",Os Dinossauros Voltaram (1993)
+http://cdn2-d.filmesonline.top/RedeCanais/RCFServer4/ondemand/OSDINOSVLTRM.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=OSDINOSVLTRM
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rShJlg0.jpg" group-title="1990",TOMBSTONE: A JUSTIÇA ESTÁ CHEGANDO (1993)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer1/ondemand/TOMBTNEAJSTESTCGAND.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=TOMBTNEAJSTESTCGAND
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kjrmza5.jpg" group-title="1990",AS CRIATURAS ATRÁS DAS PAREDES (1992)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer2/ondemand/ASCRTURSARSDPRDS.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=ASCRTURSARSDPRDS
+#EXTINF:-1 tvg-logo="http://imgs.redecanais.link/imgs-videos/RCServer06/imgs-videos/%C3%89%20Natal%20De%20Novo%20Charlie%20Brown.jpg" group-title="1990",É Natal De Novo Charlie Brown (1992)
+http://cdn2-d.filmesonline.top/RedeCanais/RCFServer4/ondemand/ENTLDNVCRLBRWN.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=ENTLDNVCRLBRWN
+#EXTINF:-1 tvg-logo="http://imgs.redecanais.link/imgs-videos/RCServer06/imgs-videos/Mundo%20Proibido.jpg" group-title="1990",Mundo Proibido (1992)
+http://cdn2-d.filmesonline.top/RedeCanais/RCFServer4/ondemand/MNDPRBDO.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=MNDPRBDO
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mKQGpCP.jpg" group-title="1990",O ÚLTIMO DOS MOICANOS (1992)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer1/ondemand/OULMDMICNS.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=OULMDMICNS
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-GBe9i_XRGts/UkM15A4WtAI/AAAAAAAACTw/VaKrud1WsGw/s1600/A+Familia+Addams.jpg" group-title="1990",A FAMÍLIA ADDAMS (1991)
@@ -1375,6 +1443,8 @@ http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer2/ondemand/B
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer1/ondemand/EDWRDMSDTSR.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=EDWRDMSDTSR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L0mkvaS.jpg" group-title="1990",O MESTRE DOS BRINQUEDOS (1991)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer1/ondemand/OMSTRDSBRNQDS.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=OMSTRDSBRNQDS
+#EXTINF:-1 tvg-logo="http://imgs.redecanais.link/imgs-videos/RCServer06/imgs-videos/O%20%C3%9Altimo%20Boy%20Scout.jpg" group-title="1990",O Último Boy Scout (1991)
+http://cdn2-d.filmesonline.top/RedeCanais/RCFServer4/ondemand/OULTMBOYSCT.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=OULTMBOYSCT
 #EXTINF:-1 tvg-logo="http://server6.redecanais.tv/imgs-videos/A%20Noite%20dos%20Mortos-Vivos.jpg" group-title="1990",A Noite dos Mortos-Vivos (1990)
 http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer4/ondemand/ANOTDSMRTSVIVO.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=ANOTDSMRTSVIVO
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dUtOpIA.jpg" group-title="1980",CYBORG: O DRAGÃO DO FUTURO (1989)
@@ -1391,16 +1461,24 @@ http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer2/ondemand/T
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer2/ondemand/UMDPLAQSPRFTA.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=UMDPLAQSPRFTA
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-o4eZr76BlgM/TzUI-ke2lWI/AAAAAAAABhU/PeBUYQSWsZE/s1600/akira.jpg" group-title="1980",AKIRA (1988)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer2/ondemand/AKIRA.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=AKIRA
+#EXTINF:-1 tvg-logo="http://imgs.redecanais.link/imgs-videos/RCServer06/imgs-videos/Elvira.jpg" group-title="1980",Elvira a Rainha das Trevas (1988)
+http://cdn2-d.filmesonline.top/RedeCanais/RCFServer4/ondemand/ELVRA.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=ELVRA
+#EXTINF:-1 tvg-logo="http://imgs.redecanais.link/imgs-videos/RCServer06/imgs-videos/Essas%20Garotas.jpg" group-title="1980",Essas Garotas (1988)
+http://cdn2-d.filmesonline.top/RedeCanais/RCFServer4/ondemand/ESASGRTS.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=ESASGRTS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z7tlp.jpg" group-title="1980",UM PRÍNCIPE EM NOVA YORK (1988)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer2/ondemand/UMPRNCPEMNVYRK.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=UMPRNCPEMNVYRK
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gzm8ogj.jpg" group-title="1980",NAMORADA DE ALUGUEL (1987)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer3/ondemand/NARMDALGL.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=NARMDALGL
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_300_300/medias/nmedia/18/90/43/61/20096488.jpg" group-title="1980",Os Intocáveis (1987)
 http://assistir.querofilmehd.com/filmes/The.Untouchables.1987.720p.BDRip.Dual.DTS.AC3-TFREAKS.mp4
+#EXTINF:-1 tvg-logo="http://imgs.redecanais.link/imgs-videos/RCServer06/imgs-videos/Curtindo%20a%20Vida%20Adoidado.jpg" group-title="1980",Curtindo a Vida Adoidado (1986)
+http://cdn2-d.filmesonline.top/RedeCanais/RCFServer4/ondemand/CRTNDAVDADODA.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=CRTNDAVDADODA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6LBR7t7.jpg" group-title="1980",STALLONE COBRA (1986)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer2/ondemand/STLNECBR.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=STLNECBR
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/O%20%C3%9Altimo%20Guerreiro%20das%20Estrelas.jpg" group-title="1980",O Último Guerreiro das Estrelas (1984)
 http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer4/ondemand/OULTMGURODSESTRLS.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=OULTMGURODSESTRLS
+#EXTINF:-1 tvg-logo="http://imgs.redecanais.link/imgs-videos/RCServer06/imgs-videos/SuperGirl%201984.jpg" group-title="1980",Supergirl (1984)
+http://cdn2-d.filmesonline.top/RedeCanais/RCFServer4/ondemand/SPRGRL1984.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=SPRGRL1984
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2nFVnOz.jpg" group-title="1980",MCQUADE; O LOBO SOLITÁRIO (1983)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer3/ondemand/MCQDOLBSLTR.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=MCQDOLBSLTR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M9al5Uy.jpg" group-title="1980",OS CAÇADORES DE ATLÂNTIDA (1983)
@@ -1441,12 +1519,16 @@ http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer3/ondemand/O
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer1/ondemand/AFNTSCFBRCDCHCLT.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=AFNTSCFBRCDCHCLT
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZhXP7Z5.jpg" group-title="1960",ERA UMA VEZ NO OESTE (1968)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer1/ondemand/ERAUMAVZNOST.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=ERAUMAVZNOST
+#EXTINF:-1 tvg-logo="http://imgs.redecanais.link/imgs-videos/RCServer06/imgs-videos/O%20Submarino%20Amarelo.jpg" group-title="1960",O Submarino Amarelo (1968)
+http://cdn2-d.filmesonline.top/RedeCanais/RCFServer4/ondemand/OSBMRNAMRLO.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=OSBMRNAMRLO
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yuELh97.jpg" group-title="1960",POR UM PUNHADO DE DÓLARES (1966)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer1/ondemand/PRUMPNHDDOLRS.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=PRUMPNHDDOLRS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JeCYVFt.png" group-title="1960",TRÊS HOMENS EM CONFLITO (1966)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer1/ondemand/TSHMNSEMCFLT.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=TSHMNSEMCFLT
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bPzKFWV.jpg" group-title="1960",POR UNS DÓLARES A MAIS (1965)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer1/ondemand/PRUNSDLRSAMS.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=PRUNSDLRSAMS
+#EXTINF:-1 tvg-logo="http://imgs.redecanais.link/imgs-videos/RCServer06/imgs-videos/A%20Espada%20Era%20a%20Lei.jpg" group-title="1960",A Espada Era a Lei (1964)
+http://cdn2-d.filmesonline.top/RedeCanais/RCFServer4/ondemand/AESPDERALEI.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=AESPDERALEI
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nZasa9K.jpg" group-title="1960",DEU A LOUCA NO MUNDO (1963)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer3/ondemand/DEUALUCNMND.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=DEUALUCNMND
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CVcuEmy.jpg" group-title="1960",OS PÁSSAROS (1963)
@@ -1457,6 +1539,10 @@ http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer1/ondemand/S
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer1/ondemand/RSTRSDODIO.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=RSTRSDODIO
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_215_290/pictures/15/11/09/20/22/224034.jpg" group-title="1950",SANSÃO E DALILA (1951)
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCFServer3/ondemand/SNSOEDLA.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=SNSOEDLA
+#EXTINF:-1 tvg-logo="http://imgs.redecanais.link/imgs-videos/RCServer06/imgs-videos/Como%20e%20Bom%20se%20Divertir.jpg" group-title="1940",Como e Bom se Divertir (1947)
+http://cdn2-d.filmesonline.top/RedeCanais/RCFServer4/ondemand/CMEBMSDVRT.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=CMEBMSDVRT
+#EXTINF:-1 tvg-logo="http://imgs.redecanais.link/imgs-videos/RCServer06/imgs-videos/A%20Can%C3%A7%C3%A3o%20do%20Sul.jpg" group-title="1940",A Canção do Sul (1946)
+http://cdn2-d.filmesonline.top/RedeCanais/RCFServer4/ondemand/ACANCDSL.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=ACANCDSL
 #EXTINF:-1 tvg-logo="https://images-br-am.crackle.com/1/c/qm/45dyb_tnl_210x118.jpg" group-title="N/D",1984
 http://media-br-am.crackle.com/1/p/f6/75ylf_480p.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2z2pAEc.jpg" group-title="N/D",A Beira do Abismo

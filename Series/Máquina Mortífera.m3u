@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T2 - Máquina Mortífera",2x07: Aves
-http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCServer13/ondemand/MQNMRTFT02EP07.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=MQNMRTFT02EP07
-#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T2 - Máquina Mortífera",2x08: Fork-Getta-Bout-I
-http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCServer13/ondemand/MQNMRTFT02EP08.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=MQNMRTFT02EP08
-#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T2 - Máquina Mortífera",2x09: Tolos se Apressam
-http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCServer13/ondemand/MQNMRTFT02EP09.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=MQNMRTFT02EP09
-#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T2 - Máquina Mortífera",2x10: Destrua os Corredores
-http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCServer13/ondemand/MQNMRTFT02EP10.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=MQNMRTFT02EP10
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T1 - Máquina Mortífera",T1x01: Piloto
 http://sv1v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCServer11/ondemand/MQNMRTFT01EP01.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=MQNMRTFT01EP01
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T1 - Máquina Mortífera",T1x02: Surf N Turf
@@ -55,3 +47,11 @@ http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCServer13/ondemand/M
 http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCServer13/ondemand/MQNMRTFT02EP05.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=MQNMRTFT02EP05
 #EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T2 - Máquina Mortífera",2x06: Corrida do Ouro
 http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCServer13/ondemand/MQNMRTFT02EP06.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=MQNMRTFT02EP06
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T2 - Máquina Mortífera",2x07: Aves
+http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCServer13/ondemand/MQNMRTFT02EP07.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=MQNMRTFT02EP07
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T2 - Máquina Mortífera",2x08: Fork-Getta-Bout-I
+http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCServer13/ondemand/MQNMRTFT02EP08.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=MQNMRTFT02EP08
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T2 - Máquina Mortífera",2x09: Tolos se Apressam
+http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCServer13/ondemand/MQNMRTFT02EP09.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=MQNMRTFT02EP09
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/M%C3%A1quina%20Mort%C3%ADfera%20Capa.jpg" group-title="T2 - Máquina Mortífera",2x10: Destrua os Corredores
+http://sv2v.cdn.enviandotorpedos.com/RedeCanais/RedeCanais/RCServer13/ondemand/MQNMRTFT02EP10.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=MQNMRTFT02EP10
