@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://imgs.redecanais.ink/imgs-videos/RCServer06/imgs-videos/Lenda%20Urbana.jpg" ,1998 - Lenda Urbana
+https://dhe4e2hrss9gu.cloudfront.net/RedeCanais/RCFServer4/ondemand/LNDURBNA.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=LNDURBNA
+#EXTINF:-1 tvg-logo="https://imgs.redecanais.ink/imgs-videos/RCServer06/imgs-videos/Lenda%20Urbana%202.jpg" ,2000 - Lenda Urbana 2
+https://dhe4e2hrss9gu.cloudfront.net/RedeCanais/RCFServer4/ondemand/LNDURBNA2.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=LNDURBNA2
+#EXTINF:-1 tvg-logo="https://imgs.redecanais.ink/imgs-videos/RCServer06/imgs-videos/Lenda%20Urbana%203.jpg" ,2005 - Lenda Urbana 3: A Vingança de Mary
+https://dhe4e2hrss9gu.cloudfront.net/RedeCanais/RCFServer4/ondemand/LNDURBNA3.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=LNDURBNA3
 #EXTINF:-1 tvg-logo="https://goo.gl/9WG722" ,Lenda Urbana 2
 http://media-br-am.crackle.com/1/p/56/9u1lf_480p.mp4
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-XwKi1VukVYQ/VaeGUHkAGOI/AAAAAAAAAuM/167uUWKLxBw/s1600/Lenda_Urbana_3.jpg" ,Lenda Urbana 3 - A Vinganca de Mary

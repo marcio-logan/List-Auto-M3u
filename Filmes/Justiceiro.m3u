@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/O%20Justiceiro%201989.jpg" ,1989 - O Justiceiro
+https://dhe4e2hrss9gu.cloudfront.net/RedeCanais/RedeCanais/RCFServer4/ondemand/OJSTC1989.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=OJSTC1989
+#EXTINF:-1 tvg-logo="http://server3.redecanais.tv/imgs-videos/O%20Justiceiro%202004.jpg" ,2004 - O Justiceiro
+https://dhe4e2hrss9gu.cloudfront.net/RedeCanais/RedeCanais/RCFServer4/ondemand/OJSTC2004.mp4|Referer=http://redecanais.link/player3/server9.php?gid=0B265dpk7MD54ZjlXR2lTQnVXUkE&vid=OJSTC2004
